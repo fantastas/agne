@@ -14037,7 +14037,7 @@ msgstr ""
 
 #: framework/modules/woocommerce/widgets/woocommerce-dropdown-cart.php:87
 msgid "No products in the cart."
-msgstr ""
+msgstr "Krepšelis tuščias."
 
 #: framework/modules/woocommerce/widgets/woocommerce-dropdown-cart.php:91
 msgid "Cart"

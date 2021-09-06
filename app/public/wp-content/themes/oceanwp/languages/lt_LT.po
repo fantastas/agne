@@ -8,7 +8,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2021-09-06 16:08+0000\n"
+"PO-Revision-Date: 2021-09-06 17:52+0000\n"
 "Last-Translator: \n"
 "Language-Team: Lietuvių kalba\n"
 "X-Generator: Loco https://localise.biz/\n"
@@ -855,7 +855,7 @@ msgstr ""
 
 #: inc/customizer/settings/blog.php:862 inc/customizer/settings/blog.php:1494
 msgid "Categories"
-msgstr ""
+msgstr "Kategorijos"
 
 #: inc/customizer/settings/blog.php:863 inc/customizer/settings/blog.php:1495
 #: inc/helpers.php:3130
@@ -1506,7 +1506,7 @@ msgstr ""
 #: inc/customizer/settings/edd.php:1270
 #: inc/customizer/settings/lifterlms.php:210
 msgid "Description"
-msgstr ""
+msgstr "Aprašymas"
 
 #: inc/customizer/settings/edd.php:1271
 #: inc/customizer/settings/woocommerce.php:1529
@@ -4912,7 +4912,7 @@ msgstr ""
 
 #: inc/oceanwp-strings.php:60
 msgid "Selected:"
-msgstr ""
+msgstr "Pasirinkta:"
 
 #: inc/oceanwp-strings.php:61
 msgid "Out of stock"
@@ -5871,11 +5871,11 @@ msgstr ""
 
 #: woocommerce/result-count.php:63
 msgid "View:"
-msgstr ""
+msgstr "Ekrane rodyti:"
 
 #: woocommerce/result-count.php:66
 msgid "All"
-msgstr ""
+msgstr "Viskas prekes"
 
 #: woocommerce/share.php:21
 msgid "Share on Facebook (opens in a new tab)"

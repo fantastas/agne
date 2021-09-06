@@ -292,7 +292,7 @@ msgstr "Audio"
 #: wp-includes/blocks/archives/block.json
 msgctxt "block title"
 msgid "Archives"
-msgstr "Archyvai"
+msgstr "Titulinis"
 
 #: wp-includes/blocks/gallery/block.json
 msgctxt "block title"
@@ -1051,7 +1051,7 @@ msgstr "%s:"
 #: wp-includes/general-template.php:1711
 msgctxt "post type archive title prefix"
 msgid "Archives:"
-msgstr "Archyvai:"
+msgstr "Titulinis:"
 
 #: wp-includes/general-template.php:1688
 msgctxt "date archive title prefix"
@@ -2049,7 +2049,7 @@ msgstr "Veiksmai"
 #: wp-includes/post.php:2979
 msgctxt "file type group"
 msgid "Archives"
-msgstr "Archyvai"
+msgstr "Titulinis"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:941
 msgid "List of the missing image sizes of the attachment."
@@ -2207,7 +2207,7 @@ msgstr "Rastų failų skaičius: %d"
 msgid "Archive <span class=\"count\">(%s)</span>"
 msgid_plural "Archives <span class=\"count\">(%s)</span>"
 msgstr[0] "Archyvas <span class=\"count\">(%s)</span>"
-msgstr[1] "Archyvai <span class=\"count\">(%s)</span>"
+msgstr[1] "Titulinis <span class=\"count\">(%s)</span>"
 msgstr[2] "Archyvų <span class=\"count\">(%s)</span>"
 
 #: wp-includes/post.php:2980
@@ -5449,7 +5449,7 @@ msgstr "Video sustabdytas."
 #: wp-includes/theme.php:2180
 msgctxt "Theme starter content"
 msgid "Archives"
-msgstr "Archyvai"
+msgstr "Titulinis"
 
 #: wp-includes/theme.php:2332
 msgctxt "Theme starter content"
@@ -7748,11 +7748,11 @@ msgstr "Filtruoti įrašų sąrašą"
 
 #: wp-includes/post.php:1803
 msgid "Page Archives"
-msgstr "Puslapių archyvai"
+msgstr "Puslapių Titulinis"
 
 #: wp-includes/post.php:1803
 msgid "Post Archives"
-msgstr "Įrašų archyvai"
+msgstr "Įrašų Titulinis"
 
 #: wp-includes/class-wp-customize-nav-menus.php:197
 #: wp-includes/customize/class-wp-customize-nav-menu-item-setting.php:320
@@ -14995,7 +14995,7 @@ msgstr "Vartotojo vardas"
 #: wp-includes/widgets/class-wp-widget-archives.php:44
 #: wp-admin/includes/file.php:26 wp-admin/includes/upgrade.php:411
 msgid "Archives"
-msgstr "Archyvai"
+msgstr "Titulinis"
 
 #: wp-includes/widgets.php:185 wp-admin/includes/file.php:19
 #: wp-admin/widgets-form.php:299

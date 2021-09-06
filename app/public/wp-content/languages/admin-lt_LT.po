@@ -10135,7 +10135,7 @@ msgstr "testinis-irasas"
 #: wp-admin/options-permalink.php:228 wp-admin/options-permalink.php:248
 msgctxt "sample permalink base"
 msgid "archives"
-msgstr "archyvai"
+msgstr "Titulinis"
 
 #. translators: %s: URL to Import screen on the main site.
 #: wp-admin/import.php:165

@@ -683,12 +683,10 @@ body.content-full-screen #content-wrap {
 }
 
 .content-left-sidebar .content-area {
-  float: right;
   position: relative;
-  width: 72%;
+  width: 100%;
   padding-right: 0;
   border-right: 0;
-  padding-left: 30px;
   border-left: 1px solid #f1f1f1;
 }
 

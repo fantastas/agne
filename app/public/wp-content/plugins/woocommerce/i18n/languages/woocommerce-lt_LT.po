@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2021-08-17T19:57:19+00:00\n"
-"PO-Revision-Date: 2021-09-06 18:44+0000\n"
+"PO-Revision-Date: 2021-09-06 19:41+0000\n"
 "X-Generator: Loco https://localise.biz/\n"
 "X-Domain: woocommerce\n"
 "Language: lt_LT\n"
@@ -9589,7 +9589,7 @@ msgstr ""
 
 #: includes/admin/class-wc-admin-pointers.php:141
 msgid "Prices"
-msgstr ""
+msgstr "Kainos"
 
 #: includes/admin/class-wc-admin-pointers.php:142
 msgid "Next you need to give your product a price."
@@ -11277,7 +11277,7 @@ msgstr ""
 #: packages/woocommerce-blocks/build/reviews-by-product.js:1
 #: packages/woocommerce-blocks/build/single-product.js:1
 msgid "Products"
-msgstr ""
+msgstr "Prekės"
 
 #: includes/admin/class-wc-admin-taxonomies.php:131
 #: includes/admin/class-wc-admin-taxonomies.php:239
@@ -12259,7 +12259,7 @@ msgstr ""
 #: packages/woocommerce-blocks/build/price-filter-frontend.js:1
 #: packages/woocommerce-blocks/build/price-filter.js:3
 msgid "Price"
-msgstr ""
+msgstr "Kaina"
 
 #: includes/admin/importers/class-wc-product-csv-importer-controller.php:690
 msgctxt "Quantity in stock"
@@ -12457,7 +12457,7 @@ msgstr ""
 #: templates/emails/email-order-details.php:43
 #: templates/global/quantity-input.php:28
 msgid "Quantity"
-msgstr ""
+msgstr "Kiekis"
 
 #: includes/admin/importers/mappings/generic.php:26
 #: includes/admin/meta-boxes/views/html-product-data-advanced.php:28
@@ -12538,7 +12538,7 @@ msgstr ""
 #: packages/woocommerce-blocks/build/reviews-by-product.js:17
 #: packages/woocommerce-blocks/build/single-product.js:5
 msgid "Product"
-msgstr ""
+msgstr "Prekė"
 
 #: includes/admin/importers/views/html-csv-import-done.php:70
 msgid "Reason for failure"
@@ -18237,7 +18237,7 @@ msgstr ""
 #: packages/woocommerce-blocks/build/atomic-block-components/sale-badge-frontend.js:1
 #: packages/woocommerce-blocks/build/atomic-block-components/sale-badge.js:1
 msgid "Sale"
-msgstr ""
+msgstr "Išpardavimas"
 
 #: includes/admin/views/html-bulk-edit-product.php:52
 msgid "Increase existing sale price by (fixed amount or %):"
@@ -18545,7 +18545,7 @@ msgstr ""
 
 #: includes/class-wc-ajax.php:282 templates/cart/cart-empty.php:35
 msgid "Return to shop"
-msgstr ""
+msgstr "Grįžti į parduotuvę."
 
 #: includes/class-wc-ajax.php:892 includes/class-wc-ajax.php:924
 #: includes/class-wc-ajax.php:1013 includes/class-wc-ajax.php:1077
@@ -29802,11 +29802,11 @@ msgstr "Naujausi viršuje"
 
 #: includes/wc-template-functions.php:1454
 msgid "Sort by price: low to high"
-msgstr "Rikiuoti pagal kaina didėjančia tvarka"
+msgstr "Rikiuoti pagal kaina mažėjančia tvarka"
 
 #: includes/wc-template-functions.php:1455
 msgid "Sort by price: high to low"
-msgstr "Rikiuoti pagal kaina mažėjančia tvarka"
+msgstr "Rikiuoti pagal kaina didėjančia tvarka"
 
 #: includes/wc-template-functions.php:1465
 msgid "Relevance"
@@ -29857,7 +29857,7 @@ msgstr ""
 
 #: includes/wc-template-functions.php:3616
 msgid "Your cart is currently empty."
-msgstr ""
+msgstr "Krepšelyje prekių nėra."
 
 #: includes/wc-term-functions.php:234
 #: includes/widgets/class-wc-widget-product-categories.php:266
@@ -35855,7 +35855,7 @@ msgstr ""
 #: packages/woocommerce-blocks/build/cart-frontend.js:39
 #: packages/woocommerce-blocks/build/cart.js:39
 msgid "Cart totals"
-msgstr ""
+msgstr "Viso mokėti"
 
 #: templates/cart/cart-totals.php:30 templates/cart/cart-totals.php:31
 #: templates/cart/cart.php:33 templates/cart/cart.php:125
@@ -35881,7 +35881,7 @@ msgstr ""
 
 #: templates/cart/cart.php:148
 msgid "Update cart"
-msgstr ""
+msgstr "Atnaujinti krepšelį"
 
 #: templates/cart/cross-sells.php:24
 msgid "You may be interested in&hellip;"
@@ -36244,7 +36244,7 @@ msgstr[2] ""
 
 #: templates/loop/sale-flash.php:27 templates/single-product/sale-flash.php:27
 msgid "Sale!"
-msgstr ""
+msgstr "Išpardavimas!"
 
 #. translators: 1: user display name 2: logout url
 #: templates/myaccount/dashboard.php:35
@@ -38245,7 +38245,7 @@ msgstr ""
 #: packages/woocommerce-blocks/build/atomic-block-components/stock-indicator-frontend.js:3
 #: packages/woocommerce-blocks/build/atomic-block-components/stock-indicator.js:3
 msgid "Out of Stock"
-msgstr ""
+msgstr "Prekės sandelyje nėra."
 
 #: packages/woocommerce-admin/dist/chunks/analytics-report-stock.js:1
 msgid "Low Stock"
@@ -38265,7 +38265,7 @@ msgstr ""
 
 #: packages/woocommerce-admin/dist/chunks/analytics-report-stock.js:1
 msgid "out of stock"
-msgstr ""
+msgstr "Prekės sandelyje nėra."
 
 #: packages/woocommerce-admin/dist/chunks/analytics-report-stock.js:1
 msgid "low stock"
@@ -42111,7 +42111,7 @@ msgstr ""
 #: packages/woocommerce-blocks/assets/js/blocks/cart-checkout/cart/empty-cart-edit/index.js:46
 #: packages/woocommerce-blocks/build/cart.js:41
 msgid "Your cart is currently empty!"
-msgstr ""
+msgstr "Krepšelyje prekių nėra."
 
 #: packages/woocommerce-blocks/assets/js/blocks/cart-checkout/cart/empty-cart-edit/index.js:65
 #: packages/woocommerce-blocks/build/cart.js:41

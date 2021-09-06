@@ -84,7 +84,7 @@ class BridgeQodeWoocommerceDropdownCart extends WP_Widget {
 							<?php endforeach; ?>
 
 						<?php else : ?>
-							<li><?php esc_html_e( 'No products in the cart.', 'bridge' ); ?></li>
+							<li><?php esc_html_e( 'Krepšelis tuščias.', 'bridge' ); ?></li>
 						<?php endif; ?>
 					</ul>
 				</div>

@@ -1080,6 +1080,29 @@ if ( ! function_exists( 'owp_fs' ) ) {
 	}
 }
 
+
+// To change add to cart text on single product page
+add_filter( 'woocommerce_product_single_add_to_cart_text', 'woocommerce_custom_single_add_to_cart_text' ); 
+function woocommerce_custom_single_add_to_cart_text() {
+    return __( 'Pirkti', 'woocommerce' ); 
+}
+
+// To change add to cart text on product archives(Collection) page
+add_filter( 'woocommerce_product_add_to_cart_text', 'woocommerce_custom_product_add_to_cart_text' );  
+function woocommerce_custom_product_add_to_cart_text() {
+    return __( 'Pirkti', 'woocommerce' );
+}
+
+
+
+
+// Alter WooCommerce Subtotal Text
+add_filter( 'gettext', function( $translated_text ) {
+    if ( 'Subtotal' === $translated_text ) {
+        $translated_text = 'Suma';
+    }
+    return $translated_text;
+} );
 // endregion
 
 new OCEANWP_Theme_Class();

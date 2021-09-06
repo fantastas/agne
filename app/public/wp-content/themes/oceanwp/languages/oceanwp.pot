@@ -5817,7 +5817,7 @@ msgstr ""
 
 #: woocommerce/cart/mini-cart.php:112
 msgid "No products in the cart."
-msgstr ""
+msgstr "Krepšelis tuščias."
 
 #: woocommerce/checkout/checkout-timeline.php:51
 msgid "Billing"

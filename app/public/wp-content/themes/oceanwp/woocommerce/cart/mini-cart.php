@@ -109,7 +109,7 @@ do_action( 'woocommerce_before_mini_cart' ); ?>
 
 <?php else : ?>
 
-	<p class="woocommerce-mini-cart__empty-message"><?php esc_html_e( 'No products in the cart.', 'oceanwp' ); ?></p>
+	<p class="woocommerce-mini-cart__empty-message"><?php esc_html_e( 'Krepšelis tuščias.', 'oceanwp' ); ?></p>
 
 <?php endif; ?>
 

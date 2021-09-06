@@ -348,3 +348,4 @@
 [06-Sep-2021 11:40:22 UTC] PHP  11. WP_Hook->apply_filters() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:327
 [06-Sep-2021 11:40:22 UTC] PHP  12. wp_update_themes() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:301
 [06-Sep-2021 11:40:22 UTC] PHP  13. trigger_error() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/update.php:693
+[06-Sep-2021 14:32:54 UTC] [Loco.warning] "This is NOT a translation file. Manual editing of source strings is not recommended." in src/admin/file/EditController.php:159

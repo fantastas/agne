@@ -1,0 +1,350 @@
+[04-Sep-2021 11:57:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/includes/theme.php on line 605
+[04-Sep-2021 11:57:41 UTC] PHP Stack trace:
+[04-Sep-2021 11:57:41 UTC] PHP   1. {main}() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/admin-ajax.php:0
+[04-Sep-2021 11:57:41 UTC] PHP   2. do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/admin-ajax.php:187
+[04-Sep-2021 11:57:41 UTC] PHP   3. WP_Hook->do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/plugin.php:470
+[04-Sep-2021 11:57:41 UTC] PHP   4. WP_Hook->apply_filters() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:327
+[04-Sep-2021 11:57:41 UTC] PHP   5. wp_ajax_query_themes() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:303
+[04-Sep-2021 11:57:41 UTC] PHP   6. themes_api() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/includes/ajax-actions.php:3551
+[04-Sep-2021 12:25:53 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/update.php on line 175
+[04-Sep-2021 12:25:53 UTC] PHP Stack trace:
+[04-Sep-2021 12:25:53 UTC] PHP   1. {main}() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/update.php:0
+[04-Sep-2021 12:25:53 UTC] PHP   2. Theme_Upgrader->install() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/update.php:314
+[04-Sep-2021 12:25:53 UTC] PHP   3. Theme_Upgrader->run() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/includes/class-theme-upgrader.php:250
+[04-Sep-2021 12:25:53 UTC] PHP   4. do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/includes/class-wp-upgrader.php:857
+[04-Sep-2021 12:25:53 UTC] PHP   5. WP_Hook->do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/plugin.php:470
+[04-Sep-2021 12:25:53 UTC] PHP   6. WP_Hook->apply_filters() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:327
+[04-Sep-2021 12:25:53 UTC] PHP   7. wp_version_check() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:301
+[04-Sep-2021 12:25:53 UTC] PHP   8. trigger_error() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/update.php:175
+[04-Sep-2021 12:25:59 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/update.php on line 413
+[04-Sep-2021 12:25:59 UTC] PHP Stack trace:
+[04-Sep-2021 12:25:59 UTC] PHP   1. {main}() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/update.php:0
+[04-Sep-2021 12:25:59 UTC] PHP   2. Theme_Upgrader->install() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/update.php:314
+[04-Sep-2021 12:25:59 UTC] PHP   3. Theme_Upgrader->run() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/includes/class-theme-upgrader.php:250
+[04-Sep-2021 12:25:59 UTC] PHP   4. do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/includes/class-wp-upgrader.php:857
+[04-Sep-2021 12:25:59 UTC] PHP   5. WP_Hook->do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/plugin.php:470
+[04-Sep-2021 12:25:59 UTC] PHP   6. WP_Hook->apply_filters() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:327
+[04-Sep-2021 12:25:59 UTC] PHP   7. wp_update_plugins() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:301
+[04-Sep-2021 12:25:59 UTC] PHP   8. trigger_error() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/update.php:413
+[04-Sep-2021 12:26:05 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/update.php on line 693
+[04-Sep-2021 12:26:05 UTC] PHP Stack trace:
+[04-Sep-2021 12:26:05 UTC] PHP   1. {main}() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/update.php:0
+[04-Sep-2021 12:26:05 UTC] PHP   2. Theme_Upgrader->install() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/update.php:314
+[04-Sep-2021 12:26:05 UTC] PHP   3. Theme_Upgrader->run() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/includes/class-theme-upgrader.php:250
+[04-Sep-2021 12:26:05 UTC] PHP   4. do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/includes/class-wp-upgrader.php:857
+[04-Sep-2021 12:26:05 UTC] PHP   5. WP_Hook->do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/plugin.php:470
+[04-Sep-2021 12:26:05 UTC] PHP   6. WP_Hook->apply_filters() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:327
+[04-Sep-2021 12:26:05 UTC] PHP   7. wp_update_themes() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:301
+[04-Sep-2021 12:26:05 UTC] PHP   8. trigger_error() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/update.php:693
+[04-Sep-2021 12:33:15 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/includes/plugin-install.php on line 183
+[04-Sep-2021 12:33:15 UTC] PHP Stack trace:
+[04-Sep-2021 12:33:15 UTC] PHP   1. {main}() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/themes.php:0
+[04-Sep-2021 12:33:15 UTC] PHP   2. require_once() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/themes.php:10
+[04-Sep-2021 12:33:15 UTC] PHP   3. do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/admin.php:259
+[04-Sep-2021 12:33:15 UTC] PHP   4. WP_Hook->do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/plugin.php:470
+[04-Sep-2021 12:33:15 UTC] PHP   5. WP_Hook->apply_filters() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:327
+[04-Sep-2021 12:33:15 UTC] PHP   6. TGM_Plugin_Activation->install_plugins_page() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:303
+[04-Sep-2021 12:33:15 UTC] PHP   7. TGMPA_List_Table->process_bulk_actions() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/oceanwp/inc/plugins/class-tgm-plugin-activation.php:658
+[04-Sep-2021 12:33:15 UTC] PHP   8. TGM_Plugin_Activation->get_download_url() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/oceanwp/inc/plugins/class-tgm-plugin-activation.php:2845
+[04-Sep-2021 12:33:15 UTC] PHP   9. TGM_Plugin_Activation->get_wp_repo_download_url() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/oceanwp/inc/plugins/class-tgm-plugin-activation.php:1513
+[04-Sep-2021 12:33:15 UTC] PHP  10. TGM_Plugin_Activation->get_plugins_api() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/oceanwp/inc/plugins/class-tgm-plugin-activation.php:1533
+[04-Sep-2021 12:33:15 UTC] PHP  11. plugins_api() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/oceanwp/inc/plugins/class-tgm-plugin-activation.php:1558
+[04-Sep-2021 12:33:15 UTC] PHP  12. trigger_error() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/includes/plugin-install.php:183
+[04-Sep-2021 12:35:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/includes/misc.php:1281) in /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/pluggable.php on line 1340
+[04-Sep-2021 12:35:24 UTC] PHP Stack trace:
+[04-Sep-2021 12:35:24 UTC] PHP   1. {main}() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/themes.php:0
+[04-Sep-2021 12:35:24 UTC] PHP   2. require_once() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/themes.php:10
+[04-Sep-2021 12:35:24 UTC] PHP   3. do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/admin.php:259
+[04-Sep-2021 12:35:24 UTC] PHP   4. WP_Hook->do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/plugin.php:470
+[04-Sep-2021 12:35:24 UTC] PHP   5. WP_Hook->apply_filters() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:327
+[04-Sep-2021 12:35:24 UTC] PHP   6. TGM_Plugin_Activation->install_plugins_page() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:303
+[04-Sep-2021 12:35:24 UTC] PHP   7. TGMPA_List_Table->process_bulk_actions() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/oceanwp/inc/plugins/class-tgm-plugin-activation.php:658
+[04-Sep-2021 12:35:24 UTC] PHP   8. TGMPA_Bulk_Installer->bulk_install() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/oceanwp/inc/plugins/class-tgm-plugin-activation.php:2892
+[04-Sep-2021 12:35:24 UTC] PHP   9. TGMPA_Bulk_Installer->run() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/oceanwp/inc/plugins/class-tgm-plugin-activation.php:3286
+[04-Sep-2021 12:35:24 UTC] PHP  10. TGMPA_Bulk_Installer->run() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/oceanwp/inc/plugins/class-tgm-plugin-activation.php:3173
+[04-Sep-2021 12:35:24 UTC] PHP  11. TGMPA_Bulk_Installer->install_package() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/includes/class-wp-upgrader.php:797
+[04-Sep-2021 12:35:24 UTC] PHP  12. apply_filters() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/includes/class-wp-upgrader.php:624
+[04-Sep-2021 12:35:24 UTC] PHP  13. WP_Hook->apply_filters() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/plugin.php:189
+[04-Sep-2021 12:35:24 UTC] PHP  14. TGMPA_Bulk_Installer->auto_activate() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:305
+[04-Sep-2021 12:35:24 UTC] PHP  15. activate_plugin() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/oceanwp/inc/plugins/class-tgm-plugin-activation.php:3383
+[04-Sep-2021 12:35:24 UTC] PHP  16. do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/includes/plugin.php:698
+[04-Sep-2021 12:35:24 UTC] PHP  17. WP_Hook->do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/plugin.php:470
+[04-Sep-2021 12:35:24 UTC] PHP  18. WP_Hook->apply_filters() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:327
+[04-Sep-2021 12:35:24 UTC] PHP  19. Ocean_Extra_Theme_Wizard::install() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:303
+[04-Sep-2021 12:35:24 UTC] PHP  20. wp_safe_redirect() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/plugins/ocean-extra/includes/wizard/wizard.php:45
+[04-Sep-2021 12:35:24 UTC] PHP  21. wp_redirect() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/pluggable.php:1448
+[04-Sep-2021 12:35:24 UTC] PHP  22. header() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/pluggable.php:1340
+[04-Sep-2021 12:35:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/includes/misc.php:1281) in /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/pluggable.php on line 1343
+[04-Sep-2021 12:35:24 UTC] PHP Stack trace:
+[04-Sep-2021 12:35:24 UTC] PHP   1. {main}() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/themes.php:0
+[04-Sep-2021 12:35:24 UTC] PHP   2. require_once() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/themes.php:10
+[04-Sep-2021 12:35:24 UTC] PHP   3. do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/admin.php:259
+[04-Sep-2021 12:35:24 UTC] PHP   4. WP_Hook->do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/plugin.php:470
+[04-Sep-2021 12:35:24 UTC] PHP   5. WP_Hook->apply_filters() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:327
+[04-Sep-2021 12:35:24 UTC] PHP   6. TGM_Plugin_Activation->install_plugins_page() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:303
+[04-Sep-2021 12:35:24 UTC] PHP   7. TGMPA_List_Table->process_bulk_actions() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/oceanwp/inc/plugins/class-tgm-plugin-activation.php:658
+[04-Sep-2021 12:35:24 UTC] PHP   8. TGMPA_Bulk_Installer->bulk_install() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/oceanwp/inc/plugins/class-tgm-plugin-activation.php:2892
+[04-Sep-2021 12:35:24 UTC] PHP   9. TGMPA_Bulk_Installer->run() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/oceanwp/inc/plugins/class-tgm-plugin-activation.php:3286
+[04-Sep-2021 12:35:24 UTC] PHP  10. TGMPA_Bulk_Installer->run() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/oceanwp/inc/plugins/class-tgm-plugin-activation.php:3173
+[04-Sep-2021 12:35:24 UTC] PHP  11. TGMPA_Bulk_Installer->install_package() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/includes/class-wp-upgrader.php:797
+[04-Sep-2021 12:35:24 UTC] PHP  12. apply_filters() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/includes/class-wp-upgrader.php:624
+[04-Sep-2021 12:35:24 UTC] PHP  13. WP_Hook->apply_filters() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/plugin.php:189
+[04-Sep-2021 12:35:24 UTC] PHP  14. TGMPA_Bulk_Installer->auto_activate() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:305
+[04-Sep-2021 12:35:24 UTC] PHP  15. activate_plugin() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/oceanwp/inc/plugins/class-tgm-plugin-activation.php:3383
+[04-Sep-2021 12:35:24 UTC] PHP  16. do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/includes/plugin.php:698
+[04-Sep-2021 12:35:24 UTC] PHP  17. WP_Hook->do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/plugin.php:470
+[04-Sep-2021 12:35:24 UTC] PHP  18. WP_Hook->apply_filters() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:327
+[04-Sep-2021 12:35:24 UTC] PHP  19. Ocean_Extra_Theme_Wizard::install() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:303
+[04-Sep-2021 12:35:24 UTC] PHP  20. wp_safe_redirect() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/plugins/ocean-extra/includes/wizard/wizard.php:45
+[04-Sep-2021 12:35:24 UTC] PHP  21. wp_redirect() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/pluggable.php:1448
+[04-Sep-2021 12:35:24 UTC] PHP  22. header() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/pluggable.php:1343
+[04-Sep-2021 12:35:27 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/update.php on line 175
+[04-Sep-2021 12:35:27 UTC] PHP Stack trace:
+[04-Sep-2021 12:35:27 UTC] PHP   1. {main}() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/themes.php:0
+[04-Sep-2021 12:35:27 UTC] PHP   2. require_once() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/themes.php:10
+[04-Sep-2021 12:35:27 UTC] PHP   3. do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/admin.php:259
+[04-Sep-2021 12:35:27 UTC] PHP   4. WP_Hook->do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/plugin.php:470
+[04-Sep-2021 12:35:27 UTC] PHP   5. WP_Hook->apply_filters() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:327
+[04-Sep-2021 12:35:27 UTC] PHP   6. TGM_Plugin_Activation->install_plugins_page() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:303
+[04-Sep-2021 12:35:27 UTC] PHP   7. TGMPA_List_Table->process_bulk_actions() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/oceanwp/inc/plugins/class-tgm-plugin-activation.php:658
+[04-Sep-2021 12:35:27 UTC] PHP   8. TGMPA_Bulk_Installer->bulk_install() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/oceanwp/inc/plugins/class-tgm-plugin-activation.php:2892
+[04-Sep-2021 12:35:27 UTC] PHP   9. do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/oceanwp/inc/plugins/class-tgm-plugin-activation.php:3321
+[04-Sep-2021 12:35:27 UTC] PHP  10. WP_Hook->do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/plugin.php:470
+[04-Sep-2021 12:35:27 UTC] PHP  11. WP_Hook->apply_filters() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:327
+[04-Sep-2021 12:35:27 UTC] PHP  12. wp_version_check() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:301
+[04-Sep-2021 12:35:27 UTC] PHP  13. trigger_error() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/update.php:175
+[04-Sep-2021 12:35:33 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/update.php on line 413
+[04-Sep-2021 12:35:33 UTC] PHP Stack trace:
+[04-Sep-2021 12:35:33 UTC] PHP   1. {main}() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/themes.php:0
+[04-Sep-2021 12:35:33 UTC] PHP   2. require_once() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/themes.php:10
+[04-Sep-2021 12:35:33 UTC] PHP   3. do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/admin.php:259
+[04-Sep-2021 12:35:33 UTC] PHP   4. WP_Hook->do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/plugin.php:470
+[04-Sep-2021 12:35:33 UTC] PHP   5. WP_Hook->apply_filters() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:327
+[04-Sep-2021 12:35:33 UTC] PHP   6. TGM_Plugin_Activation->install_plugins_page() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:303
+[04-Sep-2021 12:35:33 UTC] PHP   7. TGMPA_List_Table->process_bulk_actions() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/oceanwp/inc/plugins/class-tgm-plugin-activation.php:658
+[04-Sep-2021 12:35:33 UTC] PHP   8. TGMPA_Bulk_Installer->bulk_install() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/oceanwp/inc/plugins/class-tgm-plugin-activation.php:2892
+[04-Sep-2021 12:35:33 UTC] PHP   9. do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/oceanwp/inc/plugins/class-tgm-plugin-activation.php:3321
+[04-Sep-2021 12:35:33 UTC] PHP  10. WP_Hook->do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/plugin.php:470
+[04-Sep-2021 12:35:33 UTC] PHP  11. WP_Hook->apply_filters() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:327
+[04-Sep-2021 12:35:33 UTC] PHP  12. wp_update_plugins() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:301
+[04-Sep-2021 12:35:33 UTC] PHP  13. trigger_error() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/update.php:413
+[04-Sep-2021 12:35:39 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/update.php on line 693
+[04-Sep-2021 12:35:39 UTC] PHP Stack trace:
+[04-Sep-2021 12:35:39 UTC] PHP   1. {main}() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/themes.php:0
+[04-Sep-2021 12:35:39 UTC] PHP   2. require_once() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/themes.php:10
+[04-Sep-2021 12:35:39 UTC] PHP   3. do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/admin.php:259
+[04-Sep-2021 12:35:39 UTC] PHP   4. WP_Hook->do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/plugin.php:470
+[04-Sep-2021 12:35:39 UTC] PHP   5. WP_Hook->apply_filters() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:327
+[04-Sep-2021 12:35:39 UTC] PHP   6. TGM_Plugin_Activation->install_plugins_page() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:303
+[04-Sep-2021 12:35:39 UTC] PHP   7. TGMPA_List_Table->process_bulk_actions() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/oceanwp/inc/plugins/class-tgm-plugin-activation.php:658
+[04-Sep-2021 12:35:39 UTC] PHP   8. TGMPA_Bulk_Installer->bulk_install() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/oceanwp/inc/plugins/class-tgm-plugin-activation.php:2892
+[04-Sep-2021 12:35:39 UTC] PHP   9. do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/oceanwp/inc/plugins/class-tgm-plugin-activation.php:3321
+[04-Sep-2021 12:35:39 UTC] PHP  10. WP_Hook->do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/plugin.php:470
+[04-Sep-2021 12:35:39 UTC] PHP  11. WP_Hook->apply_filters() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:327
+[04-Sep-2021 12:35:39 UTC] PHP  12. wp_update_themes() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:301
+[04-Sep-2021 12:35:39 UTC] PHP  13. trigger_error() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/update.php:693
+[04-Sep-2021 13:50:58 UTC] WordPress database error Table 'local.wp_woocommerce_sessions' doesn't exist for query SELECT session_value FROM wp_woocommerce_sessions WHERE session_key = '1' made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, WooCommerce->init, wc_load_cart, WooCommerce->initialize_session, WC_Session_Handler->init, WC_Session_Handler->init_session_cookie, WC_Session_Handler->get_session_data, WC_Session_Handler->get_session
+[04-Sep-2021 13:50:58 UTC] WordPress database error Table 'local.wp_wc_webhooks' doesn't exist for query SELECT webhook_id
+				FROM wp_wc_webhooks
+				WHERE 1=1
+				AND `status` = 'active'
+				
+				
+				
+				
+				
+				ORDER BY webhook_id DESC made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, WooCommerce->init, WooCommerce->load_webhooks, wc_load_webhooks, WC_Data_Store->__call, WC_Webhook_Data_Store->get_webhooks_ids, WC_Webhook_Data_Store->search_webhooks
+[04-Sep-2021 13:50:58 UTC] WordPress database error Table 'local.wp_woocommerce_attribute_taxonomies' doesn't exist for query SELECT * FROM wp_woocommerce_attribute_taxonomies WHERE attribute_name != '' ORDER BY attribute_name ASC; made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Post_Types::register_taxonomies, wc_get_attribute_taxonomies
+[06-Sep-2021 11:29:01 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/includes/update.php on line 143
+[06-Sep-2021 11:29:01 UTC] PHP Stack trace:
+[06-Sep-2021 11:29:01 UTC] PHP   1. {main}() /Users/mariussurvila/Local Sites/agne/app/public/wp-cron.php:0
+[06-Sep-2021 11:29:01 UTC] PHP   2. do_action_ref_array() /Users/mariussurvila/Local Sites/agne/app/public/wp-cron.php:138
+[06-Sep-2021 11:29:01 UTC] PHP   3. WP_Hook->do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/plugin.php:518
+[06-Sep-2021 11:29:01 UTC] PHP   4. WP_Hook->apply_filters() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:327
+[06-Sep-2021 11:29:01 UTC] PHP   5. WP_Site_Health->wp_cron_scheduled_check() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:303
+[06-Sep-2021 11:29:01 UTC] PHP   6. WP_Site_Health->perform_test() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/includes/class-wp-site-health.php:2762
+[06-Sep-2021 11:29:01 UTC] PHP   7. WP_Site_Health->get_test_background_updates() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/includes/class-wp-site-health.php:192
+[06-Sep-2021 11:29:01 UTC] PHP   8. WP_Site_Health_Auto_Updates->run_tests() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/includes/class-wp-site-health.php:1802
+[06-Sep-2021 11:29:01 UTC] PHP   9. WP_Site_Health_Auto_Updates->test_all_files_writable() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/includes/class-wp-site-health-auto-updates.php:37
+[06-Sep-2021 11:29:01 UTC] PHP  10. get_core_checksums() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/includes/class-wp-site-health-auto-updates.php:332
+[06-Sep-2021 11:29:01 UTC] PHP  11. trigger_error() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/includes/update.php:143
+[06-Sep-2021 11:34:20 UTC] PHP Warning:  sprintf(): Too few arguments in /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[06-Sep-2021 11:34:20 UTC] PHP Stack trace:
+[06-Sep-2021 11:34:20 UTC] PHP   1. {main}() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/themes.php:0
+[06-Sep-2021 11:34:20 UTC] PHP   2. require_once() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/themes.php:10
+[06-Sep-2021 11:34:20 UTC] PHP   3. do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/admin.php:259
+[06-Sep-2021 11:34:20 UTC] PHP   4. WP_Hook->do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/plugin.php:470
+[06-Sep-2021 11:34:20 UTC] PHP   5. WP_Hook->apply_filters() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:327
+[06-Sep-2021 11:34:20 UTC] PHP   6. TGM_Plugin_Activation->install_plugins_page() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:303
+[06-Sep-2021 11:34:20 UTC] PHP   7. TGMPA_List_Table->process_bulk_actions() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/bridge/includes/plugins/class-tgm-plugin-activation.php:743
+[06-Sep-2021 11:34:20 UTC] PHP   8. TGMPA_Bulk_Installer->bulk_install() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/bridge/includes/plugins/class-tgm-plugin-activation.php:2977
+[06-Sep-2021 11:34:20 UTC] PHP   9. TGMPA_Bulk_Installer->run() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/bridge/includes/plugins/class-tgm-plugin-activation.php:3371
+[06-Sep-2021 11:34:20 UTC] PHP  10. TGMPA_Bulk_Installer->run() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/bridge/includes/plugins/class-tgm-plugin-activation.php:3258
+[06-Sep-2021 11:34:20 UTC] PHP  11. TGMPA_Bulk_Installer_Skin->after() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/includes/class-wp-upgrader.php:823
+[06-Sep-2021 11:34:20 UTC] PHP  12. TGMPA_Bulk_Installer_Skin->after() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/bridge/includes/plugins/class-tgm-plugin-activation.php:3638
+[06-Sep-2021 11:34:20 UTC] PHP  13. sprintf() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/includes/class-bulk-upgrader-skin.php:152
+[06-Sep-2021 11:34:33 UTC] PHP Warning:  sprintf(): Too few arguments in /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[06-Sep-2021 11:34:33 UTC] PHP Stack trace:
+[06-Sep-2021 11:34:33 UTC] PHP   1. {main}() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/themes.php:0
+[06-Sep-2021 11:34:33 UTC] PHP   2. require_once() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/themes.php:10
+[06-Sep-2021 11:34:33 UTC] PHP   3. do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/admin.php:259
+[06-Sep-2021 11:34:33 UTC] PHP   4. WP_Hook->do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/plugin.php:470
+[06-Sep-2021 11:34:33 UTC] PHP   5. WP_Hook->apply_filters() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:327
+[06-Sep-2021 11:34:33 UTC] PHP   6. TGM_Plugin_Activation->install_plugins_page() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:303
+[06-Sep-2021 11:34:33 UTC] PHP   7. TGMPA_List_Table->process_bulk_actions() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/bridge/includes/plugins/class-tgm-plugin-activation.php:743
+[06-Sep-2021 11:34:33 UTC] PHP   8. TGMPA_Bulk_Installer->bulk_install() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/bridge/includes/plugins/class-tgm-plugin-activation.php:2977
+[06-Sep-2021 11:34:33 UTC] PHP   9. TGMPA_Bulk_Installer->run() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/bridge/includes/plugins/class-tgm-plugin-activation.php:3371
+[06-Sep-2021 11:34:33 UTC] PHP  10. TGMPA_Bulk_Installer->run() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/bridge/includes/plugins/class-tgm-plugin-activation.php:3258
+[06-Sep-2021 11:34:33 UTC] PHP  11. TGMPA_Bulk_Installer_Skin->after() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/includes/class-wp-upgrader.php:823
+[06-Sep-2021 11:34:33 UTC] PHP  12. TGMPA_Bulk_Installer_Skin->after() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/bridge/includes/plugins/class-tgm-plugin-activation.php:3638
+[06-Sep-2021 11:34:33 UTC] PHP  13. sprintf() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/includes/class-bulk-upgrader-skin.php:152
+[06-Sep-2021 11:36:38 UTC] PHP Warning:  sprintf(): Too few arguments in /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[06-Sep-2021 11:36:38 UTC] PHP Stack trace:
+[06-Sep-2021 11:36:38 UTC] PHP   1. {main}() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/themes.php:0
+[06-Sep-2021 11:36:38 UTC] PHP   2. require_once() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/themes.php:10
+[06-Sep-2021 11:36:38 UTC] PHP   3. do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/admin.php:259
+[06-Sep-2021 11:36:38 UTC] PHP   4. WP_Hook->do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/plugin.php:470
+[06-Sep-2021 11:36:38 UTC] PHP   5. WP_Hook->apply_filters() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:327
+[06-Sep-2021 11:36:38 UTC] PHP   6. TGM_Plugin_Activation->install_plugins_page() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:303
+[06-Sep-2021 11:36:38 UTC] PHP   7. TGMPA_List_Table->process_bulk_actions() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/bridge/includes/plugins/class-tgm-plugin-activation.php:743
+[06-Sep-2021 11:36:38 UTC] PHP   8. TGMPA_Bulk_Installer->bulk_install() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/bridge/includes/plugins/class-tgm-plugin-activation.php:2977
+[06-Sep-2021 11:36:38 UTC] PHP   9. TGMPA_Bulk_Installer->run() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/bridge/includes/plugins/class-tgm-plugin-activation.php:3371
+[06-Sep-2021 11:36:38 UTC] PHP  10. TGMPA_Bulk_Installer->run() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/bridge/includes/plugins/class-tgm-plugin-activation.php:3258
+[06-Sep-2021 11:36:38 UTC] PHP  11. TGMPA_Bulk_Installer_Skin->after() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/includes/class-wp-upgrader.php:823
+[06-Sep-2021 11:36:38 UTC] PHP  12. TGMPA_Bulk_Installer_Skin->after() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/bridge/includes/plugins/class-tgm-plugin-activation.php:3638
+[06-Sep-2021 11:36:38 UTC] PHP  13. sprintf() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/includes/class-bulk-upgrader-skin.php:152
+[06-Sep-2021 11:36:47 UTC] PHP Warning:  sprintf(): Too few arguments in /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[06-Sep-2021 11:36:47 UTC] PHP Stack trace:
+[06-Sep-2021 11:36:47 UTC] PHP   1. {main}() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/themes.php:0
+[06-Sep-2021 11:36:47 UTC] PHP   2. require_once() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/themes.php:10
+[06-Sep-2021 11:36:47 UTC] PHP   3. do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/admin.php:259
+[06-Sep-2021 11:36:47 UTC] PHP   4. WP_Hook->do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/plugin.php:470
+[06-Sep-2021 11:36:47 UTC] PHP   5. WP_Hook->apply_filters() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:327
+[06-Sep-2021 11:36:47 UTC] PHP   6. TGM_Plugin_Activation->install_plugins_page() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:303
+[06-Sep-2021 11:36:47 UTC] PHP   7. TGMPA_List_Table->process_bulk_actions() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/bridge/includes/plugins/class-tgm-plugin-activation.php:743
+[06-Sep-2021 11:36:47 UTC] PHP   8. TGMPA_Bulk_Installer->bulk_install() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/bridge/includes/plugins/class-tgm-plugin-activation.php:2977
+[06-Sep-2021 11:36:47 UTC] PHP   9. TGMPA_Bulk_Installer->run() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/bridge/includes/plugins/class-tgm-plugin-activation.php:3371
+[06-Sep-2021 11:36:47 UTC] PHP  10. TGMPA_Bulk_Installer->run() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/bridge/includes/plugins/class-tgm-plugin-activation.php:3258
+[06-Sep-2021 11:36:47 UTC] PHP  11. TGMPA_Bulk_Installer_Skin->after() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/includes/class-wp-upgrader.php:823
+[06-Sep-2021 11:36:47 UTC] PHP  12. TGMPA_Bulk_Installer_Skin->after() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/bridge/includes/plugins/class-tgm-plugin-activation.php:3638
+[06-Sep-2021 11:36:47 UTC] PHP  13. sprintf() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/includes/class-bulk-upgrader-skin.php:152
+[06-Sep-2021 11:36:51 UTC] PHP Warning:  sprintf(): Too few arguments in /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[06-Sep-2021 11:36:51 UTC] PHP Stack trace:
+[06-Sep-2021 11:36:51 UTC] PHP   1. {main}() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/themes.php:0
+[06-Sep-2021 11:36:51 UTC] PHP   2. require_once() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/themes.php:10
+[06-Sep-2021 11:36:51 UTC] PHP   3. do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/admin.php:259
+[06-Sep-2021 11:36:51 UTC] PHP   4. WP_Hook->do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/plugin.php:470
+[06-Sep-2021 11:36:51 UTC] PHP   5. WP_Hook->apply_filters() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:327
+[06-Sep-2021 11:36:51 UTC] PHP   6. TGM_Plugin_Activation->install_plugins_page() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:303
+[06-Sep-2021 11:36:51 UTC] PHP   7. TGMPA_List_Table->process_bulk_actions() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/bridge/includes/plugins/class-tgm-plugin-activation.php:743
+[06-Sep-2021 11:36:51 UTC] PHP   8. TGMPA_Bulk_Installer->bulk_install() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/bridge/includes/plugins/class-tgm-plugin-activation.php:2977
+[06-Sep-2021 11:36:51 UTC] PHP   9. TGMPA_Bulk_Installer->run() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/bridge/includes/plugins/class-tgm-plugin-activation.php:3371
+[06-Sep-2021 11:36:51 UTC] PHP  10. TGMPA_Bulk_Installer->run() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/bridge/includes/plugins/class-tgm-plugin-activation.php:3258
+[06-Sep-2021 11:36:51 UTC] PHP  11. TGMPA_Bulk_Installer_Skin->after() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/includes/class-wp-upgrader.php:823
+[06-Sep-2021 11:36:51 UTC] PHP  12. TGMPA_Bulk_Installer_Skin->after() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/bridge/includes/plugins/class-tgm-plugin-activation.php:3638
+[06-Sep-2021 11:36:51 UTC] PHP  13. sprintf() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/includes/class-bulk-upgrader-skin.php:152
+[06-Sep-2021 11:39:54 UTC] PHP Warning:  sprintf(): Too few arguments in /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[06-Sep-2021 11:39:54 UTC] PHP Stack trace:
+[06-Sep-2021 11:39:54 UTC] PHP   1. {main}() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/themes.php:0
+[06-Sep-2021 11:39:54 UTC] PHP   2. require_once() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/themes.php:10
+[06-Sep-2021 11:39:54 UTC] PHP   3. do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/admin.php:259
+[06-Sep-2021 11:39:54 UTC] PHP   4. WP_Hook->do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/plugin.php:470
+[06-Sep-2021 11:39:54 UTC] PHP   5. WP_Hook->apply_filters() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:327
+[06-Sep-2021 11:39:54 UTC] PHP   6. TGM_Plugin_Activation->install_plugins_page() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:303
+[06-Sep-2021 11:39:54 UTC] PHP   7. TGMPA_List_Table->process_bulk_actions() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/bridge/includes/plugins/class-tgm-plugin-activation.php:743
+[06-Sep-2021 11:39:54 UTC] PHP   8. TGMPA_Bulk_Installer->bulk_install() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/bridge/includes/plugins/class-tgm-plugin-activation.php:2977
+[06-Sep-2021 11:39:54 UTC] PHP   9. TGMPA_Bulk_Installer->run() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/bridge/includes/plugins/class-tgm-plugin-activation.php:3371
+[06-Sep-2021 11:39:54 UTC] PHP  10. TGMPA_Bulk_Installer->run() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/bridge/includes/plugins/class-tgm-plugin-activation.php:3258
+[06-Sep-2021 11:39:54 UTC] PHP  11. TGMPA_Bulk_Installer_Skin->after() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/includes/class-wp-upgrader.php:823
+[06-Sep-2021 11:39:54 UTC] PHP  12. TGMPA_Bulk_Installer_Skin->after() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/bridge/includes/plugins/class-tgm-plugin-activation.php:3638
+[06-Sep-2021 11:39:54 UTC] PHP  13. sprintf() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/includes/class-bulk-upgrader-skin.php:152
+[06-Sep-2021 11:39:54 UTC] PHP Warning:  sprintf(): Too few arguments in /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[06-Sep-2021 11:39:54 UTC] PHP Stack trace:
+[06-Sep-2021 11:39:54 UTC] PHP   1. {main}() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/themes.php:0
+[06-Sep-2021 11:39:54 UTC] PHP   2. require_once() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/themes.php:10
+[06-Sep-2021 11:39:54 UTC] PHP   3. do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/admin.php:259
+[06-Sep-2021 11:39:54 UTC] PHP   4. WP_Hook->do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/plugin.php:470
+[06-Sep-2021 11:39:54 UTC] PHP   5. WP_Hook->apply_filters() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:327
+[06-Sep-2021 11:39:54 UTC] PHP   6. TGM_Plugin_Activation->install_plugins_page() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:303
+[06-Sep-2021 11:39:54 UTC] PHP   7. TGMPA_List_Table->process_bulk_actions() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/bridge/includes/plugins/class-tgm-plugin-activation.php:743
+[06-Sep-2021 11:39:54 UTC] PHP   8. TGMPA_Bulk_Installer->bulk_install() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/bridge/includes/plugins/class-tgm-plugin-activation.php:2977
+[06-Sep-2021 11:39:54 UTC] PHP   9. TGMPA_Bulk_Installer->run() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/bridge/includes/plugins/class-tgm-plugin-activation.php:3371
+[06-Sep-2021 11:39:54 UTC] PHP  10. TGMPA_Bulk_Installer->run() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/bridge/includes/plugins/class-tgm-plugin-activation.php:3258
+[06-Sep-2021 11:39:54 UTC] PHP  11. TGMPA_Bulk_Installer_Skin->after() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/includes/class-wp-upgrader.php:823
+[06-Sep-2021 11:39:54 UTC] PHP  12. TGMPA_Bulk_Installer_Skin->after() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/bridge/includes/plugins/class-tgm-plugin-activation.php:3638
+[06-Sep-2021 11:39:54 UTC] PHP  13. sprintf() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/includes/class-bulk-upgrader-skin.php:152
+[06-Sep-2021 11:39:55 UTC] PHP Warning:  sprintf(): Too few arguments in /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[06-Sep-2021 11:39:55 UTC] PHP Stack trace:
+[06-Sep-2021 11:39:55 UTC] PHP   1. {main}() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/themes.php:0
+[06-Sep-2021 11:39:55 UTC] PHP   2. require_once() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/themes.php:10
+[06-Sep-2021 11:39:55 UTC] PHP   3. do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/admin.php:259
+[06-Sep-2021 11:39:55 UTC] PHP   4. WP_Hook->do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/plugin.php:470
+[06-Sep-2021 11:39:55 UTC] PHP   5. WP_Hook->apply_filters() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:327
+[06-Sep-2021 11:39:55 UTC] PHP   6. TGM_Plugin_Activation->install_plugins_page() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:303
+[06-Sep-2021 11:39:55 UTC] PHP   7. TGMPA_List_Table->process_bulk_actions() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/bridge/includes/plugins/class-tgm-plugin-activation.php:743
+[06-Sep-2021 11:39:55 UTC] PHP   8. TGMPA_Bulk_Installer->bulk_install() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/bridge/includes/plugins/class-tgm-plugin-activation.php:2977
+[06-Sep-2021 11:39:55 UTC] PHP   9. TGMPA_Bulk_Installer->run() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/bridge/includes/plugins/class-tgm-plugin-activation.php:3371
+[06-Sep-2021 11:39:55 UTC] PHP  10. TGMPA_Bulk_Installer->run() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/bridge/includes/plugins/class-tgm-plugin-activation.php:3258
+[06-Sep-2021 11:39:55 UTC] PHP  11. TGMPA_Bulk_Installer_Skin->after() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/includes/class-wp-upgrader.php:823
+[06-Sep-2021 11:39:55 UTC] PHP  12. TGMPA_Bulk_Installer_Skin->after() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/bridge/includes/plugins/class-tgm-plugin-activation.php:3638
+[06-Sep-2021 11:39:55 UTC] PHP  13. sprintf() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/includes/class-bulk-upgrader-skin.php:152
+[06-Sep-2021 11:40:09 UTC] PHP Warning:  sprintf(): Too few arguments in /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[06-Sep-2021 11:40:09 UTC] PHP Stack trace:
+[06-Sep-2021 11:40:09 UTC] PHP   1. {main}() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/themes.php:0
+[06-Sep-2021 11:40:09 UTC] PHP   2. require_once() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/themes.php:10
+[06-Sep-2021 11:40:09 UTC] PHP   3. do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/admin.php:259
+[06-Sep-2021 11:40:09 UTC] PHP   4. WP_Hook->do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/plugin.php:470
+[06-Sep-2021 11:40:09 UTC] PHP   5. WP_Hook->apply_filters() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:327
+[06-Sep-2021 11:40:09 UTC] PHP   6. TGM_Plugin_Activation->install_plugins_page() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:303
+[06-Sep-2021 11:40:09 UTC] PHP   7. TGMPA_List_Table->process_bulk_actions() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/bridge/includes/plugins/class-tgm-plugin-activation.php:743
+[06-Sep-2021 11:40:09 UTC] PHP   8. TGMPA_Bulk_Installer->bulk_install() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/bridge/includes/plugins/class-tgm-plugin-activation.php:2977
+[06-Sep-2021 11:40:09 UTC] PHP   9. TGMPA_Bulk_Installer->run() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/bridge/includes/plugins/class-tgm-plugin-activation.php:3371
+[06-Sep-2021 11:40:09 UTC] PHP  10. TGMPA_Bulk_Installer->run() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/bridge/includes/plugins/class-tgm-plugin-activation.php:3258
+[06-Sep-2021 11:40:09 UTC] PHP  11. TGMPA_Bulk_Installer_Skin->after() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/includes/class-wp-upgrader.php:823
+[06-Sep-2021 11:40:09 UTC] PHP  12. TGMPA_Bulk_Installer_Skin->after() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/bridge/includes/plugins/class-tgm-plugin-activation.php:3638
+[06-Sep-2021 11:40:09 UTC] PHP  13. sprintf() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/includes/class-bulk-upgrader-skin.php:152
+[06-Sep-2021 11:40:12 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/update.php on line 175
+[06-Sep-2021 11:40:12 UTC] PHP Stack trace:
+[06-Sep-2021 11:40:12 UTC] PHP   1. {main}() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/themes.php:0
+[06-Sep-2021 11:40:12 UTC] PHP   2. require_once() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/themes.php:10
+[06-Sep-2021 11:40:12 UTC] PHP   3. do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/admin.php:259
+[06-Sep-2021 11:40:12 UTC] PHP   4. WP_Hook->do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/plugin.php:470
+[06-Sep-2021 11:40:12 UTC] PHP   5. WP_Hook->apply_filters() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:327
+[06-Sep-2021 11:40:12 UTC] PHP   6. TGM_Plugin_Activation->install_plugins_page() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:303
+[06-Sep-2021 11:40:12 UTC] PHP   7. TGMPA_List_Table->process_bulk_actions() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/bridge/includes/plugins/class-tgm-plugin-activation.php:743
+[06-Sep-2021 11:40:12 UTC] PHP   8. TGMPA_Bulk_Installer->bulk_install() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/bridge/includes/plugins/class-tgm-plugin-activation.php:2977
+[06-Sep-2021 11:40:12 UTC] PHP   9. do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/bridge/includes/plugins/class-tgm-plugin-activation.php:3406
+[06-Sep-2021 11:40:12 UTC] PHP  10. WP_Hook->do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/plugin.php:470
+[06-Sep-2021 11:40:12 UTC] PHP  11. WP_Hook->apply_filters() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:327
+[06-Sep-2021 11:40:12 UTC] PHP  12. wp_version_check() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:301
+[06-Sep-2021 11:40:12 UTC] PHP  13. trigger_error() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/update.php:175
+[06-Sep-2021 11:40:17 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/update.php on line 413
+[06-Sep-2021 11:40:17 UTC] PHP Stack trace:
+[06-Sep-2021 11:40:17 UTC] PHP   1. {main}() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/themes.php:0
+[06-Sep-2021 11:40:17 UTC] PHP   2. require_once() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/themes.php:10
+[06-Sep-2021 11:40:17 UTC] PHP   3. do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/admin.php:259
+[06-Sep-2021 11:40:17 UTC] PHP   4. WP_Hook->do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/plugin.php:470
+[06-Sep-2021 11:40:17 UTC] PHP   5. WP_Hook->apply_filters() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:327
+[06-Sep-2021 11:40:17 UTC] PHP   6. TGM_Plugin_Activation->install_plugins_page() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:303
+[06-Sep-2021 11:40:17 UTC] PHP   7. TGMPA_List_Table->process_bulk_actions() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/bridge/includes/plugins/class-tgm-plugin-activation.php:743
+[06-Sep-2021 11:40:17 UTC] PHP   8. TGMPA_Bulk_Installer->bulk_install() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/bridge/includes/plugins/class-tgm-plugin-activation.php:2977
+[06-Sep-2021 11:40:17 UTC] PHP   9. do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/bridge/includes/plugins/class-tgm-plugin-activation.php:3406
+[06-Sep-2021 11:40:17 UTC] PHP  10. WP_Hook->do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/plugin.php:470
+[06-Sep-2021 11:40:17 UTC] PHP  11. WP_Hook->apply_filters() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:327
+[06-Sep-2021 11:40:17 UTC] PHP  12. wp_update_plugins() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:301
+[06-Sep-2021 11:40:17 UTC] PHP  13. trigger_error() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/update.php:413
+[06-Sep-2021 11:40:22 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/update.php on line 693
+[06-Sep-2021 11:40:22 UTC] PHP Stack trace:
+[06-Sep-2021 11:40:22 UTC] PHP   1. {main}() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/themes.php:0
+[06-Sep-2021 11:40:22 UTC] PHP   2. require_once() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/themes.php:10
+[06-Sep-2021 11:40:22 UTC] PHP   3. do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/admin.php:259
+[06-Sep-2021 11:40:22 UTC] PHP   4. WP_Hook->do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/plugin.php:470
+[06-Sep-2021 11:40:22 UTC] PHP   5. WP_Hook->apply_filters() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:327
+[06-Sep-2021 11:40:22 UTC] PHP   6. TGM_Plugin_Activation->install_plugins_page() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:303
+[06-Sep-2021 11:40:22 UTC] PHP   7. TGMPA_List_Table->process_bulk_actions() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/bridge/includes/plugins/class-tgm-plugin-activation.php:743
+[06-Sep-2021 11:40:22 UTC] PHP   8. TGMPA_Bulk_Installer->bulk_install() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/bridge/includes/plugins/class-tgm-plugin-activation.php:2977
+[06-Sep-2021 11:40:22 UTC] PHP   9. do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/bridge/includes/plugins/class-tgm-plugin-activation.php:3406
+[06-Sep-2021 11:40:22 UTC] PHP  10. WP_Hook->do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/plugin.php:470
+[06-Sep-2021 11:40:22 UTC] PHP  11. WP_Hook->apply_filters() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:327
+[06-Sep-2021 11:40:22 UTC] PHP  12. wp_update_themes() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:301
+[06-Sep-2021 11:40:22 UTC] PHP  13. trigger_error() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/update.php:693

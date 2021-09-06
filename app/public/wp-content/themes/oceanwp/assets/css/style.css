@@ -972,11 +972,12 @@ body.content-full-screen #content-wrap {
 }
 
 .content-left-sidebar .content-area {
-  float: right;
-  padding-left: 30px;
+  /* float: right; */
+  /* padding-left: 30px; */
   padding-right: 0;
   border-left-width: 1px;
   border-right-width: 0;
+  width: 100%;
 }
 
 .content-left-sidebar .widget-area {

@@ -8,7 +8,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2021-09-06 16:08+0000\n"
+"PO-Revision-Date: 2021-09-06 16:06+0000\n"
 "Last-Translator: \n"
 "Language-Team: Lietuvių kalba\n"
 "X-Generator: Loco https://localise.biz/\n"
@@ -5568,7 +5568,7 @@ msgstr ""
 
 #: inc/woocommerce/woocommerce-config.php:797
 msgid "View cart"
-msgstr "Peržiūrėti krepšelį"
+msgstr ""
 
 #: inc/woocommerce/woocommerce-config.php:803
 msgid "View products"

@@ -6,7 +6,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2021-09-06 21:09+0000\n"
+"PO-Revision-Date: 2021-09-08 09:21+0000\n"
 "Last-Translator: \n"
 "Language-Team: Lietuvių kalba\n"
 "Language: lt_LT\n"
@@ -140,7 +140,7 @@ msgstr ""
 
 #: inc/frontend/footer.php:268
 msgid "All Categories"
-msgstr ""
+msgstr "Visos kategorijos"
 
 #: inc/customizer.php:2196
 msgid "All content types"
@@ -255,7 +255,7 @@ msgstr ""
 
 #: inc/class-sober-wc.php:1100
 msgid "Billing Details"
-msgstr ""
+msgstr "Užsakymo informacija"
 
 #: inc/customizer.php:282 inc/customizer.php:330
 #: inc/frontend/breadcrumbs.php:23 inc/frontend/header.php:328
@@ -2016,7 +2016,7 @@ msgstr ""
 
 #: woocommerce/cart/cart.php:114 woocommerce/cart/mini-cart.php:79
 msgid "Qty:"
-msgstr ""
+msgstr "Vnt:"
 
 #: woocommerce/checkout/review-order.php:24
 msgid "Quantity"

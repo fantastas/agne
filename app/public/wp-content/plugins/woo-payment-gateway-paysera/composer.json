@@ -1,0 +1,14 @@
+{
+    "name": "paysera/wordpress-paysera-module",
+    "description": "Paysera Payments module for Wordpress",
+    "require": {
+        "webtopay/libwebtopay": "^1.6",
+        "paysera/lib-php-cs-fixer-config": "^2.2"
+    },
+    "type": "wordpress-module",
+    "version": "2.6.7",
+    "license": [
+        "GPL-3.0"
+    ],
+    "minimum-stability": "stable"
+}

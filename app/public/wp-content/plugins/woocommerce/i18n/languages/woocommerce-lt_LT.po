@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2021-08-17T19:57:19+00:00\n"
-"PO-Revision-Date: 2021-09-06 19:41+0000\n"
+"PO-Revision-Date: 2021-09-08 09:24+0000\n"
 "X-Generator: Loco https://localise.biz/\n"
 "X-Domain: woocommerce\n"
 "Language: lt_LT\n"
@@ -8423,7 +8423,7 @@ msgstr ""
 #: includes/admin/class-wc-admin-assets.php:288
 #: includes/admin/meta-boxes/views/html-order-item-meta.php:52
 msgid "Name (required)"
-msgstr ""
+msgstr "Vardas"
 
 #: includes/admin/class-wc-admin-assets.php:289
 #: includes/admin/meta-boxes/views/html-order-item-meta.php:53
@@ -8492,7 +8492,7 @@ msgstr ""
 #: templates/single-product-reviews.php:89
 #: packages/woocommerce-admin/dist/chunks/analytics-report-customers.js:1
 msgid "Name"
-msgstr ""
+msgstr "Vardas"
 
 #. translators: Remove chip.
 #: includes/admin/class-wc-admin-assets.php:332
@@ -8996,7 +8996,7 @@ msgstr ""
 #: packages/woocommerce-blocks/build/checkout.js:29
 #: packages/woocommerce-blocks/build/wc-payment-method-stripe.js:1
 msgid "Total"
-msgstr ""
+msgstr "Viso mokėti"
 
 #: includes/admin/class-wc-admin-dashboard.php:433
 #: includes/class-wc-post-types.php:400
@@ -9996,7 +9996,7 @@ msgstr ""
 #: templates/myaccount/form-edit-account.php:27
 #: packages/woocommerce-blocks/build/wc-settings.js:1
 msgid "First name"
-msgstr ""
+msgstr "Vardas"
 
 #: includes/admin/class-wc-admin-profile.php:50
 #: includes/admin/class-wc-admin-profile.php:110
@@ -10008,7 +10008,7 @@ msgstr ""
 #: templates/myaccount/form-edit-account.php:31
 #: packages/woocommerce-blocks/build/wc-settings.js:1
 msgid "Last name"
-msgstr ""
+msgstr "Pavardė"
 
 #: includes/admin/class-wc-admin-profile.php:54
 #: includes/admin/class-wc-admin-profile.php:114
@@ -10084,7 +10084,7 @@ msgstr ""
 #: includes/class-wc-countries.php:748
 #: templates/cart/shipping-calculator.php:82
 msgid "Postcode / ZIP"
-msgstr ""
+msgstr "Pašto kodas"
 
 #: includes/admin/class-wc-admin-profile.php:74
 #: includes/admin/class-wc-admin-profile.php:134
@@ -10099,7 +10099,7 @@ msgstr ""
 #: packages/woocommerce-admin/dist/chunks/profile-wizard.js:1
 #: packages/woocommerce-admin/dist/chunks/task-list.js:1
 msgid "Country / Region"
-msgstr ""
+msgstr "Valstybė"
 
 #: includes/admin/class-wc-admin-profile.php:78
 #: includes/admin/class-wc-admin-profile.php:138
@@ -10140,7 +10140,7 @@ msgstr ""
 #: packages/woocommerce-blocks/build/checkout.js:29
 #: packages/woocommerce-blocks/build/checkout.js:35
 msgid "Phone"
-msgstr ""
+msgstr "Telefonas"
 
 #: includes/admin/class-wc-admin-profile.php:90
 #: includes/admin/class-wc-admin-setup-wizard.php:2238
@@ -10152,7 +10152,7 @@ msgstr ""
 #: packages/woocommerce-blocks/build/checkout-frontend.js:29
 #: packages/woocommerce-blocks/build/checkout.js:29
 msgid "Email address"
-msgstr ""
+msgstr "El. paštas"
 
 #: includes/admin/class-wc-admin-profile.php:96
 #: includes/admin/settings/views/settings-tax.php:39
@@ -12716,7 +12716,7 @@ msgstr ""
 #: includes/admin/list-tables/class-wc-admin-list-table-orders.php:124
 #: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:317
 msgid "Billing"
-msgstr ""
+msgstr " "
 
 #: includes/admin/list-tables/class-wc-admin-list-table-orders.php:125
 msgid "Ship to"
@@ -12812,7 +12812,7 @@ msgstr ""
 #: includes/admin/list-tables/class-wc-admin-list-table-orders.php:376
 #: templates/checkout/form-billing.php:28
 msgid "Billing details"
-msgstr ""
+msgstr "Atsiskaitymo informacija"
 
 #: includes/admin/list-tables/class-wc-admin-list-table-orders.php:380
 #: includes/admin/reports/class-wc-report-customer-list.php:217
@@ -13659,7 +13659,7 @@ msgstr ""
 #: includes/admin/meta-boxes/views/html-order-items.php:32
 #: templates/checkout/form-pay.php:28
 msgid "Qty"
-msgstr ""
+msgstr "Vnt"
 
 #: includes/admin/meta-boxes/views/html-order-items.php:107
 #: packages/woocommerce-admin/src/API/Reports/Orders/Controller.php:541
@@ -15380,6 +15380,8 @@ msgid ""
 "experience throughout this website, and for other purposes described in our "
 "%s."
 msgstr ""
+"Jūsų asmeniniai duomenys bus naudojami tvarkant jūsų užsakymą, palaikant "
+"jūsų patirtį šioje svetainėje ir kitais tikslais, aprašytais mūsų %s.\n"
 
 #: includes/admin/settings/class-wc-settings-accounts.php:170
 msgid "Personal data retention"
@@ -18897,8 +18899,8 @@ msgstr ""
 #: packages/woocommerce-blocks/src/StoreApi/Utilities/CartController.php:1067
 msgid "%s is a required field"
 msgid_plural "%s are required fields"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Laukas %s yra privalomas"
+msgstr[1] "Laukai %s yra privalomi"
 msgstr[2] ""
 
 #. translators: 1: product link, 2: product name
@@ -18973,14 +18975,14 @@ msgstr ""
 #: packages/woocommerce-blocks/assets/js/blocks/cart-checkout/checkout/edit.js:190
 #: packages/woocommerce-blocks/build/checkout.js:35
 msgid "Order notes"
-msgstr ""
+msgstr "Užsakymo pastabos"
 
 #: includes/class-wc-checkout.php:240
 #: packages/woocommerce-blocks/assets/js/blocks/cart-checkout/checkout/form/order-notes-step.js:35
 #: packages/woocommerce-blocks/build/checkout-frontend.js:29
 #: packages/woocommerce-blocks/build/checkout.js:29
 msgid "Notes about your order, e.g. special notes for delivery."
-msgstr ""
+msgstr "Pastabos apie jūsų užsakymą, pvz. specialios pastabos dėl pristatymo."
 
 #: includes/class-wc-checkout.php:251
 msgid "Account username"
@@ -19011,7 +19013,7 @@ msgstr ""
 #: includes/class-wc-checkout.php:772
 msgctxt "checkout-validation"
 msgid "Billing %s"
-msgstr ""
+msgstr "%s"
 
 #. translators: %1$s: field name, %2$s finder.eircode.ie URL
 #: includes/class-wc-checkout.php:784
@@ -19048,7 +19050,7 @@ msgstr ""
 #: includes/class-wc-checkout.php:834 includes/class-wc-form-handler.php:132
 #: includes/class-wc-form-handler.php:278
 msgid "%s is a required field."
-msgstr ""
+msgstr "Laukas %s yra privalomas."
 
 #: includes/class-wc-checkout.php:853 includes/class-wc-form-handler.php:412
 msgid ""
@@ -19077,7 +19079,7 @@ msgstr ""
 #: includes/class-wc-form-handler.php:558
 #: includes/class-wc-form-handler.php:583
 msgid "Invalid payment method."
-msgstr ""
+msgstr "Netinkamas apmokėjimo metodas."
 
 #: includes/class-wc-checkout.php:1139
 msgid "We were unable to process your order, please try again."
@@ -19139,11 +19141,11 @@ msgstr ""
 
 #: includes/class-wc-countries.php:673
 msgid "Apartment, suite, unit, etc."
-msgstr ""
+msgstr "Buto numeris"
 
 #: includes/class-wc-countries.php:678
 msgid "Apartment, suite, unit, etc. (optional)"
-msgstr ""
+msgstr "Buto numeris "
 
 #: includes/class-wc-countries.php:699
 #: includes/customizer/class-wc-shop-customizer.php:724
@@ -19152,16 +19154,16 @@ msgstr ""
 
 #: includes/class-wc-countries.php:714
 msgid "Street address"
-msgstr ""
+msgstr "Adresas"
 
 #. translators: use local order of street name and house number.
 #: includes/class-wc-countries.php:716
 msgid "House number and street name"
-msgstr ""
+msgstr "Namo numeris ir gatvės pavadinimas"
 
 #: includes/class-wc-countries.php:732
 msgid "Town / City"
-msgstr ""
+msgstr "Miestas"
 
 #: includes/class-wc-countries.php:820 includes/class-wc-countries.php:874
 #: includes/class-wc-countries.php:907 includes/class-wc-countries.php:932
@@ -19179,7 +19181,7 @@ msgstr ""
 #: includes/class-wc-countries.php:836 includes/class-wc-countries.php:1209
 #: includes/class-wc-countries.php:1219 includes/class-wc-countries.php:1390
 msgid "Postcode"
-msgstr ""
+msgstr "Pašto kodas"
 
 #: includes/class-wc-countries.php:855 includes/class-wc-countries.php:915
 msgid "Canton"
@@ -19734,7 +19736,7 @@ msgstr ""
 #: includes/class-wc-frontend-scripts.php:536
 #: includes/wc-template-functions.php:2744
 msgid "optional"
-msgstr ""
+msgstr "nebutinas"
 
 #: includes/class-wc-frontend-scripts.php:573
 msgid ""
@@ -20618,12 +20620,12 @@ msgstr[2] ""
 #: includes/class-wc-privacy-erasers.php:46
 #: includes/class-wc-privacy-exporters.php:185
 msgid "Billing First Name"
-msgstr ""
+msgstr "Vardas"
 
 #: includes/class-wc-privacy-erasers.php:47
 #: includes/class-wc-privacy-exporters.php:186
 msgid "Billing Last Name"
-msgstr ""
+msgstr "Pavardė"
 
 #: includes/class-wc-privacy-erasers.php:48
 #: includes/class-wc-privacy-exporters.php:187
@@ -20633,22 +20635,22 @@ msgstr ""
 #: includes/class-wc-privacy-erasers.php:49
 #: includes/class-wc-privacy-exporters.php:188
 msgid "Billing Address 1"
-msgstr ""
+msgstr "Adresas"
 
 #: includes/class-wc-privacy-erasers.php:50
 #: includes/class-wc-privacy-exporters.php:189
 msgid "Billing Address 2"
-msgstr ""
+msgstr "Adresas"
 
 #: includes/class-wc-privacy-erasers.php:51
 #: includes/class-wc-privacy-exporters.php:190
 msgid "Billing City"
-msgstr ""
+msgstr "Miestas"
 
 #: includes/class-wc-privacy-erasers.php:52
 #: includes/class-wc-privacy-exporters.php:191
 msgid "Billing Postal/Zip Code"
-msgstr ""
+msgstr "Pašto kodas"
 
 #: includes/class-wc-privacy-erasers.php:53
 #: includes/class-wc-privacy-exporters.php:192
@@ -20658,12 +20660,12 @@ msgstr ""
 #: includes/class-wc-privacy-erasers.php:54
 #: includes/class-wc-privacy-exporters.php:193
 msgid "Billing Country / Region"
-msgstr ""
+msgstr "Valstybė"
 
 #: includes/class-wc-privacy-erasers.php:55
 #: includes/class-wc-privacy-exporters.php:194
 msgid "Billing Phone Number"
-msgstr ""
+msgstr "Telefonas"
 
 #: includes/class-wc-privacy-erasers.php:56
 #: includes/class-wc-privacy-exporters.php:195
@@ -20811,7 +20813,7 @@ msgstr ""
 
 #: includes/class-wc-privacy-exporters.php:257
 msgid "Billing Address"
-msgstr ""
+msgstr "Adresas"
 
 #: includes/class-wc-privacy-exporters.php:258
 msgid "Shipping Address"
@@ -21961,7 +21963,7 @@ msgstr ""
 #: includes/emails/class-wc-email-customer-on-hold-order.php:67
 #: includes/emails/class-wc-email-customer-processing-order.php:69
 msgid "Thank you for your order"
-msgstr ""
+msgstr "Ačiū, kad pirkote"
 
 #: includes/emails/class-wc-email-customer-on-hold-order.php:142
 msgid "We look forward to fulfilling your order soon."
@@ -29816,7 +29818,7 @@ msgstr ""
 #: templates/checkout/form-shipping.php:57
 #: templates/single-product/tabs/additional-information.php:22
 msgid "Additional information"
-msgstr ""
+msgstr "Papildoma informacija"
 
 #. translators: %s: reviews count
 #: includes/wc-template-functions.php:1853
@@ -29831,6 +29833,7 @@ msgstr ""
 #: includes/wc-template-functions.php:2334
 msgid "Place order"
 msgstr ""
+"Pateikti užsakymą\n"
 
 #: includes/wc-template-functions.php:2813
 msgid "Update country / region"
@@ -34643,7 +34646,7 @@ msgstr ""
 #: packages/woocommerce-blocks/build/checkout.js:35
 #: packages/woocommerce-blocks/build/wc-settings.js:1
 msgid "Apartment, suite, etc."
-msgstr ""
+msgstr "Buto numeris"
 
 #: packages/woocommerce-blocks/src/StoreApi/Schemas/AbstractAddressSchema.php:60
 msgid "State/County code, or name of the state, county, province, or district."
@@ -35585,12 +35588,12 @@ msgstr ""
 
 #: packages/woocommerce-blocks/src/StoreApi/Utilities/OrderController.php:273
 msgid "billing address"
-msgstr ""
+msgstr "adresas"
 
 #: packages/woocommerce-blocks/src/StoreApi/Utilities/OrderController.php:331
 #: packages/woocommerce-blocks/build/wc-settings.js:1
 msgid "Country/Region"
-msgstr ""
+msgstr "Valstybė"
 
 #: packages/woocommerce-blocks/src/StoreApi/Utilities/OrderController.php:339
 #: packages/woocommerce-blocks/build/wc-settings.js:1
@@ -35926,7 +35929,7 @@ msgstr ""
 
 #: templates/checkout/form-checkout.php:54
 msgid "Your order"
-msgstr ""
+msgstr "Jūsų užsakymas"
 
 #: templates/checkout/form-coupon.php:26
 msgid "Have a coupon?"
@@ -36157,7 +36160,7 @@ msgstr ""
 #: packages/woocommerce-blocks/build/checkout-frontend.js:29
 #: packages/woocommerce-blocks/build/checkout.js:29
 msgid "Billing address"
-msgstr ""
+msgstr "Adresas"
 
 #: templates/emails/email-addresses.php:43
 #: templates/emails/plain/email-addresses.php:35
@@ -36425,7 +36428,7 @@ msgstr ""
 
 #: templates/order/form-tracking.php:28
 msgid "Billing email"
-msgstr ""
+msgstr "El paštas"
 
 #: templates/order/form-tracking.php:28
 msgid "Email you used during checkout."
@@ -41702,6 +41705,7 @@ msgstr ""
 #: packages/woocommerce-blocks/build/checkout.js:29
 msgid "Place Order"
 msgstr ""
+"Pateikti užsakymą\n"
 
 #: packages/woocommerce-blocks/assets/js/base/context/providers/add-to-cart-form/form-state/index.js:247
 #: packages/woocommerce-blocks/assets/js/base/context/providers/add-to-cart-form/form/submit/index.js:97
@@ -44357,7 +44361,7 @@ msgstr ""
 
 #: packages/woocommerce-blocks/build/wc-settings.js:1
 msgid "Last name (optional)"
-msgstr ""
+msgstr "Pavardė"
 
 #: packages/woocommerce-blocks/build/wc-settings.js:1
 msgid "Company (optional)"
@@ -44369,11 +44373,11 @@ msgstr ""
 
 #: packages/woocommerce-blocks/build/wc-settings.js:1
 msgid "Apartment, suite, etc. (optional)"
-msgstr ""
+msgstr "Buto numeris"
 
 #: packages/woocommerce-blocks/build/wc-settings.js:1
 msgid "Country/Region (optional)"
-msgstr ""
+msgstr "Valstybė"
 
 #: packages/woocommerce-blocks/build/wc-settings.js:1
 msgid "City (optional)"

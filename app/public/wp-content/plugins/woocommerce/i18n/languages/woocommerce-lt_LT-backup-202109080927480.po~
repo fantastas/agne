@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2021-08-17T19:57:19+00:00\n"
-"PO-Revision-Date: 2021-09-08 06:57+0000\n"
+"PO-Revision-Date: 2021-09-08 09:24+0000\n"
 "X-Generator: Loco https://localise.biz/\n"
 "X-Domain: woocommerce\n"
 "Language: lt_LT\n"
@@ -8996,7 +8996,7 @@ msgstr ""
 #: packages/woocommerce-blocks/build/checkout.js:29
 #: packages/woocommerce-blocks/build/wc-payment-method-stripe.js:1
 msgid "Total"
-msgstr ""
+msgstr "Viso mokėti"
 
 #: includes/admin/class-wc-admin-dashboard.php:433
 #: includes/class-wc-post-types.php:400
@@ -19013,7 +19013,7 @@ msgstr ""
 #: includes/class-wc-checkout.php:772
 msgctxt "checkout-validation"
 msgid "Billing %s"
-msgstr ""
+msgstr "%s"
 
 #. translators: %1$s: field name, %2$s finder.eircode.ie URL
 #: includes/class-wc-checkout.php:784
@@ -19736,7 +19736,7 @@ msgstr ""
 #: includes/class-wc-frontend-scripts.php:536
 #: includes/wc-template-functions.php:2744
 msgid "optional"
-msgstr " "
+msgstr "nebutinas"
 
 #: includes/class-wc-frontend-scripts.php:573
 msgid ""

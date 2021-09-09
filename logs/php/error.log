@@ -524,3 +524,31 @@
 [06-Sep-2021 20:11:42 UTC] PHP  11. WP_Hook->apply_filters() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:327
 [06-Sep-2021 20:11:42 UTC] PHP  12. wp_update_themes() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:301
 [06-Sep-2021 20:11:42 UTC] PHP  13. trigger_error() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/update.php:693
+[08-Sep-2021 11:55:23 UTC] PHP Warning:  Įvyko nenumatyta klaida. Kažkas gali būti blogai su WordPress.org serveriu ar Jūsų serverio nustatymais. Jei problema nepranyksta, kreipkitės į <a href="https://wordpress.org/support/forums/">pagalbos forumus</a>. (WordPress nepavyko sukurti saugaus ryšio su WordPress.org. Susisiekite su serverio administratoriumi.) in /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/update.php on line 413
+[08-Sep-2021 11:55:23 UTC] PHP Stack trace:
+[08-Sep-2021 11:55:23 UTC] PHP   1. {main}() /Users/mariussurvila/Local Sites/agne/app/public/wp-cron.php:0
+[08-Sep-2021 11:55:23 UTC] PHP   2. do_action_ref_array() /Users/mariussurvila/Local Sites/agne/app/public/wp-cron.php:138
+[08-Sep-2021 11:55:23 UTC] PHP   3. WP_Hook->do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/plugin.php:518
+[08-Sep-2021 11:55:23 UTC] PHP   4. WP_Hook->apply_filters() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:327
+[08-Sep-2021 11:55:23 UTC] PHP   5. wp_version_check() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:303
+[08-Sep-2021 11:55:23 UTC] PHP   6. do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/update.php:256
+[08-Sep-2021 11:55:23 UTC] PHP   7. WP_Hook->do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/plugin.php:470
+[08-Sep-2021 11:55:23 UTC] PHP   8. WP_Hook->apply_filters() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:327
+[08-Sep-2021 11:55:23 UTC] PHP   9. wp_maybe_auto_update() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:303
+[08-Sep-2021 11:55:23 UTC] PHP  10. WP_Automatic_Updater->run() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/update.php:729
+[08-Sep-2021 11:55:23 UTC] PHP  11. wp_update_plugins() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/includes/class-wp-automatic-updater.php:464
+[08-Sep-2021 11:55:23 UTC] PHP  12. trigger_error() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/update.php:413
+[08-Sep-2021 11:56:25 UTC] PHP Warning:  Įvyko nenumatyta klaida. Kažkas gali būti blogai su WordPress.org serveriu ar Jūsų serverio nustatymais. Jei problema nepranyksta, kreipkitės į <a href="https://wordpress.org/support/forums/">pagalbos forumus</a>. (WordPress nepavyko sukurti saugaus ryšio su WordPress.org. Susisiekite su serverio administratoriumi.) in /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/update.php on line 175
+[08-Sep-2021 11:56:25 UTC] PHP Stack trace:
+[08-Sep-2021 11:56:25 UTC] PHP   1. {main}() /Users/mariussurvila/Local Sites/agne/app/public/wp-cron.php:0
+[08-Sep-2021 11:56:25 UTC] PHP   2. do_action_ref_array() /Users/mariussurvila/Local Sites/agne/app/public/wp-cron.php:138
+[08-Sep-2021 11:56:25 UTC] PHP   3. WP_Hook->do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/plugin.php:518
+[08-Sep-2021 11:56:25 UTC] PHP   4. WP_Hook->apply_filters() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:327
+[08-Sep-2021 11:56:25 UTC] PHP   5. wp_version_check() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:303
+[08-Sep-2021 11:56:25 UTC] PHP   6. do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/update.php:256
+[08-Sep-2021 11:56:25 UTC] PHP   7. WP_Hook->do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/plugin.php:470
+[08-Sep-2021 11:56:25 UTC] PHP   8. WP_Hook->apply_filters() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:327
+[08-Sep-2021 11:56:25 UTC] PHP   9. wp_maybe_auto_update() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:303
+[08-Sep-2021 11:56:25 UTC] PHP  10. WP_Automatic_Updater->run() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/update.php:729
+[08-Sep-2021 11:56:25 UTC] PHP  11. wp_version_check() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/includes/class-wp-automatic-updater.php:521
+[08-Sep-2021 11:56:25 UTC] PHP  12. trigger_error() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/update.php:175

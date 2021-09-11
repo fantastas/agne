@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2021-08-17T19:57:19+00:00\n"
-"PO-Revision-Date: 2021-09-08 14:03+0000\n"
+"PO-Revision-Date: 2021-09-11 09:00+0000\n"
 "X-Generator: Loco https://localise.biz/\n"
 "X-Domain: woocommerce\n"
 "Language: lt_LT\n"
@@ -11323,7 +11323,7 @@ msgstr ""
 #: includes/class-wc-install.php:690 includes/class-wc-install.php:696
 msgctxt "Default category slug"
 msgid "Uncategorized"
-msgstr " "
+msgstr ""
 
 #: includes/admin/class-wc-admin-taxonomies.php:346
 #: includes/rest-api/Controllers/Version2/class-wc-rest-system-status-tools-v2-controller.php:166
@@ -12822,7 +12822,7 @@ msgstr "Atsiskaitymo informacija"
 #: templates/single-product-reviews.php:95
 #: packages/woocommerce-admin/dist/chunks/analytics-report-customers.js:1
 msgid "Email"
-msgstr ""
+msgstr "El. paštas"
 
 #: includes/admin/list-tables/class-wc-admin-list-table-orders.php:390
 msgid "Payment via"
@@ -36483,7 +36483,7 @@ msgstr ""
 #. translators: %s is product title
 #: templates/single-product-reviews.php:75
 msgid "Be the first to review &ldquo;%s&rdquo;"
-msgstr ""
+msgstr "Būk pirmasis įvertinęs “%s”"
 
 #. translators: %s is product title
 #: templates/single-product-reviews.php:77
@@ -36501,7 +36501,7 @@ msgstr ""
 
 #: templates/single-product-reviews.php:124
 msgid "Your rating"
-msgstr ""
+msgstr "Vertinimas"
 
 #: templates/single-product-reviews.php:125
 msgid "Rate&hellip;"
@@ -36529,7 +36529,7 @@ msgstr ""
 
 #: templates/single-product-reviews.php:134
 msgid "Your review"
-msgstr ""
+msgstr "Atsiliepimas"
 
 #: templates/single-product/add-to-cart/variable.php:32
 msgid "This product is currently out of stock and unavailable."

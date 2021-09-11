@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2021-08-17T19:57:19+00:00\n"
-"PO-Revision-Date: 2021-09-08 11:24+0000\n"
+"PO-Revision-Date: 2021-09-11 08:59+0000\n"
 "X-Generator: Loco https://localise.biz/\n"
 "X-Domain: woocommerce\n"
 "Language: lt_LT\n"
@@ -36483,7 +36483,7 @@ msgstr ""
 #. translators: %s is product title
 #: templates/single-product-reviews.php:75
 msgid "Be the first to review &ldquo;%s&rdquo;"
-msgstr ""
+msgstr "Būk pirmasis įvertinęs “%s”"
 
 #. translators: %s is product title
 #: templates/single-product-reviews.php:77
@@ -36501,7 +36501,7 @@ msgstr ""
 
 #: templates/single-product-reviews.php:124
 msgid "Your rating"
-msgstr ""
+msgstr "Vertinimas"
 
 #: templates/single-product-reviews.php:125
 msgid "Rate&hellip;"

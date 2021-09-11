@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2021-08-17T19:57:19+00:00\n"
-"PO-Revision-Date: 2021-09-08 14:04+0000\n"
+"PO-Revision-Date: 2021-09-11 09:06+0000\n"
 "X-Generator: Loco https://localise.biz/\n"
 "X-Domain: woocommerce\n"
 "Language: lt_LT\n"
@@ -8934,6 +8934,7 @@ msgstr ""
 #: includes/admin/class-wc-admin-dashboard.php:383
 msgid "There are no product reviews yet."
 msgstr ""
+"Dar nėra atsiliepimų apie prekę.\n"
 
 #: includes/admin/class-wc-admin-dashboard.php:415
 msgid "Loading network orders"
@@ -12822,7 +12823,7 @@ msgstr "Atsiskaitymo informacija"
 #: templates/single-product-reviews.php:95
 #: packages/woocommerce-admin/dist/chunks/analytics-report-customers.js:1
 msgid "Email"
-msgstr ""
+msgstr "El. paštas"
 
 #: includes/admin/list-tables/class-wc-admin-list-table-orders.php:390
 msgid "Payment via"
@@ -32995,7 +32996,7 @@ msgstr ""
 #: packages/woocommerce-admin/src/Features/Navigation/CoreMenu.php:184
 #: packages/woocommerce-admin/dist/app/index.js:2
 msgid "Home"
-msgstr ""
+msgstr "Pagrindinis"
 
 #: packages/woocommerce-admin/src/Features/Marketing.php:75
 #: packages/woocommerce-admin/src/Features/Marketing.php:76
@@ -36474,6 +36475,7 @@ msgstr[2] ""
 #: templates/single-product-reviews.php:64
 msgid "There are no reviews yet."
 msgstr ""
+"Dar nėra atsiliepimų.\n"
 
 #. translators: %s is product title
 #: templates/single-product-reviews.php:75
@@ -36483,7 +36485,7 @@ msgstr ""
 #. translators: %s is product title
 #: templates/single-product-reviews.php:75
 msgid "Be the first to review &ldquo;%s&rdquo;"
-msgstr ""
+msgstr "Būk pirmasis įvertinęs “%s”"
 
 #. translators: %s is product title
 #: templates/single-product-reviews.php:77
@@ -36492,7 +36494,7 @@ msgstr ""
 
 #: templates/single-product-reviews.php:81
 msgid "Submit"
-msgstr ""
+msgstr "Pateikti"
 
 #. translators: %s opening and closing link tags respectively
 #: templates/single-product-reviews.php:120
@@ -36501,7 +36503,7 @@ msgstr ""
 
 #: templates/single-product-reviews.php:124
 msgid "Your rating"
-msgstr ""
+msgstr "Vertinimas"
 
 #: templates/single-product-reviews.php:125
 msgid "Rate&hellip;"
@@ -36529,7 +36531,7 @@ msgstr ""
 
 #: templates/single-product-reviews.php:134
 msgid "Your review"
-msgstr ""
+msgstr "Atsiliepimas"
 
 #: templates/single-product/add-to-cart/variable.php:32
 msgid "This product is currently out of stock and unavailable."

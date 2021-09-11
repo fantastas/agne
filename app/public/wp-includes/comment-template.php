@@ -2467,7 +2467,7 @@ function comment_form( $args = array(), $post_id = null ) {
 		'comment_notes_before' => sprintf(
 			'<p class="comment-notes">%s%s</p>',
 			sprintf(
-				'<span id="email-notes">%s</span>',
+				'<div id="email-notes">%s</div>',
 				__( 'Your email address will not be published.' )
 			),
 			( $req ? $required_text : '' )

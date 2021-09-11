@@ -6,7 +6,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2021-09-09 06:59+0000\n"
+"PO-Revision-Date: 2021-09-11 08:56+0000\n"
 "Last-Translator: \n"
 "Language-Team: Lietuvių kalba\n"
 "Language: lt_LT\n"
@@ -1677,7 +1677,7 @@ msgstr ""
 
 #: inc/customizer.php:2643 woocommerce/single-product/up-sells.php:35
 msgid "Our offer"
-msgstr ""
+msgstr "Panašios prekės"
 
 #: inc/frontend/frontend.php:554
 msgid ""

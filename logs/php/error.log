@@ -552,3 +552,232 @@
 [08-Sep-2021 11:56:25 UTC] PHP  10. WP_Automatic_Updater->run() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/update.php:729
 [08-Sep-2021 11:56:25 UTC] PHP  11. wp_version_check() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/includes/class-wp-automatic-updater.php:521
 [08-Sep-2021 11:56:25 UTC] PHP  12. trigger_error() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/update.php:175
+[09-Sep-2021 05:46:31 UTC] PHP Warning:  Įvyko nenumatyta klaida. Kažkas gali būti blogai su WordPress.org serveriu ar Jūsų serverio nustatymais. Jei problema nepranyksta, kreipkitės į <a href="https://wordpress.org/support/forums/">pagalbos forumus</a>. (WordPress nepavyko sukurti saugaus ryšio su WordPress.org. Susisiekite su serverio administratoriumi.) in /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/update.php on line 413
+[09-Sep-2021 05:46:31 UTC] PHP Stack trace:
+[09-Sep-2021 05:46:31 UTC] PHP   1. {main}() /Users/mariussurvila/Local Sites/agne/app/public/wp-cron.php:0
+[09-Sep-2021 05:46:31 UTC] PHP   2. do_action_ref_array() /Users/mariussurvila/Local Sites/agne/app/public/wp-cron.php:138
+[09-Sep-2021 05:46:31 UTC] PHP   3. WP_Hook->do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/plugin.php:518
+[09-Sep-2021 05:46:31 UTC] PHP   4. WP_Hook->apply_filters() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:327
+[09-Sep-2021 05:46:31 UTC] PHP   5. wp_version_check() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:303
+[09-Sep-2021 05:46:31 UTC] PHP   6. do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/update.php:256
+[09-Sep-2021 05:46:31 UTC] PHP   7. WP_Hook->do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/plugin.php:470
+[09-Sep-2021 05:46:31 UTC] PHP   8. WP_Hook->apply_filters() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:327
+[09-Sep-2021 05:46:31 UTC] PHP   9. wp_maybe_auto_update() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:303
+[09-Sep-2021 05:46:31 UTC] PHP  10. WP_Automatic_Updater->run() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/update.php:729
+[09-Sep-2021 05:46:31 UTC] PHP  11. wp_update_plugins() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/includes/class-wp-automatic-updater.php:523
+[09-Sep-2021 05:46:31 UTC] PHP  12. trigger_error() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/update.php:413
+[11-Sep-2021 06:24:35 UTC] PHP Warning:  Įvyko nenumatyta klaida. Kažkas gali būti blogai su WordPress.org serveriu ar Jūsų serverio nustatymais. Jei problema nepranyksta, kreipkitės į <a href="https://wordpress.org/support/forums/">pagalbos forumus</a>. (WordPress nepavyko sukurti saugaus ryšio su WordPress.org. Susisiekite su serverio administratoriumi.) in /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/update.php on line 175
+[11-Sep-2021 06:24:35 UTC] PHP Stack trace:
+[11-Sep-2021 06:24:35 UTC] PHP   1. {main}() /Users/mariussurvila/Local Sites/agne/app/public/wp-cron.php:0
+[11-Sep-2021 06:24:35 UTC] PHP   2. do_action_ref_array() /Users/mariussurvila/Local Sites/agne/app/public/wp-cron.php:138
+[11-Sep-2021 06:24:35 UTC] PHP   3. WP_Hook->do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/plugin.php:518
+[11-Sep-2021 06:24:35 UTC] PHP   4. WP_Hook->apply_filters() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:327
+[11-Sep-2021 06:24:35 UTC] PHP   5. wp_version_check() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:303
+[11-Sep-2021 06:24:35 UTC] PHP   6. trigger_error() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/update.php:175
+[11-Sep-2021 06:24:35 UTC] PHP Warning:  Įvyko nenumatyta klaida. Kažkas gali būti blogai su WordPress.org serveriu ar Jūsų serverio nustatymais. Jei problema nepranyksta, kreipkitės į <a href="https://wordpress.org/support/forums/">pagalbos forumus</a>. (WordPress nepavyko sukurti saugaus ryšio su WordPress.org. Susisiekite su serverio administratoriumi.) in /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/update.php on line 413
+[11-Sep-2021 06:24:35 UTC] PHP Stack trace:
+[11-Sep-2021 06:24:35 UTC] PHP   1. {main}() /Users/mariussurvila/Local Sites/agne/app/public/wp-cron.php:0
+[11-Sep-2021 06:24:35 UTC] PHP   2. do_action_ref_array() /Users/mariussurvila/Local Sites/agne/app/public/wp-cron.php:138
+[11-Sep-2021 06:24:35 UTC] PHP   3. WP_Hook->do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/plugin.php:518
+[11-Sep-2021 06:24:35 UTC] PHP   4. WP_Hook->apply_filters() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:327
+[11-Sep-2021 06:24:35 UTC] PHP   5. wp_update_plugins() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:303
+[11-Sep-2021 06:24:35 UTC] PHP   6. trigger_error() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/update.php:413
+[11-Sep-2021 06:24:35 UTC] PHP Warning:  Įvyko nenumatyta klaida. Kažkas gali būti blogai su WordPress.org serveriu ar Jūsų serverio nustatymais. Jei problema nepranyksta, kreipkitės į <a href="https://wordpress.org/support/forums/">pagalbos forumus</a>. (WordPress nepavyko sukurti saugaus ryšio su WordPress.org. Susisiekite su serverio administratoriumi.) in /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/update.php on line 693
+[11-Sep-2021 06:24:35 UTC] PHP Stack trace:
+[11-Sep-2021 06:24:35 UTC] PHP   1. {main}() /Users/mariussurvila/Local Sites/agne/app/public/wp-cron.php:0
+[11-Sep-2021 06:24:35 UTC] PHP   2. do_action_ref_array() /Users/mariussurvila/Local Sites/agne/app/public/wp-cron.php:138
+[11-Sep-2021 06:24:35 UTC] PHP   3. WP_Hook->do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/plugin.php:518
+[11-Sep-2021 06:24:35 UTC] PHP   4. WP_Hook->apply_filters() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:327
+[11-Sep-2021 06:24:35 UTC] PHP   5. wp_update_themes() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:303
+[11-Sep-2021 06:24:35 UTC] PHP   6. trigger_error() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/update.php:693
+[11-Sep-2021 06:28:03 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/Requests/Transport/cURL.php on line 443
+[11-Sep-2021 06:28:03 UTC] PHP Stack trace:
+[11-Sep-2021 06:28:03 UTC] PHP   1. {main}() /Users/mariussurvila/Local Sites/agne/app/public/index.php:0
+[11-Sep-2021 06:28:03 UTC] PHP   2. require() /Users/mariussurvila/Local Sites/agne/app/public/index.php:17
+[11-Sep-2021 06:28:03 UTC] PHP   3. require_once() /Users/mariussurvila/Local Sites/agne/app/public/wp-blog-header.php:19
+[11-Sep-2021 06:28:03 UTC] PHP   4. include() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/template-loader.php:106
+[11-Sep-2021 06:28:03 UTC] PHP   5. get_footer() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/sober/page.php:38
+[11-Sep-2021 06:28:03 UTC] PHP   6. locate_template() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/general-template.php:92
+[11-Sep-2021 06:28:03 UTC] PHP   7. load_template() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/template.php:716
+[11-Sep-2021 06:28:03 UTC] PHP   8. require_once() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/template.php:770
+[11-Sep-2021 06:28:03 UTC] PHP   9. get_template_part() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/sober/footer.php:22
+[11-Sep-2021 06:28:03 UTC] PHP  10. locate_template() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/general-template.php:204
+[11-Sep-2021 06:28:03 UTC] PHP  11. load_template() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/template.php:716
+[11-Sep-2021 06:28:03 UTC] PHP  12. require() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/template.php:772
+[11-Sep-2021 06:28:03 UTC] PHP  13. do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/sober/template-parts/footer.php:10
+[11-Sep-2021 06:28:03 UTC] PHP  14. WP_Hook->do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/plugin.php:470
+[11-Sep-2021 06:28:03 UTC] PHP  15. WP_Hook->apply_filters() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:327
+[11-Sep-2021 06:28:03 UTC] PHP  16. sober_footer_instagram() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:303
+[11-Sep-2021 06:28:03 UTC] PHP  17. sober_get_instagram_images() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/sober/inc/frontend/footer.php:92
+[11-Sep-2021 06:28:03 UTC] PHP  18. sober_fetch_instagram_media() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/sober/inc/template-tags.php:1093
+[11-Sep-2021 06:28:03 UTC] PHP  19. wp_remote_get() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/sober/inc/template-tags.php:1189
+[11-Sep-2021 06:28:03 UTC] PHP  20. WP_Http->get() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/http.php:162
+[11-Sep-2021 06:28:03 UTC] PHP  21. WP_Http->request() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-http.php:626
+[11-Sep-2021 06:28:03 UTC] PHP  22. Requests::request() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-http.php:394
+[11-Sep-2021 06:28:03 UTC] PHP  23. Requests_Transport_cURL->request() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-requests.php:381
+[11-Sep-2021 06:28:03 UTC] PHP  24. Requests_Transport_cURL->process_response() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/Requests/Transport/cURL.php:179
+[11-Sep-2021 06:32:04 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/Requests/Transport/cURL.php on line 443
+[11-Sep-2021 06:32:04 UTC] PHP Stack trace:
+[11-Sep-2021 06:32:04 UTC] PHP   1. {main}() /Users/mariussurvila/Local Sites/agne/app/public/index.php:0
+[11-Sep-2021 06:32:04 UTC] PHP   2. require() /Users/mariussurvila/Local Sites/agne/app/public/index.php:17
+[11-Sep-2021 06:32:04 UTC] PHP   3. require_once() /Users/mariussurvila/Local Sites/agne/app/public/wp-blog-header.php:19
+[11-Sep-2021 06:32:04 UTC] PHP   4. include() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/template-loader.php:106
+[11-Sep-2021 06:32:04 UTC] PHP   5. get_footer() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/sober/page.php:38
+[11-Sep-2021 06:32:04 UTC] PHP   6. locate_template() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/general-template.php:92
+[11-Sep-2021 06:32:04 UTC] PHP   7. load_template() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/template.php:716
+[11-Sep-2021 06:32:04 UTC] PHP   8. require_once() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/template.php:770
+[11-Sep-2021 06:32:04 UTC] PHP   9. get_template_part() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/sober/footer.php:22
+[11-Sep-2021 06:32:04 UTC] PHP  10. locate_template() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/general-template.php:204
+[11-Sep-2021 06:32:04 UTC] PHP  11. load_template() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/template.php:716
+[11-Sep-2021 06:32:04 UTC] PHP  12. require() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/template.php:772
+[11-Sep-2021 06:32:04 UTC] PHP  13. do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/sober/template-parts/footer.php:10
+[11-Sep-2021 06:32:04 UTC] PHP  14. WP_Hook->do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/plugin.php:470
+[11-Sep-2021 06:32:04 UTC] PHP  15. WP_Hook->apply_filters() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:327
+[11-Sep-2021 06:32:04 UTC] PHP  16. sober_footer_instagram() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:303
+[11-Sep-2021 06:32:04 UTC] PHP  17. sober_get_instagram_images() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/sober/inc/frontend/footer.php:92
+[11-Sep-2021 06:32:04 UTC] PHP  18. sober_fetch_instagram_media() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/sober/inc/template-tags.php:1093
+[11-Sep-2021 06:32:04 UTC] PHP  19. wp_remote_get() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/sober/inc/template-tags.php:1189
+[11-Sep-2021 06:32:04 UTC] PHP  20. WP_Http->get() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/http.php:162
+[11-Sep-2021 06:32:04 UTC] PHP  21. WP_Http->request() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-http.php:626
+[11-Sep-2021 06:32:04 UTC] PHP  22. Requests::request() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-http.php:394
+[11-Sep-2021 06:32:04 UTC] PHP  23. Requests_Transport_cURL->request() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-requests.php:381
+[11-Sep-2021 06:32:04 UTC] PHP  24. Requests_Transport_cURL->process_response() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/Requests/Transport/cURL.php:179
+[11-Sep-2021 06:32:04 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-fatal-error-handler.php on line 72
+[11-Sep-2021 06:32:04 UTC] PHP Stack trace:
+[11-Sep-2021 06:32:04 UTC] PHP   1. {main}() /Users/mariussurvila/Local Sites/agne/app/public/index.php:0
+[11-Sep-2021 06:32:04 UTC] PHP   2. require() /Users/mariussurvila/Local Sites/agne/app/public/index.php:17
+[11-Sep-2021 06:32:04 UTC] PHP   3. require_once() /Users/mariussurvila/Local Sites/agne/app/public/wp-blog-header.php:19
+[11-Sep-2021 06:32:04 UTC] PHP   4. include() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/template-loader.php:106
+[11-Sep-2021 06:32:04 UTC] PHP   5. get_footer() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/sober/page.php:38
+[11-Sep-2021 06:32:04 UTC] PHP   6. locate_template() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/general-template.php:92
+[11-Sep-2021 06:32:04 UTC] PHP   7. load_template() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/template.php:716
+[11-Sep-2021 06:32:04 UTC] PHP   8. require_once() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/template.php:770
+[11-Sep-2021 06:32:04 UTC] PHP   9. get_template_part() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/sober/footer.php:22
+[11-Sep-2021 06:32:04 UTC] PHP  10. locate_template() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/general-template.php:204
+[11-Sep-2021 06:32:04 UTC] PHP  11. load_template() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/template.php:716
+[11-Sep-2021 06:32:04 UTC] PHP  12. require() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/template.php:772
+[11-Sep-2021 06:32:04 UTC] PHP  13. do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/sober/template-parts/footer.php:10
+[11-Sep-2021 06:32:04 UTC] PHP  14. WP_Hook->do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/plugin.php:470
+[11-Sep-2021 06:32:04 UTC] PHP  15. WP_Hook->apply_filters() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:327
+[11-Sep-2021 06:32:04 UTC] PHP  16. sober_footer_instagram() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:303
+[11-Sep-2021 06:32:04 UTC] PHP  17. sober_get_instagram_images() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/sober/inc/frontend/footer.php:92
+[11-Sep-2021 06:32:04 UTC] PHP  18. sober_fetch_instagram_media() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/sober/inc/template-tags.php:1093
+[11-Sep-2021 06:32:04 UTC] PHP  19. wp_remote_get() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/sober/inc/template-tags.php:1189
+[11-Sep-2021 06:32:04 UTC] PHP  20. WP_Http->get() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/http.php:162
+[11-Sep-2021 06:32:04 UTC] PHP  21. WP_Http->request() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-http.php:626
+[11-Sep-2021 06:32:04 UTC] PHP  22. Requests::request() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-http.php:394
+[11-Sep-2021 06:32:04 UTC] PHP  23. Requests_Transport_cURL->request() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-requests.php:381
+[11-Sep-2021 06:32:04 UTC] PHP  24. Requests_Transport_cURL->process_response() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/Requests/Transport/cURL.php:179
+[11-Sep-2021 06:32:04 UTC] PHP  25. WP_Fatal_Error_Handler->handle() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-fatal-error-handler.php:0
+[11-Sep-2021 06:32:04 UTC] PHP  26. WP_Fatal_Error_Handler->detect_error() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-fatal-error-handler.php:40
+[11-Sep-2021 06:32:04 UTC] PHP  27. error_get_last() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-fatal-error-handler.php:72
+[11-Sep-2021 06:33:11 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/Requests/Transport/cURL.php on line 443
+[11-Sep-2021 06:33:11 UTC] PHP Stack trace:
+[11-Sep-2021 06:33:11 UTC] PHP   1. {main}() /Users/mariussurvila/Local Sites/agne/app/public/index.php:0
+[11-Sep-2021 06:33:11 UTC] PHP   2. require() /Users/mariussurvila/Local Sites/agne/app/public/index.php:17
+[11-Sep-2021 06:33:11 UTC] PHP   3. require_once() /Users/mariussurvila/Local Sites/agne/app/public/wp-blog-header.php:19
+[11-Sep-2021 06:33:11 UTC] PHP   4. include() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/template-loader.php:106
+[11-Sep-2021 06:33:11 UTC] PHP   5. get_footer() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/sober/page.php:38
+[11-Sep-2021 06:33:11 UTC] PHP   6. locate_template() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/general-template.php:92
+[11-Sep-2021 06:33:11 UTC] PHP   7. load_template() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/template.php:716
+[11-Sep-2021 06:33:11 UTC] PHP   8. require_once() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/template.php:770
+[11-Sep-2021 06:33:11 UTC] PHP   9. get_template_part() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/sober/footer.php:22
+[11-Sep-2021 06:33:11 UTC] PHP  10. locate_template() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/general-template.php:204
+[11-Sep-2021 06:33:11 UTC] PHP  11. load_template() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/template.php:716
+[11-Sep-2021 06:33:11 UTC] PHP  12. require() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/template.php:772
+[11-Sep-2021 06:33:11 UTC] PHP  13. do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/sober/template-parts/footer.php:10
+[11-Sep-2021 06:33:11 UTC] PHP  14. WP_Hook->do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/plugin.php:470
+[11-Sep-2021 06:33:11 UTC] PHP  15. WP_Hook->apply_filters() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:327
+[11-Sep-2021 06:33:11 UTC] PHP  16. sober_footer_instagram() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:303
+[11-Sep-2021 06:33:11 UTC] PHP  17. sober_get_instagram_images() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/sober/inc/frontend/footer.php:92
+[11-Sep-2021 06:33:11 UTC] PHP  18. sober_fetch_instagram_media() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/sober/inc/template-tags.php:1093
+[11-Sep-2021 06:33:11 UTC] PHP  19. wp_remote_get() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/sober/inc/template-tags.php:1189
+[11-Sep-2021 06:33:11 UTC] PHP  20. WP_Http->get() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/http.php:162
+[11-Sep-2021 06:33:11 UTC] PHP  21. WP_Http->request() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-http.php:626
+[11-Sep-2021 06:33:11 UTC] PHP  22. Requests::request() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-http.php:394
+[11-Sep-2021 06:33:11 UTC] PHP  23. Requests_Transport_cURL->request() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-requests.php:381
+[11-Sep-2021 06:33:11 UTC] PHP  24. Requests_Transport_cURL->process_response() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/Requests/Transport/cURL.php:179
+[11-Sep-2021 06:33:11 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-fatal-error-handler.php on line 72
+[11-Sep-2021 06:33:11 UTC] PHP Stack trace:
+[11-Sep-2021 06:33:11 UTC] PHP   1. {main}() /Users/mariussurvila/Local Sites/agne/app/public/index.php:0
+[11-Sep-2021 06:33:11 UTC] PHP   2. require() /Users/mariussurvila/Local Sites/agne/app/public/index.php:17
+[11-Sep-2021 06:33:11 UTC] PHP   3. require_once() /Users/mariussurvila/Local Sites/agne/app/public/wp-blog-header.php:19
+[11-Sep-2021 06:33:11 UTC] PHP   4. include() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/template-loader.php:106
+[11-Sep-2021 06:33:11 UTC] PHP   5. get_footer() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/sober/page.php:38
+[11-Sep-2021 06:33:11 UTC] PHP   6. locate_template() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/general-template.php:92
+[11-Sep-2021 06:33:11 UTC] PHP   7. load_template() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/template.php:716
+[11-Sep-2021 06:33:11 UTC] PHP   8. require_once() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/template.php:770
+[11-Sep-2021 06:33:11 UTC] PHP   9. get_template_part() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/sober/footer.php:22
+[11-Sep-2021 06:33:11 UTC] PHP  10. locate_template() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/general-template.php:204
+[11-Sep-2021 06:33:11 UTC] PHP  11. load_template() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/template.php:716
+[11-Sep-2021 06:33:11 UTC] PHP  12. require() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/template.php:772
+[11-Sep-2021 06:33:11 UTC] PHP  13. do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/sober/template-parts/footer.php:10
+[11-Sep-2021 06:33:11 UTC] PHP  14. WP_Hook->do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/plugin.php:470
+[11-Sep-2021 06:33:11 UTC] PHP  15. WP_Hook->apply_filters() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:327
+[11-Sep-2021 06:33:11 UTC] PHP  16. sober_footer_instagram() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:303
+[11-Sep-2021 06:33:11 UTC] PHP  17. sober_get_instagram_images() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/sober/inc/frontend/footer.php:92
+[11-Sep-2021 06:33:11 UTC] PHP  18. sober_fetch_instagram_media() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/sober/inc/template-tags.php:1093
+[11-Sep-2021 06:33:11 UTC] PHP  19. wp_remote_get() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/sober/inc/template-tags.php:1189
+[11-Sep-2021 06:33:11 UTC] PHP  20. WP_Http->get() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/http.php:162
+[11-Sep-2021 06:33:11 UTC] PHP  21. WP_Http->request() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-http.php:626
+[11-Sep-2021 06:33:11 UTC] PHP  22. Requests::request() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-http.php:394
+[11-Sep-2021 06:33:11 UTC] PHP  23. Requests_Transport_cURL->request() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-requests.php:381
+[11-Sep-2021 06:33:11 UTC] PHP  24. Requests_Transport_cURL->process_response() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/Requests/Transport/cURL.php:179
+[11-Sep-2021 06:33:11 UTC] PHP  25. WP_Fatal_Error_Handler->handle() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-fatal-error-handler.php:0
+[11-Sep-2021 06:33:11 UTC] PHP  26. WP_Fatal_Error_Handler->detect_error() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-fatal-error-handler.php:40
+[11-Sep-2021 06:33:11 UTC] PHP  27. error_get_last() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-fatal-error-handler.php:72
+[11-Sep-2021 06:36:19 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/Requests/Transport/cURL.php on line 443
+[11-Sep-2021 06:36:19 UTC] PHP Stack trace:
+[11-Sep-2021 06:36:19 UTC] PHP   1. {main}() /Users/mariussurvila/Local Sites/agne/app/public/index.php:0
+[11-Sep-2021 06:36:19 UTC] PHP   2. require() /Users/mariussurvila/Local Sites/agne/app/public/index.php:17
+[11-Sep-2021 06:36:19 UTC] PHP   3. require_once() /Users/mariussurvila/Local Sites/agne/app/public/wp-blog-header.php:19
+[11-Sep-2021 06:36:19 UTC] PHP   4. include() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/template-loader.php:106
+[11-Sep-2021 06:36:19 UTC] PHP   5. get_footer() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/sober/page.php:38
+[11-Sep-2021 06:36:19 UTC] PHP   6. locate_template() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/general-template.php:92
+[11-Sep-2021 06:36:19 UTC] PHP   7. load_template() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/template.php:716
+[11-Sep-2021 06:36:19 UTC] PHP   8. require_once() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/template.php:770
+[11-Sep-2021 06:36:19 UTC] PHP   9. get_template_part() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/sober/footer.php:22
+[11-Sep-2021 06:36:19 UTC] PHP  10. locate_template() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/general-template.php:204
+[11-Sep-2021 06:36:19 UTC] PHP  11. load_template() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/template.php:716
+[11-Sep-2021 06:36:19 UTC] PHP  12. require() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/template.php:772
+[11-Sep-2021 06:36:19 UTC] PHP  13. do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/sober/template-parts/footer.php:10
+[11-Sep-2021 06:36:19 UTC] PHP  14. WP_Hook->do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/plugin.php:470
+[11-Sep-2021 06:36:19 UTC] PHP  15. WP_Hook->apply_filters() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:327
+[11-Sep-2021 06:36:19 UTC] PHP  16. sober_footer_instagram() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:303
+[11-Sep-2021 06:36:19 UTC] PHP  17. sober_get_instagram_images() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/sober/inc/frontend/footer.php:92
+[11-Sep-2021 06:36:19 UTC] PHP  18. sober_fetch_instagram_media() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/sober/inc/template-tags.php:1093
+[11-Sep-2021 06:36:19 UTC] PHP  19. wp_remote_get() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/sober/inc/template-tags.php:1189
+[11-Sep-2021 06:36:19 UTC] PHP  20. WP_Http->get() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/http.php:162
+[11-Sep-2021 06:36:19 UTC] PHP  21. WP_Http->request() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-http.php:626
+[11-Sep-2021 06:36:19 UTC] PHP  22. Requests::request() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-http.php:394
+[11-Sep-2021 06:36:19 UTC] PHP  23. Requests_Transport_cURL->request() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-requests.php:381
+[11-Sep-2021 06:36:19 UTC] PHP  24. Requests_Transport_cURL->process_response() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/Requests/Transport/cURL.php:179
+[11-Sep-2021 06:36:19 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-fatal-error-handler.php on line 72
+[11-Sep-2021 06:36:19 UTC] PHP Stack trace:
+[11-Sep-2021 06:36:19 UTC] PHP   1. {main}() /Users/mariussurvila/Local Sites/agne/app/public/index.php:0
+[11-Sep-2021 06:36:19 UTC] PHP   2. require() /Users/mariussurvila/Local Sites/agne/app/public/index.php:17
+[11-Sep-2021 06:36:19 UTC] PHP   3. require_once() /Users/mariussurvila/Local Sites/agne/app/public/wp-blog-header.php:19
+[11-Sep-2021 06:36:19 UTC] PHP   4. include() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/template-loader.php:106
+[11-Sep-2021 06:36:19 UTC] PHP   5. get_footer() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/sober/page.php:38
+[11-Sep-2021 06:36:19 UTC] PHP   6. locate_template() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/general-template.php:92
+[11-Sep-2021 06:36:19 UTC] PHP   7. load_template() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/template.php:716
+[11-Sep-2021 06:36:19 UTC] PHP   8. require_once() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/template.php:770
+[11-Sep-2021 06:36:19 UTC] PHP   9. get_template_part() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/sober/footer.php:22
+[11-Sep-2021 06:36:19 UTC] PHP  10. locate_template() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/general-template.php:204
+[11-Sep-2021 06:36:19 UTC] PHP  11. load_template() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/template.php:716
+[11-Sep-2021 06:36:19 UTC] PHP  12. require() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/template.php:772
+[11-Sep-2021 06:36:19 UTC] PHP  13. do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/sober/template-parts/footer.php:10
+[11-Sep-2021 06:36:19 UTC] PHP  14. WP_Hook->do_action() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/plugin.php:470
+[11-Sep-2021 06:36:19 UTC] PHP  15. WP_Hook->apply_filters() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:327
+[11-Sep-2021 06:36:19 UTC] PHP  16. sober_footer_instagram() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:303
+[11-Sep-2021 06:36:19 UTC] PHP  17. sober_get_instagram_images() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/sober/inc/frontend/footer.php:92
+[11-Sep-2021 06:36:19 UTC] PHP  18. sober_fetch_instagram_media() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/sober/inc/template-tags.php:1093
+[11-Sep-2021 06:36:19 UTC] PHP  19. wp_remote_get() /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/sober/inc/template-tags.php:1189
+[11-Sep-2021 06:36:19 UTC] PHP  20. WP_Http->get() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/http.php:162
+[11-Sep-2021 06:36:19 UTC] PHP  21. WP_Http->request() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-http.php:626
+[11-Sep-2021 06:36:19 UTC] PHP  22. Requests::request() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-http.php:394
+[11-Sep-2021 06:36:19 UTC] PHP  23. Requests_Transport_cURL->request() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-requests.php:381
+[11-Sep-2021 06:36:19 UTC] PHP  24. Requests_Transport_cURL->process_response() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/Requests/Transport/cURL.php:179
+[11-Sep-2021 06:36:19 UTC] PHP  25. WP_Fatal_Error_Handler->handle() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-fatal-error-handler.php:0
+[11-Sep-2021 06:36:19 UTC] PHP  26. WP_Fatal_Error_Handler->detect_error() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-fatal-error-handler.php:40
+[11-Sep-2021 06:36:19 UTC] PHP  27. error_get_last() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-fatal-error-handler.php:72

@@ -1,0 +1,2 @@
+2021-09-11T06:28:03+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/Requests/Transport/cURL.php on line 443
+

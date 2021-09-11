@@ -6,7 +6,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2021-09-08 14:05+0000\n"
+"PO-Revision-Date: 2021-09-09 06:59+0000\n"
 "Last-Translator: \n"
 "Language-Team: Lietuvių kalba\n"
 "Language: lt_LT\n"
@@ -301,7 +301,7 @@ msgstr ""
 #: inc/customizer.php:1449 inc/customizer.php:1471 inc/customizer.php:1493
 #: inc/customizer.php:1515 inc/customizer.php:1537 inc/frontend/footer.php:384
 msgid "Cart"
-msgstr ""
+msgstr "Krepšelis"
 
 #: inc/customizer.php:2127
 msgid "Cart Counter Badge"

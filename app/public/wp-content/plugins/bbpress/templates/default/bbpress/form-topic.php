@@ -138,13 +138,7 @@ if ( ! bbp_is_single_forum() ) : ?>
 
 						<?php do_action( 'bbp_theme_before_topic_form_type' ); ?>
 
-						<p>
-
-							<label for="bbp_stick_topic"><?php esc_html_e( 'Topic Type:', 'bbpress' ); ?></label><br />
-
-							<?php bbp_form_topic_type_dropdown(); ?>
-
-						</p>
+		
 
 						<?php do_action( 'bbp_theme_after_topic_form_type' ); ?>
 

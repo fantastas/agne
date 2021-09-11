@@ -8,7 +8,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2021-09-11 16:05+0000\n"
+"PO-Revision-Date: 2021-09-11 17:31+0000\n"
 "Last-Translator: \n"
 "Language-Team: Lietuvių kalba\n"
 "X-Generator: Loco https://localise.biz/\n"
@@ -39,7 +39,7 @@ msgstr ""
 
 #: bbpress.php:724
 msgid "Topics with no replies"
-msgstr ""
+msgstr "Temos be atsakymų"
 
 #: bbpress.php:761
 msgid "bbPress Item Count"
@@ -59,7 +59,7 @@ msgstr ""
 #: templates/default/bbpress/content-statistics.php:30
 #: templates/default/bbpress/loop-forums.php:21
 msgid "Topics"
-msgstr ""
+msgstr "Temos"
 
 #: includes/admin/actions.php:185 includes/admin/actions.php:197
 #: includes/admin/forums.php:539 includes/admin/settings.php:289
@@ -95,7 +95,7 @@ msgstr ""
 #: templates/default/bbpress/content-single-topic-lead.php:91
 #: templates/default/bbpress/loop-topics.php:18
 msgid "Topic"
-msgstr ""
+msgstr "Tema"
 
 #: includes/admin/classes/class-bbp-admin.php:234
 msgid "Learn More"
@@ -616,7 +616,7 @@ msgstr ""
 #: templates/default/bbpress/loop-search.php:19
 #: templates/default/bbpress/loop-search.php:41
 msgid "Author"
-msgstr ""
+msgstr "Autorius"
 
 #: includes/admin/classes/class-bbp-topic-replies-list-table.php:60
 msgid "Content"
@@ -948,7 +948,7 @@ msgstr "Sukurta"
 #: templates/default/bbpress/loop-forums.php:26
 #: templates/default/bbpress/loop-topics.php:24
 msgid "Last Post"
-msgstr ""
+msgstr "Paskutinis įrašas"
 
 #: includes/admin/forums.php:578
 msgid "&mdash;"
@@ -1045,8 +1045,8 @@ msgstr[2] ""
 #: includes/admin/metaboxes.php:70
 msgid "%s Reply"
 msgid_plural "%s Replies"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%s atsakymas"
+msgstr[1] "%s atsakymai"
 msgstr[2] ""
 
 #: includes/admin/metaboxes.php:79
@@ -1064,15 +1064,15 @@ msgstr ""
 msgid "Reply"
 msgid_plural "Replies"
 msgstr[0] ""
-msgstr[1] ""
+msgstr[1] "Atsakymas"
 msgstr[2] ""
 
 #: includes/admin/metaboxes.php:166 includes/admin/settings.php:368
 #: includes/topics/template.php:3387
 msgid "Topic Tag"
 msgid_plural "Topic Tags"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Temos Raktažodžis"
+msgstr[1] "Temos Raktažodžiai::"
 msgstr[2] ""
 
 #: includes/admin/metaboxes.php:190
@@ -1174,7 +1174,7 @@ msgstr ""
 
 #: includes/admin/metaboxes.php:509
 msgid "&mdash; No reply &mdash;"
-msgstr ""
+msgstr "&mdash; Atsakymų nėra &mdash;"
 
 #: includes/admin/metaboxes.php:522
 #: templates/default/bbpress/loop-search-topic.php:25
@@ -1184,11 +1184,11 @@ msgstr ""
 #: includes/admin/metaboxes.php:535
 #: templates/default/bbpress/form-reply.php:129
 msgid "Reply To:"
-msgstr ""
+msgstr "Atsakyti:"
 
 #: includes/admin/metaboxes.php:536
 msgid "Reply To"
-msgstr ""
+msgstr "Atsakyti:"
 
 #: includes/admin/metaboxes.php:607
 #: templates/default/bbpress/form-topic-tag.php:40
@@ -1423,8 +1423,8 @@ msgstr ""
 #: includes/admin/replies.php:251
 msgid "%s reply updated."
 msgid_plural "%s replies updated."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%s atsakymas atnaujintas."
+msgstr[1] "%s atsakymai atnaujinti."
 msgstr[2] ""
 
 #: includes/admin/replies.php:253
@@ -1461,7 +1461,7 @@ msgstr ""
 
 #: includes/admin/replies.php:459
 msgid "The reply was not found."
-msgstr ""
+msgstr "Atsakymas nerastas."
 
 #: includes/admin/replies.php:562
 msgid "There was a problem marking the reply \"%1$s\" as spam."
@@ -1593,7 +1593,7 @@ msgstr ""
 
 #: includes/admin/replies.php:1005
 msgid "Reply submitted."
-msgstr ""
+msgstr "Atsakyta"
 
 #: includes/admin/replies.php:1007 includes/admin/replies.php:1019
 #: includes/admin/replies.php:1027 includes/admin/topics.php:1211
@@ -1701,7 +1701,7 @@ msgstr ""
 
 #: includes/admin/settings.php:222
 msgid "Topic tags"
-msgstr ""
+msgstr "Temos raktažodžiai:"
 
 #: includes/admin/settings.php:230 includes/admin/settings.php:400
 #: includes/common/template.php:2446 includes/search/template.php:175
@@ -1709,7 +1709,7 @@ msgstr ""
 #: templates/default/bbpress/form-search.php:21
 #: templates/default/bbpress/form-topic-search.php:20
 msgid "Search"
-msgstr "Paieška"
+msgstr "Ieškoti"
 
 #: includes/admin/settings.php:238
 msgid "Post Formatting"
@@ -2301,7 +2301,7 @@ msgstr ""
 #: templates/default/bbpress/loop-replies.php:47
 #: templates/default/bbpress/loop-topics.php:22
 msgid "Posts"
-msgstr ""
+msgstr "Įrašai"
 
 #: includes/admin/settings.php:2025
 msgid "Pages"
@@ -2411,7 +2411,7 @@ msgstr ""
 #: includes/topics/template.php:3386
 #: templates/default/bbpress/content-statistics.php:40
 msgid "Topic Tags"
-msgstr ""
+msgstr "Temos raktažodžiai:"
 
 #: includes/admin/tools/common.php:479
 msgid "2.5.0"
@@ -3537,7 +3537,7 @@ msgstr ""
 
 #: includes/admin/topics.php:857 templates/default/bbpress/loop-topics.php:19
 msgid "Voices"
-msgstr ""
+msgstr "Dalyvių skaičius"
 
 #: includes/admin/topics.php:935 includes/topics/template.php:1988
 msgid "No Replies"
@@ -3603,7 +3603,7 @@ msgstr ""
 
 #: includes/admin/topics.php:1198
 msgid "Topic created."
-msgstr "Tema sukurta."
+msgstr "Atsakymai"
 
 #: includes/admin/topics.php:1204
 msgid "Topic saved."
@@ -3611,7 +3611,7 @@ msgstr ""
 
 #: includes/admin/topics.php:1209
 msgid "Topic submitted."
-msgstr ""
+msgstr "Tema paskelbta."
 
 #: includes/admin/topics.php:1218
 msgid "Topic scheduled for: %s."
@@ -3654,7 +3654,7 @@ msgstr ""
 
 #: includes/common/formatting.php:648
 msgid "%s ago"
-msgstr ""
+msgstr "prieš %s "
 
 #: includes/common/formatting.php:652
 msgid "%s year"
@@ -3687,15 +3687,15 @@ msgstr[2] ""
 #: includes/common/formatting.php:656
 msgid "%s hour"
 msgid_plural "%s hours"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%s valandą"
+msgstr[1] "%s valandų"
 msgstr[2] ""
 
 #: includes/common/formatting.php:657
 msgid "%s minute"
 msgid_plural "%s minutes"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%s minutę"
+msgstr[1] "%s minutes"
 msgstr[2] ""
 
 #: includes/common/formatting.php:658
@@ -3830,7 +3830,7 @@ msgstr ""
 
 #: includes/common/template.php:2700
 msgid "Your Topics"
-msgstr ""
+msgstr "Jūsų temos"
 
 #. translators: user's display name
 #: includes/common/template.php:2704
@@ -4019,7 +4019,7 @@ msgstr ""
 
 #: includes/common/widgets.php:892
 msgid "Topics With Recent Replies"
-msgstr ""
+msgstr "Temos su naujausiais atsakymais"
 
 #: includes/common/widgets.php:908
 msgid "Recent Topics"
@@ -4318,7 +4318,7 @@ msgstr ""
 
 #: includes/forums/functions.php:240
 msgid "<strong>Error</strong>: Your forum cannot be created at this time."
-msgstr "<strong>Klaida</strong>:"
+msgstr "<strong>Klaida</strong>: Šiuo metu jūsų forumas negali būti sukurtas."
 
 #: includes/forums/functions.php:353 includes/replies/functions.php:484
 #: includes/topics/functions.php:400
@@ -4327,7 +4327,7 @@ msgstr ""
 
 #: includes/forums/functions.php:357
 msgid "<strong>Error</strong>: The forum was not created."
-msgstr "<strong>Klaida</strong>:"
+msgstr "<strong>Klaida</strong>: Forumas sukurtas nebuvo."
 
 #: includes/forums/functions.php:382
 msgid "<strong>Error</strong>: Forum ID not found."
@@ -4352,7 +4352,7 @@ msgstr ""
 
 #: includes/forums/template.php:53 templates/default/bbpress/form-forum.php:40
 msgid "Create New Forum"
-msgstr ""
+msgstr "Sukuti naują forumą"
 
 #: includes/forums/template.php:55
 msgid "Edit Forum"
@@ -4437,12 +4437,12 @@ msgstr ""
 #: includes/forums/template.php:833 includes/topics/template.php:1781
 #: includes/users/template.php:1279
 msgid "Subscribe"
-msgstr ""
+msgstr "Sekti"
 
 #: includes/forums/template.php:834 includes/topics/template.php:1782
 #: includes/users/template.php:1280
 msgid "Unsubscribe"
-msgstr ""
+msgstr "Nebesekti"
 
 #: includes/forums/template.php:1170 includes/forums/template.php:2012
 msgid "%s topic"
@@ -4461,8 +4461,8 @@ msgstr[2] ""
 #: includes/forums/template.php:2001 includes/topics/template.php:2016
 msgid "%s reply"
 msgid_plural "%s replies"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%s atsakymas"
+msgstr[1] "%s atsakymai"
 msgstr[2] ""
 
 #: includes/forums/template.php:2021
@@ -4543,7 +4543,9 @@ msgstr ""
 msgid ""
 "<strong>Error</strong>: This forum is a category. No replies can be created "
 "in this forum."
-msgstr "<strong>Klaida</strong>: Šis"
+msgstr ""
+"<strong>Klaida</strong>: Šis forumas yra kategorija. Šiame forume negalima "
+"kurti atsakymų."
 
 #: includes/replies/functions.php:250 includes/replies/functions.php:586
 msgid "<strong>Error</strong>: This forum has been closed to new replies."
@@ -4553,13 +4555,17 @@ msgstr ""
 msgid ""
 "<strong>Error</strong>: This forum is private and you do not have the "
 "capability to read or create new replies in it."
-msgstr "<strong>Klaida</strong>: Šis"
+msgstr ""
+"<strong>Klaida</strong>: Šis forumas yra privatus ir jūs negalite jame "
+"skaityti ar kurti naujų atsakymų."
 
 #: includes/replies/functions.php:259 includes/replies/functions.php:595
 msgid ""
 "<strong>Error</strong>: This forum is hidden and you do not have the "
 "capability to read or create new replies in it."
-msgstr "<strong>Klaida</strong>: Šis"
+msgstr ""
+"<strong>Klaida</strong>: Šis forumas yra paslėptas ir jūs negalite jame "
+"skaityti ar kurti naujų atsakymų."
 
 #: includes/replies/functions.php:298 includes/replies/functions.php:625
 msgid "<strong>Error</strong>: Your reply cannot be empty."
@@ -4573,7 +4579,7 @@ msgstr ""
 
 #: includes/replies/functions.php:316
 msgid "<strong>Error</strong>: Your reply cannot be created at this time."
-msgstr "<strong>Klaida</strong>: Šis"
+msgstr "<strong>Klaida</strong>: Šiuo metu jūsų atsakymo sukurti negalima."
 
 #: includes/replies/functions.php:341
 msgid "<strong>Error</strong>: Topic is closed."
@@ -4586,7 +4592,7 @@ msgstr ""
 
 #: includes/replies/functions.php:488
 msgid "<strong>Error</strong>: The reply was not created."
-msgstr "<strong>Klaida</strong>: Šis"
+msgstr "<strong>Klaida</strong>: Atsakymas nebuvo sukurtas."
 
 #: includes/replies/functions.php:516
 msgid "<strong>Error</strong>: Reply ID not found."
@@ -4651,7 +4657,9 @@ msgstr ""
 msgid ""
 "<strong>Error</strong>: You do not have permission to create new topics. The "
 "reply could not be converted into a topic."
-msgstr "<strong>Klaida</strong>: Šis"
+msgstr ""
+"<strong>Klaida</strong>: Neturite leidimo kurti naujų temų. Atsakymo "
+"nepavyko paversti tema."
 
 #: includes/replies/functions.php:1497
 msgid ""
@@ -4693,7 +4701,7 @@ msgstr ""
 
 #: includes/replies/functions.php:2134
 msgid "All Posts"
-msgstr ""
+msgstr "Visi įrašai"
 
 #: includes/replies/functions.php:2180 includes/topics/functions.php:3800
 msgid "Replies: %s"
@@ -4701,7 +4709,7 @@ msgstr ""
 
 #: includes/replies/template.php:54
 msgid "Create New Reply"
-msgstr ""
+msgstr "Atsakyti"
 
 #: includes/replies/template.php:56
 msgid "Edit Reply"
@@ -4794,7 +4802,7 @@ msgstr ""
 #: includes/replies/template.php:552
 #: templates/default/bbpress/form-reply.php:30
 msgid "Reply To: %s"
-msgstr ""
+msgstr "Atsakyti"
 
 #: includes/replies/template.php:764
 msgid "This reply was modified %1$s by %2$s. Reason: %3$s"
@@ -4855,8 +4863,8 @@ msgstr[2] ""
 #: includes/replies/template.php:2386
 msgid "Viewing %1$s reply"
 msgid_plural "Viewing %1$s replies"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Peržiūrimas %1$s atsakymas"
+msgstr[1] "Peržiūrimi %1$s atsakymai"
 msgstr[2] ""
 
 #: includes/replies/template.php:2390
@@ -4869,8 +4877,8 @@ msgstr[2] ""
 #: includes/replies/template.php:2398
 msgid "Viewing %1$s post"
 msgid_plural "Viewing %1$s posts"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Peržiūrimas %1$s įrašas"
+msgstr[1] "Peržiūrimi %1$s įrašai"
 msgstr[2] ""
 
 #: includes/replies/template.php:2402
@@ -4905,7 +4913,7 @@ msgstr "<strong>Klaida</strong>: Neturite leidimo kurti naujų temų."
 
 #: includes/topics/functions.php:158 includes/topics/functions.php:530
 msgid "<strong>Error</strong>: Your topic needs a title."
-msgstr ""
+msgstr "<strong>Klaida</strong>: Jūsų temai trūksta pavadinimo."
 
 #: includes/topics/functions.php:177 includes/topics/functions.php:549
 msgid "<strong>Error</strong>: Your topic cannot be empty."
@@ -5104,7 +5112,7 @@ msgstr ""
 
 #: includes/topics/template.php:52 templates/default/bbpress/form-topic.php:48
 msgid "Create New Topic"
-msgstr ""
+msgstr "Sukurti naują temą"
 
 #: includes/topics/template.php:54
 msgid "Edit Topic"
@@ -5120,7 +5128,7 @@ msgstr ""
 
 #: includes/topics/template.php:58
 msgid "View Topics"
-msgstr ""
+msgstr "Peržiūrėti temas"
 
 #: includes/topics/template.php:59
 msgid "Search Topics"
@@ -5200,15 +5208,15 @@ msgstr ""
 
 #: includes/topics/template.php:1829 includes/users/template.php:1081
 msgid "Favorite"
-msgstr ""
+msgstr "Pamėgti"
 
 #: includes/topics/template.php:1830 includes/users/template.php:1082
 msgid "Unfavorite"
-msgstr ""
+msgstr "Nebemėgti"
 
 #: includes/topics/template.php:2195
 msgid "Tagged:"
-msgstr ""
+msgstr "Raktažodžiai:"
 
 #: includes/topics/template.php:2756
 #: templates/default/bbpress/form-topic-tag.php:69
@@ -5252,14 +5260,15 @@ msgstr[2] ""
 #: includes/topics/template.php:3322
 msgid "This topic has %1$s, %2$s, and was last updated %3$s by %4$s."
 msgstr ""
+"Ši tema turi  %1$s, %2$s ir buvo paskutinį kart atnaujinta %3$s by %4$s."
 
 #: includes/topics/template.php:3326
 msgid "This topic has %1$s and %2$s."
-msgstr ""
+msgstr "Ši tema turi %1$s ir %2$s."
 
 #: includes/topics/template.php:3330
 msgid "This topic has no replies."
-msgstr ""
+msgstr "Ši tema atsakymų neturi."
 
 #: includes/topics/template.php:3338
 msgid "This topic is empty."
@@ -5267,11 +5276,11 @@ msgstr ""
 
 #: includes/topics/template.php:3388
 msgid "Search Tags"
-msgstr "Ieškoti žymose"
+msgstr "Ieškoti raktažodžio"
 
 #: includes/topics/template.php:3389
 msgid "Popular Tags"
-msgstr ""
+msgstr "Populiarios raktažodžiai"
 
 #: includes/topics/template.php:3390
 msgid "All Tags"
@@ -5620,7 +5629,7 @@ msgstr ""
 #: templates/default/bbpress/form-topic-split.php:107
 #: templates/default/bbpress/form-topic.php:213
 msgid "Submit"
-msgstr ""
+msgstr "Pateikti"
 
 #: templates/default/bbpress/form-forum.php:183
 msgid "The forum &#8216;%s&#8217; is closed to new content."
@@ -5698,7 +5707,7 @@ msgstr ""
 
 #: templates/default/bbpress/form-reply.php:90
 msgid "Tags:"
-msgstr ""
+msgstr "Raktažodžiai:"
 
 #: templates/default/bbpress/form-reply.php:108
 #: templates/default/bbpress/form-topic.php:174
@@ -5912,7 +5921,7 @@ msgstr ""
 
 #: templates/default/bbpress/form-topic.php:47
 msgid "Create New Topic in &ldquo;%s&rdquo;"
-msgstr ""
+msgstr "Sukurti naują temą "
 
 #: templates/default/bbpress/form-topic.php:60
 msgid ""
@@ -5930,7 +5939,7 @@ msgstr ""
 
 #: templates/default/bbpress/form-topic.php:111
 msgid "Topic Tags:"
-msgstr ""
+msgstr "Temos raktažodžiai:"
 
 #: templates/default/bbpress/form-topic.php:143
 msgid "Topic Type:"
@@ -5942,7 +5951,7 @@ msgstr ""
 
 #: templates/default/bbpress/form-topic.php:248
 msgid "You cannot create new topics."
-msgstr ""
+msgstr "Negalite kurti naujų temų."
 
 #: templates/default/bbpress/form-topic.php:249
 msgid "You must be logged in to create new topics."
@@ -6023,7 +6032,7 @@ msgstr "Iš naujo nustatyti mano slaptažodį"
 
 #: templates/default/bbpress/form-user-passwords.php:18
 msgid "Generate Password"
-msgstr "Slaptaždožio generavimas"
+msgstr "Slaptažodžio generavimas"
 
 #: templates/default/bbpress/form-user-passwords.php:26
 msgid "Hide password"
@@ -6076,7 +6085,7 @@ msgstr ""
 
 #: templates/default/bbpress/loop-search-reply.php:22
 msgid "In reply to: "
-msgstr ""
+msgstr "atsakant:"
 
 #: templates/default/bbpress/loop-search-topic.php:32
 msgid "in group forum "
@@ -6093,11 +6102,11 @@ msgstr "Paieškos rezultatai"
 
 #: templates/default/bbpress/loop-single-reply.php:22
 msgid "in reply to: "
-msgstr ""
+msgstr "atsakant:"
 
 #: templates/default/bbpress/loop-single-topic.php:62
 msgid "Started by: %1$s"
-msgstr ""
+msgstr "Pradėta: %1$s "
 
 #: templates/default/bbpress/loop-single-topic.php:70
 msgid "in: %1$s"
@@ -6114,7 +6123,7 @@ msgstr "%s pradėtos temos"
 
 #: templates/default/bbpress/user-details.php:42
 msgid "%s's Replies Created"
-msgstr ""
+msgstr "%s atsakymų"
 
 #: templates/default/bbpress/user-details.php:49
 msgid "%s's Engagements"
@@ -6130,7 +6139,7 @@ msgstr ""
 
 #: templates/default/bbpress/user-profile.php:19
 msgid "Registered: %s"
-msgstr ""
+msgstr "Prisiregistruota %s"
 
 #: templates/default/bbpress/user-profile.php:29
 msgid "Website: %s"
@@ -6154,7 +6163,7 @@ msgstr ""
 
 #: templates/default/bbpress/user-replies-created.php:19
 msgid "Forum Replies Created"
-msgstr ""
+msgstr "Forumo atsakymai"
 
 #: templates/default/bbpress/user-subscriptions.php:23
 msgid "Subscribed Forums"
@@ -6316,7 +6325,7 @@ msgstr ""
 #: includes/admin/settings.php:384 includes/replies/template.php:51
 msgctxt "noun"
 msgid "Reply"
-msgstr ""
+msgstr "Atsakymas"
 
 #: includes/admin/topics.php:985
 msgctxt "Unapprove Topic"
@@ -6347,7 +6356,7 @@ msgstr ""
 #: includes/common/locale.php:44
 msgctxt "User role"
 msgid "Keymaster"
-msgstr ""
+msgstr "Vykdytojas"
 
 #. translators: user role
 #: includes/common/locale.php:47
@@ -6376,7 +6385,7 @@ msgstr ""
 #: includes/common/widgets.php:801
 msgctxt "widgets"
 msgid "by %1$s"
-msgstr ""
+msgstr " %1$s."
 
 #. translators: 1: reply author, 2: reply link, 3: reply timestamp
 #: includes/common/widgets.php:1146
@@ -6453,12 +6462,12 @@ msgstr ""
 #: includes/replies/template.php:674 includes/topics/template.php:765
 msgctxt "date at time"
 msgid "%1$s at %2$s"
-msgstr ""
+msgstr "%1$s, %2$s"
 
 #: includes/replies/template.php:1580 includes/topics/template.php:2853
 msgctxt "verb"
 msgid "Reply"
-msgstr ""
+msgstr "Atsakyti"
 
 #: includes/replies/template.php:2201
 msgctxt "Pending Status"

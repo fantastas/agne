@@ -6,7 +6,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2021-09-08 11:22+0000\n"
+"PO-Revision-Date: 2021-09-11 08:56+0000\n"
 "Last-Translator: \n"
 "Language-Team: Lietuvių kalba\n"
 "Language: lt_LT\n"
@@ -24,8 +24,8 @@ msgstr ""
 #, php-format
 msgid "1 product"
 msgid_plural "%d products"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "1 prekė"
+msgstr[1] "%d prekės"
 msgstr[2] ""
 
 #: inc/customizer.php:1112
@@ -301,7 +301,7 @@ msgstr ""
 #: inc/customizer.php:1449 inc/customizer.php:1471 inc/customizer.php:1493
 #: inc/customizer.php:1515 inc/customizer.php:1537 inc/frontend/footer.php:384
 msgid "Cart"
-msgstr ""
+msgstr "Krepšelis"
 
 #: inc/customizer.php:2127
 msgid "Cart Counter Badge"
@@ -1677,7 +1677,7 @@ msgstr ""
 
 #: inc/customizer.php:2643 woocommerce/single-product/up-sells.php:35
 msgid "Our offer"
-msgstr ""
+msgstr "Panašios prekės"
 
 #: inc/frontend/frontend.php:554
 msgid ""
@@ -1980,7 +1980,7 @@ msgstr ""
 
 #: inc/customizer.php:1675 inc/customizer.php:2197
 msgid "Products"
-msgstr "Prekių"
+msgstr "Prekės"
 
 #: inc/customizer.php:2518
 msgid "Products Filter"
@@ -2791,7 +2791,7 @@ msgstr ""
 
 #: vc_templates/vc_custom_heading.php:66 inc/frontend/footer.php:307
 msgid "View more"
-msgstr ""
+msgstr "Užkrauti daugiau"
 
 #: inc/customizer.php:496
 msgid "Wait for seconds"

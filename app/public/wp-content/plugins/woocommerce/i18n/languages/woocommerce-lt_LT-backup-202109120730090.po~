@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2021-08-17T19:57:19+00:00\n"
-"PO-Revision-Date: 2021-09-12 06:28+0000\n"
+"PO-Revision-Date: 2021-09-12 07:29+0000\n"
 "X-Generator: Loco https://localise.biz/\n"
 "X-Domain: woocommerce\n"
 "Language: lt_LT\n"
@@ -9201,7 +9201,7 @@ msgstr ""
 #: includes/admin/class-wc-admin-log-table-list.php:56
 #: includes/admin/class-wc-admin-log-table-list.php:147
 msgid "Error"
-msgstr ""
+msgstr "Klaida"
 
 #: includes/admin/class-wc-admin-log-table-list.php:60
 #: includes/admin/class-wc-admin-log-table-list.php:148
@@ -11203,7 +11203,7 @@ msgstr ""
 
 #: includes/admin/class-wc-admin-status.php:84
 msgid "Your changes have been saved."
-msgstr ""
+msgstr "Išsaugota."
 
 #. translators: Comma seperated list of missing tables.
 #: includes/admin/class-wc-admin-status.php:367
@@ -14404,7 +14404,7 @@ msgstr ""
 #: includes/admin/views/html-admin-settings.php:45
 #: templates/myaccount/form-edit-account.php:69
 msgid "Save changes"
-msgstr ""
+msgstr "Išsaugoti"
 
 #: includes/admin/meta-boxes/views/html-product-download.php:9
 #: includes/admin/meta-boxes/views/html-product-variation-download.php:8
@@ -14835,7 +14835,7 @@ msgstr ""
 #: packages/woocommerce-admin/dist/chunks/analytics-report-downloads.js:1
 #: packages/woocommerce-admin/dist/chunks/dashboard-charts.js:1
 msgid "Username"
-msgstr ""
+msgstr "Vartotojo vardas "
 
 #: includes/admin/reports/class-wc-report-customer-list.php:218
 msgid "Location"
@@ -18570,7 +18570,7 @@ msgstr ""
 #. translators: %s: error message
 #: includes/class-wc-ajax.php:956 includes/wc-rest-functions.php:98
 msgid "Error: %s"
-msgstr ""
+msgstr "Klaida: %s"
 
 #. translators: %s item name.
 #: includes/class-wc-ajax.php:969
@@ -18771,7 +18771,7 @@ msgstr ""
 #. translators: %s: error message
 #: includes/class-wc-auth.php:402
 msgid "Error: %s."
-msgstr ""
+msgstr "Klaida: %s."
 
 #. translators: %s: error message
 #: includes/class-wc-auth.php:402
@@ -18997,7 +18997,7 @@ msgstr ""
 #: templates/global/form-login.php:38 templates/myaccount/form-login.php:43
 #: templates/myaccount/form-login.php:93
 msgid "Password"
-msgstr ""
+msgstr "Slaptažodis"
 
 #. translators: ISO 3166-1 alpha-2 country code
 #: includes/class-wc-checkout.php:762
@@ -19554,7 +19554,7 @@ msgstr ""
 #: includes/class-wc-form-handler.php:270
 #: templates/myaccount/form-edit-account.php:37
 msgid "Display name"
-msgstr ""
+msgstr "Rodomas vardas"
 
 #: includes/class-wc-form-handler.php:285 includes/wc-user-functions.php:43
 #: packages/woocommerce-blocks/src/StoreApi/Routes/Checkout.php:627
@@ -19571,7 +19571,7 @@ msgstr ""
 
 #: includes/class-wc-form-handler.php:296
 msgid "Please enter your current password."
-msgstr ""
+msgstr "Įveskite dabartini slaptažodį."
 
 #: includes/class-wc-form-handler.php:299
 msgid "Please re-enter your password."
@@ -19583,11 +19583,11 @@ msgstr ""
 
 #: includes/class-wc-form-handler.php:305
 msgid "Your current password is incorrect."
-msgstr ""
+msgstr "Neteisingai įvestas dabartinis slaptažodis."
 
 #: includes/class-wc-form-handler.php:346
 msgid "Account details changed successfully."
-msgstr ""
+msgstr "Paskyros informacija pakeista."
 
 #. translators: %d number of seconds
 #: includes/class-wc-form-handler.php:493
@@ -19695,11 +19695,11 @@ msgstr ""
 #: packages/woocommerce-blocks/build/single-product-frontend.js:1
 #: packages/woocommerce-blocks/build/single-product.js:5
 msgid "Error:"
-msgstr ""
+msgstr "Klaida:"
 
 #: includes/class-wc-form-handler.php:952
 msgid "Username is required."
-msgstr ""
+msgstr "Vartotojo vardas yra privalomas."
 
 #: includes/class-wc-form-handler.php:1040
 msgid "Please enter your password."
@@ -21105,7 +21105,7 @@ msgstr ""
 
 #: includes/class-wc-query.php:143 includes/wc-account-functions.php:104
 msgid "Account details"
-msgstr ""
+msgstr "Paskyros informacija"
 
 #: includes/class-wc-query.php:156
 msgid "Set password"
@@ -22028,7 +22028,7 @@ msgstr ""
 #: includes/emails/class-wc-email-customer-reset-password.php:62
 #: templates/myaccount/form-lost-password.php:38
 msgid "Reset password"
-msgstr ""
+msgstr "Atstatyti slaptažodį"
 
 #: includes/emails/class-wc-email-customer-reset-password.php:63
 msgid ""
@@ -22223,7 +22223,7 @@ msgstr ""
 
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:132
 msgid "Account details:"
-msgstr ""
+msgstr "Paskyros informacija:"
 
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:139
 #: packages/woocommerce-admin/dist/chunks/task-list.js:1
@@ -24251,7 +24251,7 @@ msgstr ""
 
 #: includes/rest-api/Controllers/Version1/class-wc-rest-customers-v1-controller.php:67
 msgid "New user password."
-msgstr ""
+msgstr "Naujas naudodtojo slaptažodis."
 
 #: includes/rest-api/Controllers/Version1/class-wc-rest-customers-v1-controller.php:104
 #: includes/rest-api/Controllers/Version1/class-wc-rest-order-notes-v1-controller.php:105
@@ -28775,7 +28775,7 @@ msgstr ""
 #: includes/shortcodes/class-wc-shortcode-my-account.php:305
 #: includes/shortcodes/class-wc-shortcode-my-account.php:311
 msgid "Invalid username or email."
-msgstr ""
+msgstr "Neteisingas vartotojo vardas arba el. pašto adresas."
 
 #: includes/shortcodes/class-wc-shortcode-my-account.php:325
 msgid "Password reset is not allowed for this user"
@@ -31921,7 +31921,7 @@ msgstr ""
 
 #: packages/woocommerce-admin/src/API/Reports/Customers/Controller.php:242
 msgid "Username."
-msgstr ""
+msgstr "Vartotojo vardas."
 
 #: packages/woocommerce-admin/src/API/Reports/Customers/Controller.php:248
 #: packages/woocommerce-admin/src/API/Reports/Taxes/Controller.php:175
@@ -35614,7 +35614,7 @@ msgstr ""
 #. translators: %s: Customer username
 #: packages/woocommerce-blocks/templates/emails/customer-new-account-blocks.php:17
 msgid "Hello %s,"
-msgstr ""
+msgstr "Labas %s,"
 
 #. translators: %1$s: Site title, %2$s: Username, %3$s: My account link
 #. translators: %1$s: Site title, %2$s: Username, %3$s: My account link
@@ -35629,6 +35629,9 @@ msgid ""
 "access your account area to view orders, change your password, and more at: "
 "%3$s"
 msgstr ""
+"Dėkojame, kad sukūrėte paskyrą %1 $ s. Jūsų vartotojo vardas yra %2 $ s. "
+"Galite pasiekti savo paskyros sritį ir peržiūrėti užsakymus, pakeisti "
+"slaptažodį ir dar daugiau apsilankę adresu: %3 $ s"
 
 #: packages/woocommerce-blocks/templates/emails/customer-new-account-blocks.php:21
 msgid "Click here to set your new password."
@@ -35809,7 +35812,7 @@ msgstr ""
 
 #: templates/auth/form-login.php:40 templates/myaccount/form-login.php:39
 msgid "Username or email address"
-msgstr ""
+msgstr "Vartotojo vardas arba el. paštas"
 
 #: templates/auth/header.php:27
 msgid "Application authentication request"
@@ -36139,7 +36142,7 @@ msgstr ""
 #: templates/emails/customer-reset-password.php:31
 #: templates/emails/plain/customer-reset-password.php:29
 msgid "Username: %s"
-msgstr ""
+msgstr "Vartotojas: %s"
 
 #: templates/emails/customer-reset-password.php:32
 #: templates/emails/plain/customer-reset-password.php:30
@@ -36197,11 +36200,11 @@ msgstr ""
 #: templates/global/form-login.php:34
 #: templates/myaccount/form-lost-password.php:28
 msgid "Username or email"
-msgstr ""
+msgstr "Vartotojo vardas arba el. paštas"
 
 #: templates/global/form-login.php:47 templates/myaccount/form-login.php:51
 msgid "Remember me"
-msgstr ""
+msgstr "Prisimink mane"
 
 #: templates/global/form-login.php:54 templates/myaccount/form-login.php:57
 msgid "Lost your password?"
@@ -36253,7 +36256,7 @@ msgstr "Išpardavimas!"
 #. translators: 1: user display name 2: logout url
 #: templates/myaccount/dashboard.php:35
 msgid "Hello %1$s (not %1$s? <a href=\"%2$s\">Log out</a>)"
-msgstr ""
+msgstr "Labas  %1$s (ne %1$s? <a href=\"%2$s\">Atsijungti</a>) "
 
 #. translators: 1: Orders URL 2: Address URL 3: Account URL.
 #: templates/myaccount/dashboard.php:45
@@ -36262,6 +36265,10 @@ msgid ""
 "orders</a>, manage your <a href=\"%2$s\">billing address</a>, and <a "
 "href=\"%3$s\">edit your password and account details</a>."
 msgstr ""
+"Paskyros informacijos suvestinėje galite peržiūrėti <a href=\"%1$s\"> "
+"naujausius užsakymus </a>, tvarkyti <a href=\"%2$s\"> atsiskaitymo adresą "
+"</a> ir <a href = \"%3 $ s\"> redaguoti slaptažodį ir kitą paskyros "
+"informaciją </a>."
 
 #. translators: 1: Orders URL 2: Addresses URL 3: Account URL.
 #: templates/myaccount/dashboard.php:48
@@ -36270,6 +36277,10 @@ msgid ""
 "orders</a>, manage your <a href=\"%2$s\">shipping and billing addresses</a>, "
 "and <a href=\"%3$s\">edit your password and account details</a>."
 msgstr ""
+"Paskyros informacijos suvestinėje galite peržiūrėti <a href=\"%1$s\"> "
+"naujausius užsakymus </a>, tvarkyti <a href=\"%2$s\"> atsiskaitymo adresą "
+"</a> ir <a href = \"%3 $ s\"> redaguoti slaptažodį ir kitą paskyros "
+"informaciją </a>."
 
 #: templates/myaccount/downloads.php:40 templates/myaccount/orders.php:100
 msgid "Browse products"
@@ -36289,15 +36300,15 @@ msgstr ""
 msgid ""
 "This will be how your name will be displayed in the account section and in "
 "reviews"
-msgstr ""
+msgstr "Šis jūsų vardas bus rodomas paskyros skiltyje ir apžvalgose"
 
 #: templates/myaccount/form-edit-account.php:48
 msgid "Password change"
-msgstr ""
+msgstr "Slaptažodžio keitimas"
 
 #: templates/myaccount/form-edit-account.php:51
 msgid "Current password (leave blank to leave unchanged)"
-msgstr ""
+msgstr "Dabartinis slaptažodis (palikite tuščią, jei nenorite keisti)"
 
 #: templates/myaccount/form-edit-account.php:55
 msgid "New password (leave blank to leave unchanged)"
@@ -36305,7 +36316,7 @@ msgstr ""
 
 #: templates/myaccount/form-edit-account.php:59
 msgid "Confirm new password"
-msgstr ""
+msgstr "Patvirtinkite naują slaptažodį"
 
 #: templates/myaccount/form-edit-address.php:46
 msgid "Save address"
@@ -36321,21 +36332,23 @@ msgstr "Registruotis"
 
 #: templates/myaccount/form-login.php:99
 msgid "A password will be sent to your email address."
-msgstr ""
+msgstr "Jūsų nurodytu el. pašto adresu bus išsiųstas slaptažodis."
 
 #: templates/myaccount/form-lost-password.php:25
 msgid ""
 "Lost your password? Please enter your username or email address. You will "
 "receive a link to create a new password via email."
 msgstr ""
+"Pamiršote slaptažodį? Įveskite savo vartotojo vardą arba el. pašto adresą. "
+"El. paštu gausite nuorodą, skirtą sukurti naują slaptažodį."
 
 #: templates/myaccount/form-reset-password.php:25
 msgid "Enter a new password below."
-msgstr ""
+msgstr "Įveskite naują slaptažodį."
 
 #: templates/myaccount/form-reset-password.php:28
 msgid "New password"
-msgstr ""
+msgstr "Naujas slaptažodis"
 
 #: templates/myaccount/form-reset-password.php:32
 msgid "Re-enter new password"
@@ -36343,7 +36356,7 @@ msgstr ""
 
 #: templates/myaccount/lost-password-confirmation.php:20
 msgid "Password reset email has been sent."
-msgstr ""
+msgstr "Slaptažodžio atstatymo el. laiškas buvo išsiųstas."
 
 #: templates/myaccount/lost-password-confirmation.php:25
 msgid ""
@@ -36351,6 +36364,9 @@ msgid ""
 "account, but may take several minutes to show up in your inbox. Please wait "
 "at least 10 minutes before attempting another reset."
 msgstr ""
+"Slaptažodžio atsatymo laiškas buvo išsiųstas Jūsų paskyroje nurodytu el. "
+"pašto adresu, tačiau gali kiek užtrukti kelias, kol Jūs jį gausite. Prašome "
+"palaukti bent 10 minučių prieš bandant iš naujo."
 
 #: templates/myaccount/my-address.php:46
 msgid "The following addresses will be used on the checkout page by default."

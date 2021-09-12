@@ -24,8 +24,8 @@ do_action( 'woocommerce_before_customer_login_form' ); ?>
 <?php if ( 'yes' === get_option( 'woocommerce_enable_myaccount_registration' ) ) : ?>
 
 <h2 class="text-center login-tabs-nav tabs-nav">
-	<span class="line-hover tab-nav active" data-tab="login"><?php esc_html_e( 'Login', 'sober' ); ?></span>
-	<span class="line-hover tab-nav" data-tab="register"><?php esc_html_e( 'Register', 'sober' ); ?></span>
+	<span class="line-hover tab-nav active" data-tab="login"><?php esc_html_e( 'Prisijungti', 'sober' ); ?></span>
+	<span class="line-hover tab-nav" data-tab="register"><?php esc_html_e( 'Registruotis', 'sober' ); ?></span>
 </h2>
 
 <div class="u-columns col2-set tab-panels" id="customer_login">
@@ -61,7 +61,7 @@ do_action( 'woocommerce_before_customer_login_form' ); ?>
 			<p class="form-row">
 				<?php wp_nonce_field( 'woocommerce-login', 'woocommerce-login-nonce' ); ?>
 				<button type="submit" class="woocommerce-button button woocommerce-form-login__submit" name="login" value="<?php esc_attr_e( 'Log in', 'woocommerce' ); ?>">
-					<span class="button-text"><?php esc_html_e( 'Login', 'sober' ); ?></span>
+					<span class="button-text"><?php esc_html_e( 'Prisijungti', 'sober' ); ?></span>
 					<span class="loading-icon">
 						<span class="bubble"><span class="dot"></span></span>
 						<span class="bubble"><span class="dot"></span></span>

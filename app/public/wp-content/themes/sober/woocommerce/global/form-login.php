@@ -55,7 +55,7 @@ if ( is_user_logged_in() ) {
 		}
 		?>
 		<input type="hidden" name="redirect" value="<?php echo esc_url( $redirect ) ?>" />
-		<button type="submit" class="woocommerce-button button woocommerce-form-login__submit" name="login" value="<?php esc_attr_e( 'Login', 'sober' ); ?>"><?php esc_html_e( 'Login', 'sober' ); ?></button>
+		<button type="submit" class="woocommerce-button button woocommerce-form-login__submit" name="login" value="<?php esc_attr_e( 'Prisijungti', 'sober' ); ?>"><?php esc_html_e( 'Login', 'sober' ); ?></button>
 	</p>
 	<p class="lost_password">
 		<a href="<?php echo esc_url( wp_lostpassword_url() ); ?>"><?php esc_html_e( 'Lost your password?', 'sober' ); ?></a>

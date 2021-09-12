@@ -10,13 +10,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2021-08-17T19:57:19+00:00\n"
-"PO-Revision-Date: 2021-09-11 09:06+0000\n"
+"PO-Revision-Date: 2021-09-12 06:32+0000\n"
 "X-Generator: Loco https://localise.biz/\n"
 "X-Domain: woocommerce\n"
 "Language: lt_LT\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 "
 "&&(n%100<10||n%100 >= 20)? 1 : 2);\n"
-"X-Loco-Version: 2.5.3; wp-5.8"
+"X-Loco-Version: 2.5.3; wp-5.8.1"
 
 #. Plugin Name of the plugin
 #: includes/admin/class-wc-admin-assets.php:105
@@ -14835,7 +14835,7 @@ msgstr ""
 #: packages/woocommerce-admin/dist/chunks/analytics-report-downloads.js:1
 #: packages/woocommerce-admin/dist/chunks/dashboard-charts.js:1
 msgid "Username"
-msgstr ""
+msgstr "Vartotojo vardas"
 
 #: includes/admin/reports/class-wc-report-customer-list.php:218
 msgid "Location"
@@ -18997,7 +18997,7 @@ msgstr ""
 #: templates/global/form-login.php:38 templates/myaccount/form-login.php:43
 #: templates/myaccount/form-login.php:93
 msgid "Password"
-msgstr ""
+msgstr "Slaptažodis"
 
 #. translators: ISO 3166-1 alpha-2 country code
 #: includes/class-wc-checkout.php:762
@@ -36201,11 +36201,11 @@ msgstr ""
 
 #: templates/global/form-login.php:47 templates/myaccount/form-login.php:51
 msgid "Remember me"
-msgstr ""
+msgstr "Prisimink mane"
 
 #: templates/global/form-login.php:54 templates/myaccount/form-login.php:57
 msgid "Lost your password?"
-msgstr ""
+msgstr "Pamiršote slaptažodį?"
 
 #. translators: %s: Quantity.
 #: templates/global/quantity-input.php:28
@@ -36313,15 +36313,15 @@ msgstr ""
 
 #: templates/myaccount/form-login.php:54
 msgid "Log in"
-msgstr ""
+msgstr "Prisijungti"
 
 #: templates/myaccount/form-login.php:70 templates/myaccount/form-login.php:107
 msgid "Register"
-msgstr ""
+msgstr "Registruotis"
 
 #: templates/myaccount/form-login.php:99
 msgid "A password will be sent to your email address."
-msgstr ""
+msgstr "Jūsų nurodytu el. pašto adresu bus išsiųstas slaptažodis."
 
 #: templates/myaccount/form-lost-password.php:25
 msgid ""

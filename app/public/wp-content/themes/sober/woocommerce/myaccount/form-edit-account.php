@@ -23,7 +23,7 @@ do_action( 'woocommerce_before_edit_account_form' ); ?>
 
 	<?php do_action( 'woocommerce_edit_account_form_start' ); ?>
 
-	<h3><?php _e( 'Account Details', 'sober' ); ?></h3>
+	<h3><?php _e( 'Profilio informacija', 'sober' ); ?></h3>
 
 	<div class="sb-account-details">
 		<p class="woocommerce-form-row woocommerce-form-row--first form-row form-row-first">
@@ -49,21 +49,21 @@ do_action( 'woocommerce_before_edit_account_form' ); ?>
 		<div class="clear"></div>
 	</div>
 
-	<h3><?php esc_html_e( 'Password Change', 'sober' ); ?></h3>
+	<h3><?php esc_html_e( 'Slaptažodžio keitimas', 'sober' ); ?></h3>
 
 	<fieldset>
 		<legend><?php esc_html_e( 'Password change', 'woocommerce' ); ?></legend>
 
 		<p class="woocommerce-form-row woocommerce-form-row--wide form-row form-row-wide">
-			<label for="password_current"><?php esc_html_e( 'Current password', 'sober' ); ?></label>
-			<input type="password" class="woocommerce-Input woocommerce-Input--password input-text" name="password_current" id="password_current" autocomplete="off" placeholder="<?php esc_attr_e( 'Leave blank to leave unchanged', 'sober' ); ?>" />
+			<label for="password_current"><?php esc_html_e( 'Dabartinis slaptažodis', 'sober' ); ?></label>
+			<input type="password" class="woocommerce-Input woocommerce-Input--password input-text" name="password_current" id="password_current" autocomplete="off" placeholder="<?php esc_attr_e( 'palikite tuščią, jei nenorite keisti', 'sober' ); ?>" />
 		</p>
 		<p class="woocommerce-form-row woocommerce-form-row--wide form-row form-row-wide">
-			<label for="password_1"><?php esc_html_e( 'New password', 'sober' ); ?></label>
-			<input type="password" class="woocommerce-Input woocommerce-Input--password input-text" name="password_1" id="password_1" autocomplete="off" placeholder="<?php esc_attr_e( 'Leave blank to leave unchanged', 'sober' ); ?>"/>
+			<label for="password_1"><?php esc_html_e( 'Naujas slaptažodis', 'sober' ); ?></label>
+			<input type="password" class="woocommerce-Input woocommerce-Input--password input-text" name="password_1" id="password_1" autocomplete="off" placeholder="<?php esc_attr_e( 'palikite tuščią, jei nenorite keisti', 'sober' ); ?>"/>
 		</p>
 		<p class="woocommerce-form-row woocommerce-form-row--wide form-row form-row-wide">
-			<label for="password_2"><?php esc_html_e( 'Confirm new password', 'woocommerce' ); ?></label>
+			<label for="password_2"><?php esc_html_e( 'Patvirtinti naują slaptažodį', 'woocommerce' ); ?></label>
 			<input type="password" class="woocommerce-Input woocommerce-Input--password input-text" name="password_2" id="password_2" autocomplete="off" />
 		</p>
 	</fieldset>

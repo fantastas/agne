@@ -52,7 +52,7 @@ msgstr ""
 
 #: woocommerce/myaccount/form-edit-account.php:26
 msgid "Account Details"
-msgstr ""
+msgstr "Profilio informacija"
 
 #: inc/customizer.php:1659
 msgid "Account Icon Behaviour"
@@ -1759,7 +1759,7 @@ msgstr ""
 
 #: woocommerce/myaccount/form-edit-account.php:52
 msgid "Password Change"
-msgstr ""
+msgstr "Slaptažodžio keitimas"
 
 #: inc/customizer.php:2910
 msgid "Percentage"

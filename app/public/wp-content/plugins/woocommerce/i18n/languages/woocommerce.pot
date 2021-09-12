@@ -18923,7 +18923,7 @@ msgstr ""
 
 #: includes/class-wc-form-handler.php:346
 msgid "Account details changed successfully."
-msgstr ""
+msgstr "Profilio informacija sėkmingai pakeista."
 
 #. translators: %d number of seconds
 #: includes/class-wc-form-handler.php:493
@@ -20378,7 +20378,7 @@ msgstr ""
 #: includes/class-wc-query.php:143
 #: includes/wc-account-functions.php:104
 msgid "Account details"
-msgstr ""
+msgstr "Profilio informacija"
 
 #: includes/class-wc-query.php:156
 msgid "Set password"
@@ -21436,7 +21436,7 @@ msgstr ""
 
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:132
 msgid "Account details:"
-msgstr ""
+msgstr "Profilio informacija"
 
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:139
 #: packages/woocommerce-admin/dist/chunks/task-list.js:1
@@ -34828,7 +34828,7 @@ msgstr ""
 
 #: templates/myaccount/form-edit-account.php:48
 msgid "Password change"
-msgstr ""
+msgstr "Slaptažodžio keitimas"
 
 #: templates/myaccount/form-edit-account.php:51
 msgid "Current password (leave blank to leave unchanged)"

@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2021-08-17T19:57:19+00:00\n"
-"PO-Revision-Date: 2021-09-12 07:30+0000\n"
+"PO-Revision-Date: 2021-09-12 09:02+0000\n"
 "X-Generator: Loco https://localise.biz/\n"
 "X-Domain: woocommerce\n"
 "Language: lt_LT\n"
@@ -10202,7 +10202,7 @@ msgstr ""
 #: packages/woocommerce-admin/dist/chunks/dashboard-charts.js:1
 #: packages/woocommerce-admin/dist/chunks/homescreen.js:1
 msgid "Orders"
-msgstr ""
+msgstr "Užsakymai"
 
 #: includes/admin/class-wc-admin-reports.php:50
 msgid "Sales by date"
@@ -14878,8 +14878,8 @@ msgstr ""
 #: packages/woocommerce-admin/dist/chunks/analytics-report-variations.js:1
 msgid "orders"
 msgid_plural "orders"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "užsakymas"
+msgstr[1] "užsakymai"
 msgstr[2] ""
 
 #: includes/admin/reports/class-wc-report-customers.php:338
@@ -19265,7 +19265,7 @@ msgstr ""
 
 #: includes/class-wc-countries.php:1382
 msgid "ZIP"
-msgstr ""
+msgstr "Pašto kodas"
 
 #: includes/class-wc-coupon.php:505
 msgid "Invalid discount type"
@@ -28814,7 +28814,7 @@ msgstr ""
 #: includes/wc-account-functions.php:99
 #: packages/woocommerce-admin/dist/chunks/marketing-overview.js:1
 msgid "Dashboard"
-msgstr ""
+msgstr "Jūsų profilis"
 
 #: includes/wc-account-functions.php:260 includes/wc-account-functions.php:395
 #: packages/woocommerce-blocks/src/BlockTypes/Checkout.php:318
@@ -36265,10 +36265,11 @@ msgid ""
 "orders</a>, manage your <a href=\"%2$s\">billing address</a>, and <a "
 "href=\"%3$s\">edit your password and account details</a>."
 msgstr ""
-"Paskyros informacijos suvestinėje galite peržiūrėti <a href=\"%1$s\"> "
-"naujausius užsakymus </a>, tvarkyti <a href=\"%2$s\"> atsiskaitymo adresą "
-"</a> ir <a href = \"%3 $ s\"> redaguoti slaptažodį ir kitą paskyros "
-"informaciją </a>."
+"Paskyros suvestinėje galite peržiūrėti <a href=\"%1$s\"> naujausius "
+"užsakymus </a>, tvarkyti <a href=\"%2$s\"> adresus </a> , <a href = \"%3 $ "
+"s\"> redaguoti slaptažodį ar kitą paskyros informaciją </a>. Taip pat "
+"prisjungę vartotojai gali dalyvauti Agnės <a href=\"http://agne."
+"local/forumai/forumas/agnes-forumas/\"> forume.</a>."
 
 #. translators: 1: Orders URL 2: Addresses URL 3: Account URL.
 #: templates/myaccount/dashboard.php:48
@@ -36277,10 +36278,11 @@ msgid ""
 "orders</a>, manage your <a href=\"%2$s\">shipping and billing addresses</a>, "
 "and <a href=\"%3$s\">edit your password and account details</a>."
 msgstr ""
-"Paskyros informacijos suvestinėje galite peržiūrėti <a href=\"%1$s\"> "
-"naujausius užsakymus </a>, tvarkyti <a href=\"%2$s\"> atsiskaitymo adresą "
-"</a> ir <a href = \"%3 $ s\"> redaguoti slaptažodį ir kitą paskyros "
-"informaciją </a>."
+"Paskyros suvestinėje galite peržiūrėti <a href=\"%1$s\"> naujausius "
+"užsakymus </a>, tvarkyti <a href=\"%2$s\"> adresus </a> , <a href = \"%3 $ "
+"s\"> redaguoti slaptažodį ar kitą paskyros informaciją </a>. Taip pat "
+"prisjungę vartotojai gali dalyvauti Agnės <a href=\"http://agne."
+"local/forumai/forumas/agnes-forumas/\"> forume.</a>."
 
 #: templates/myaccount/downloads.php:40 templates/myaccount/orders.php:100
 msgid "Browse products"

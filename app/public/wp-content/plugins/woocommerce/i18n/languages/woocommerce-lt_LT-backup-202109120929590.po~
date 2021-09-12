@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2021-08-17T19:57:19+00:00\n"
-"PO-Revision-Date: 2021-09-12 08:30+0000\n"
+"PO-Revision-Date: 2021-09-12 09:27+0000\n"
 "X-Generator: Loco https://localise.biz/\n"
 "X-Domain: woocommerce\n"
 "Language: lt_LT\n"
@@ -10202,7 +10202,7 @@ msgstr ""
 #: packages/woocommerce-admin/dist/chunks/dashboard-charts.js:1
 #: packages/woocommerce-admin/dist/chunks/homescreen.js:1
 msgid "Orders"
-msgstr ""
+msgstr "Užsakymai"
 
 #: includes/admin/class-wc-admin-reports.php:50
 msgid "Sales by date"
@@ -14878,8 +14878,8 @@ msgstr ""
 #: packages/woocommerce-admin/dist/chunks/analytics-report-variations.js:1
 msgid "orders"
 msgid_plural "orders"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "užsakymas"
+msgstr[1] "užsakymai"
 msgstr[2] ""
 
 #: includes/admin/reports/class-wc-report-customers.php:338
@@ -19265,7 +19265,7 @@ msgstr ""
 
 #: includes/class-wc-countries.php:1382
 msgid "ZIP"
-msgstr ""
+msgstr "Pašto kodas"
 
 #: includes/class-wc-coupon.php:505
 msgid "Invalid discount type"
@@ -21105,7 +21105,7 @@ msgstr ""
 
 #: includes/class-wc-query.php:143 includes/wc-account-functions.php:104
 msgid "Account details"
-msgstr "Paskyros informacija"
+msgstr "Profilio informacija"
 
 #: includes/class-wc-query.php:156
 msgid "Set password"
@@ -22223,7 +22223,7 @@ msgstr ""
 
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:132
 msgid "Account details:"
-msgstr "Paskyros informacija:"
+msgstr "Profilio informacija:"
 
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:139
 #: packages/woocommerce-admin/dist/chunks/task-list.js:1
@@ -25100,7 +25100,7 @@ msgstr ""
 #: packages/woocommerce-blocks/src/StoreApi/Routes/CartUpdateCustomer.php:55
 #: packages/woocommerce-blocks/src/StoreApi/Schemas/CheckoutSchema.php:103
 msgid "Shipping address."
-msgstr ""
+msgstr "Pristatymo adresas."
 
 #: includes/rest-api/Controllers/Version1/class-wc-rest-orders-v1-controller.php:1145
 #: includes/rest-api/Controllers/Version2/class-wc-rest-orders-v2-controller.php:1207
@@ -28814,7 +28814,7 @@ msgstr ""
 #: includes/wc-account-functions.php:99
 #: packages/woocommerce-admin/dist/chunks/marketing-overview.js:1
 msgid "Dashboard"
-msgstr ""
+msgstr "Jūsų profilis"
 
 #: includes/wc-account-functions.php:260 includes/wc-account-functions.php:395
 #: packages/woocommerce-blocks/src/BlockTypes/Checkout.php:318
@@ -35585,7 +35585,7 @@ msgstr ""
 
 #: packages/woocommerce-blocks/src/StoreApi/Utilities/OrderController.php:273
 msgid "shipping address"
-msgstr ""
+msgstr "pristatymo adresas"
 
 #: packages/woocommerce-blocks/src/StoreApi/Utilities/OrderController.php:273
 msgid "billing address"
@@ -36175,7 +36175,7 @@ msgstr "Adresas"
 #: packages/woocommerce-blocks/build/checkout-frontend.js:29
 #: packages/woocommerce-blocks/build/checkout.js:29
 msgid "Shipping address"
-msgstr ""
+msgstr "Pristatymo adresas"
 
 #: templates/emails/email-customer-details.php:24
 #: templates/emails/plain/email-customer-details.php:22
@@ -36256,7 +36256,7 @@ msgstr "Išpardavimas!"
 #. translators: 1: user display name 2: logout url
 #: templates/myaccount/dashboard.php:35
 msgid "Hello %1$s (not %1$s? <a href=\"%2$s\">Log out</a>)"
-msgstr "Labas  %1$s (ne %1$s? <a href=\"%2$s\">Atsijungti</a>) "
+msgstr "Labas, %1$s (ne %1$s? <a href=\"%2$s\">Atsijungti</a>)"
 
 #. translators: 1: Orders URL 2: Address URL 3: Account URL.
 #: templates/myaccount/dashboard.php:45
@@ -36269,7 +36269,7 @@ msgstr ""
 "užsakymus </a>, tvarkyti <a href=\"%2$s\"> adresus </a> , <a href = \"%3 $ "
 "s\"> redaguoti slaptažodį ar kitą paskyros informaciją </a>. Taip pat "
 "prisjungę vartotojai gali dalyvauti Agnės <a href=\"http://agne."
-"local/forumai/forumas/agnes-forumas/\" forume.</a>."
+"local/forumai/forumas/agnes-forumas/\"> forume.</a>."
 
 #. translators: 1: Orders URL 2: Addresses URL 3: Account URL.
 #: templates/myaccount/dashboard.php:48
@@ -36282,7 +36282,7 @@ msgstr ""
 "užsakymus </a>, tvarkyti <a href=\"%2$s\"> adresus </a> , <a href = \"%3 $ "
 "s\"> redaguoti slaptažodį ar kitą paskyros informaciją </a>. Taip pat "
 "prisjungę vartotojai gali dalyvauti Agnės <a href=\"http://agne."
-"local/forumai/forumas/agnes-forumas/\" forume.</a>."
+"local/forumai/forumas/agnes-forumas/\"> forume.</a>."
 
 #: templates/myaccount/downloads.php:40 templates/myaccount/orders.php:100
 msgid "Browse products"
@@ -36314,7 +36314,7 @@ msgstr "Dabartinis slaptažodis (palikite tuščią, jei nenorite keisti)"
 
 #: templates/myaccount/form-edit-account.php:55
 msgid "New password (leave blank to leave unchanged)"
-msgstr ""
+msgstr "Naujas slaptažodis (palikite tuščią, jei nenorite keisti)"
 
 #: templates/myaccount/form-edit-account.php:59
 msgid "Confirm new password"
@@ -36322,7 +36322,7 @@ msgstr "Patvirtinkite naują slaptažodį"
 
 #: templates/myaccount/form-edit-address.php:46
 msgid "Save address"
-msgstr ""
+msgstr "Išsaugoti"
 
 #: templates/myaccount/form-login.php:54
 msgid "Log in"

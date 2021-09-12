@@ -1761,7 +1761,7 @@ msgstr ""
 
 #: woocommerce/myaccount/form-edit-account.php:52
 msgid "Password Change"
-msgstr ""
+msgstr "Slaptažodžio keitimas"
 
 #: inc/customizer.php:2910
 msgid "Percentage"

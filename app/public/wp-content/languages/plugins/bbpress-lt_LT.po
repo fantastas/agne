@@ -8,7 +8,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2021-09-11 17:56+0000\n"
+"PO-Revision-Date: 2021-09-12 08:40+0000\n"
 "Last-Translator: \n"
 "Language-Team: Lietuvių kalba\n"
 "X-Generator: Loco https://localise.biz/\n"
@@ -123,7 +123,7 @@ msgstr ""
 #: templates/default/bbpress/content-statistics.php:25
 #: templates/default/bbpress/user-profile.php:34
 msgid "Forums"
-msgstr ""
+msgstr "Forumai"
 
 #: includes/admin/classes/class-bbp-admin.php:490
 #: includes/admin/classes/class-bbp-admin.php:491
@@ -672,7 +672,7 @@ msgstr ""
 msgid ""
 "This screen displays the individual forums on your site. You can customize "
 "the display of this screen to suit your workflow."
-msgstr ""
+msgstr "forumai"
 
 #: includes/admin/forums.php:109 includes/admin/replies.php:123
 #: includes/admin/topics.php:127
@@ -5931,7 +5931,7 @@ msgstr ""
 
 #: templates/default/bbpress/form-topic.php:85
 msgid "Topic Title (Maximum Length: %d):"
-msgstr ""
+msgstr "Temos pavadinimas (Maksimalus ilgis: %d simbolių):"
 
 #: templates/default/bbpress/form-topic.php:100
 msgid "You may use these %s tags and attributes:"
@@ -5947,7 +5947,7 @@ msgstr ""
 
 #: templates/default/bbpress/form-topic.php:155
 msgid "Topic Status:"
-msgstr ""
+msgstr "Temos būsena"
 
 #: templates/default/bbpress/form-topic.php:248
 msgid "You cannot create new topics."
@@ -6345,7 +6345,7 @@ msgstr ""
 #: includes/admin/topics.php:1004
 msgctxt "Open a Topic"
 msgid "Open"
-msgstr ""
+msgstr "Atidaryta"
 
 #: includes/common/formatting.php:728
 msgctxt "Separator in time since"
@@ -6487,12 +6487,12 @@ msgstr ""
 #: includes/topics/functions.php:1857 includes/topics/template.php:2581
 msgctxt "Open the topic"
 msgid "Open"
-msgstr ""
+msgstr "Atvira diskusijai"
 
 #: includes/topics/functions.php:1858
 msgctxt "Close the topic"
 msgid "Closed"
-msgstr ""
+msgstr "Uždaryta"
 
 #: includes/topics/template.php:2580
 msgctxt "Close the topic"

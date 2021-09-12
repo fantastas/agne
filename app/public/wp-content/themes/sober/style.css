@@ -16032,7 +16032,7 @@ object {
 		border-right-width: 0;
 	}
 	.woocommerce-account .woocommerce-MyAccount-navigation ul li {
-		display: inline-block;
+		/* display: inline-block; */
 		margin: 0 15px;
 	}
 	.woocommerce-account .woocommerce-MyAccount-navigation ul li:first-child {
@@ -17268,6 +17268,7 @@ object {
 	}
 	.woocommerce-account .woocommerce-MyAccount-navigation {
 		overflow-y: scroll;
+		display: none;
 	}
 	.woocommerce-account .woocommerce-MyAccount-navigation::-webkit-scrollbar {
 		display: none;

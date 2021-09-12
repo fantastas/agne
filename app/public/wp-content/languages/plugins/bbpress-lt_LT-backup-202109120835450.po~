@@ -8,7 +8,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2021-09-11 17:36+0000\n"
+"PO-Revision-Date: 2021-09-12 08:34+0000\n"
 "Last-Translator: \n"
 "Language-Team: Lietuvių kalba\n"
 "X-Generator: Loco https://localise.biz/\n"
@@ -672,7 +672,7 @@ msgstr ""
 msgid ""
 "This screen displays the individual forums on your site. You can customize "
 "the display of this screen to suit your workflow."
-msgstr ""
+msgstr "forumai"
 
 #: includes/admin/forums.php:109 includes/admin/replies.php:123
 #: includes/admin/topics.php:127
@@ -3902,7 +3902,7 @@ msgstr ""
 #: templates/default/bbpress/form-user-login.php:17
 #: templates/default/bbpress/form-user-login.php:38
 msgid "Log In"
-msgstr ""
+msgstr "Prisijungti"
 
 #: includes/common/widgets.php:84
 #: templates/default/bbpress/form-user-edit.php:107
@@ -3920,7 +3920,7 @@ msgstr "Slaptažodis"
 #: includes/common/widgets.php:95
 #: templates/default/bbpress/form-user-login.php:31
 msgid "Keep me signed in"
-msgstr ""
+msgstr "Palikti mane prisijungusį"
 
 #: includes/common/widgets.php:114
 #: templates/default/bbpress/form-user-register.php:42
@@ -5543,7 +5543,7 @@ msgstr ""
 
 #: templates/default/bbpress/feedback-logged-in.php:17
 msgid "You are already logged in."
-msgstr ""
+msgstr "Jūs jau prisijungęs."
 
 #: templates/default/bbpress/feedback-no-access.php:16
 msgid "Private"
@@ -5931,7 +5931,7 @@ msgstr ""
 
 #: templates/default/bbpress/form-topic.php:85
 msgid "Topic Title (Maximum Length: %d):"
-msgstr ""
+msgstr "Temos pavadinimas (Maksimalus ilgis: %d simbolių):"
 
 #: templates/default/bbpress/form-topic.php:100
 msgid "You may use these %s tags and attributes:"
@@ -5947,7 +5947,7 @@ msgstr ""
 
 #: templates/default/bbpress/form-topic.php:155
 msgid "Topic Status:"
-msgstr ""
+msgstr "Temos būsena"
 
 #: templates/default/bbpress/form-topic.php:248
 msgid "You cannot create new topics."

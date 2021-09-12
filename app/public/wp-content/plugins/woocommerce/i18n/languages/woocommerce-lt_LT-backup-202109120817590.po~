@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2021-08-17T19:57:19+00:00\n"
-"PO-Revision-Date: 2021-09-12 07:26+0000\n"
+"PO-Revision-Date: 2021-09-12 07:30+0000\n"
 "X-Generator: Loco https://localise.biz/\n"
 "X-Domain: woocommerce\n"
 "Language: lt_LT\n"
@@ -11203,7 +11203,7 @@ msgstr ""
 
 #: includes/admin/class-wc-admin-status.php:84
 msgid "Your changes have been saved."
-msgstr ""
+msgstr "Išsaugota."
 
 #. translators: Comma seperated list of missing tables.
 #: includes/admin/class-wc-admin-status.php:367
@@ -14404,7 +14404,7 @@ msgstr ""
 #: includes/admin/views/html-admin-settings.php:45
 #: templates/myaccount/form-edit-account.php:69
 msgid "Save changes"
-msgstr ""
+msgstr "Išsaugoti"
 
 #: includes/admin/meta-boxes/views/html-product-download.php:9
 #: includes/admin/meta-boxes/views/html-product-variation-download.php:8
@@ -15614,8 +15614,8 @@ msgstr ""
 #: includes/class-wc-query.php:146 includes/wc-account-functions.php:102
 msgid "Addresses"
 msgid_plural "Address"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Adresas"
+msgstr[1] "Adresai"
 msgstr[2] ""
 
 #: includes/admin/settings/class-wc-settings-advanced.php:275
@@ -15644,7 +15644,7 @@ msgstr ""
 #: includes/wc-account-functions.php:105
 #: templates/auth/form-grant-access.php:52
 msgid "Logout"
-msgstr ""
+msgstr "Atsijungti"
 
 #: includes/admin/settings/class-wc-settings-advanced.php:302
 msgid ""
@@ -19571,7 +19571,7 @@ msgstr ""
 
 #: includes/class-wc-form-handler.php:296
 msgid "Please enter your current password."
-msgstr ""
+msgstr "Įveskite dabartini slaptažodį."
 
 #: includes/class-wc-form-handler.php:299
 msgid "Please re-enter your password."
@@ -19583,7 +19583,7 @@ msgstr ""
 
 #: includes/class-wc-form-handler.php:305
 msgid "Your current password is incorrect."
-msgstr ""
+msgstr "Neteisingai įvestas dabartinis slaptažodis."
 
 #: includes/class-wc-form-handler.php:346
 msgid "Account details changed successfully."
@@ -24251,7 +24251,7 @@ msgstr ""
 
 #: includes/rest-api/Controllers/Version1/class-wc-rest-customers-v1-controller.php:67
 msgid "New user password."
-msgstr ""
+msgstr "Naujas naudodtojo slaptažodis."
 
 #: includes/rest-api/Controllers/Version1/class-wc-rest-customers-v1-controller.php:104
 #: includes/rest-api/Controllers/Version1/class-wc-rest-order-notes-v1-controller.php:105
@@ -36308,7 +36308,7 @@ msgstr "Slaptažodžio keitimas"
 
 #: templates/myaccount/form-edit-account.php:51
 msgid "Current password (leave blank to leave unchanged)"
-msgstr ""
+msgstr "Dabartinis slaptažodis (palikite tuščią, jei nenorite keisti)"
 
 #: templates/myaccount/form-edit-account.php:55
 msgid "New password (leave blank to leave unchanged)"
@@ -36316,7 +36316,7 @@ msgstr ""
 
 #: templates/myaccount/form-edit-account.php:59
 msgid "Confirm new password"
-msgstr ""
+msgstr "Patvirtinkite naują slaptažodį"
 
 #: templates/myaccount/form-edit-address.php:46
 msgid "Save address"
@@ -36344,11 +36344,11 @@ msgstr ""
 
 #: templates/myaccount/form-reset-password.php:25
 msgid "Enter a new password below."
-msgstr ""
+msgstr "Įveskite naują slaptažodį."
 
 #: templates/myaccount/form-reset-password.php:28
 msgid "New password"
-msgstr ""
+msgstr "Naujas slaptažodis"
 
 #: templates/myaccount/form-reset-password.php:32
 msgid "Re-enter new password"

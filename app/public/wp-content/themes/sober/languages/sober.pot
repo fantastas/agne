@@ -1086,7 +1086,7 @@ msgstr ""
 #: woocommerce/myaccount/dashboard.php:35
 #, php-format
 msgid "Hello %1$s %3$s(not %1$s? <a href=\"%2$s\">Log out</a>)%4$s"
-msgstr ""
+msgstr "Labas  %1$s (ne %1$s? <a href=\"%2$s\">Atsijungti</a>)"
 
 #: inc/admin/meta-boxes.php:146
 msgid "Hide Breadcrumb"

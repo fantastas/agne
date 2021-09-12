@@ -34797,7 +34797,7 @@ msgstr ""
 #. translators: 1: user display name 2: logout url
 #: templates/myaccount/dashboard.php:35
 msgid "Hello %1$s (not %1$s? <a href=\"%2$s\">Log out</a>)"
-msgstr ""
+msgstr "Labas, %1$s (ne %1$s? <a href=\"%2$s\">Atsijungti</a>)"
 
 #. translators: 1: Orders URL 2: Address URL 3: Account URL.
 #: templates/myaccount/dashboard.php:45

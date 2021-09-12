@@ -34208,7 +34208,7 @@ msgstr ""
 #. translators: %s: Customer username
 #: packages/woocommerce-blocks/templates/emails/customer-new-account-blocks.php:17
 msgid "Hello %s,"
-msgstr ""
+msgstr "Labas %s,"
 
 #. translators: %1$s: Site title, %2$s: Username, %3$s: My account link
 #. translators: %1$s: Site title, %2$s: Username, %3$s: My account link

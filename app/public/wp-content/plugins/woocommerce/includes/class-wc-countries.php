@@ -696,7 +696,7 @@ class WC_Countries {
 				'priority'     => 20,
 			),
 			'company'    => array(
-				'label'        => __( 'Company name', 'woocommerce' ),
+				'label'        => __( 'Įmonės pavadinimas', 'woocommerce' ),
 				'class'        => array( 'form-row-wide' ),
 				'autocomplete' => 'organization',
 				'priority'     => 30,

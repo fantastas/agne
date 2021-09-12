@@ -6,7 +6,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2021-09-12 06:39+0000\n"
+"PO-Revision-Date: 2021-09-12 12:20+0000\n"
 "Last-Translator: \n"
 "Language-Team: Lietuvių kalba\n"
 "Language: lt_LT\n"
@@ -737,7 +737,7 @@ msgstr ""
 
 #: inc/frontend/comments.php:83 woocommerce/myaccount/my-address.php:73
 msgid "Edit"
-msgstr ""
+msgstr "Redaguoti"
 
 #: inc/class-sober-wc.php:1391 inc/customizer.php:2801
 msgid "Email"
@@ -824,7 +824,7 @@ msgstr ""
 
 #: 404.php:28
 msgid "Enter keywords"
-msgstr ""
+msgstr "Įveskite raktažodžius"
 
 #: inc/customizer.php:460
 msgid "Enter popup content. HTML and shortcodes are allowed."
@@ -1510,7 +1510,7 @@ msgstr ""
 
 #: inc/class-sober-wc.php:1119
 msgid "Name"
-msgstr ""
+msgstr "Vardas"
 
 #: inc/customizer.php:2765
 msgid "Navigate to products in the same category"
@@ -1936,7 +1936,7 @@ msgstr ""
 
 #: inc/customizer.php:963
 msgid "Product Name"
-msgstr ""
+msgstr "Prekės pavadinimas"
 
 #: inc/class-sober-wc.php:1267
 msgid "Product navigation"
@@ -2299,7 +2299,7 @@ msgstr ""
 
 #: woocommerce/myaccount/my-address.php:28
 msgid "Shipping Address"
-msgstr ""
+msgstr "Pristatymo adresas"
 
 #: inc/customizer.php:223 inc/customizer.php:2229
 msgid "Shop"
@@ -2626,7 +2626,7 @@ msgstr ""
 
 #: 404.php:21
 msgid "The page you are looking for not available!"
-msgstr ""
+msgstr "Puslapis nerastas!"
 
 #: inc/admin/meta-boxes.php:384
 msgid "The video thumbnail"

@@ -2859,7 +2859,7 @@ msgstr ""
 
 #: woocommerce/myaccount/my-address.php:69
 msgid "You have not set up this type of address yet."
-msgstr ""
+msgstr "Jūs dar nenustatėte savo adreso."
 
 #: template-parts/related-posts.php:31
 msgid "You Might Also Like"

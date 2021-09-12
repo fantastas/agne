@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2021-08-17T19:57:19+00:00\n"
-"PO-Revision-Date: 2021-09-12 09:29+0000\n"
+"PO-Revision-Date: 2021-09-12 11:38+0000\n"
 "X-Generator: Loco https://localise.biz/\n"
 "X-Domain: woocommerce\n"
 "Language: lt_LT\n"
@@ -20818,8 +20818,7 @@ msgstr "Adresas"
 
 #: includes/class-wc-privacy-exporters.php:258
 msgid "Shipping Address"
-msgstr ""
-"Shipping Address\n"
+msgstr "Pristatymo adresas"
 
 #: includes/class-wc-privacy-exporters.php:259
 msgid "Phone Number"
@@ -36377,7 +36376,7 @@ msgstr ""
 
 #: templates/myaccount/my-address.php:67
 msgid "You have not set up this type of address yet."
-msgstr ""
+msgstr "Jūs dar nenustatėte savo adreso."
 
 #: templates/myaccount/my-downloads.php:29
 msgid "Available downloads"

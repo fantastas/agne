@@ -70,7 +70,7 @@ $col    = 1;
 				$formatted_address = WC()->countries->get_formatted_address( $address );
 				
 				if ( ! $formatted_address ) {
-                    esc_html_e('You have not set up this type of address yet.', 'bridge');
+                    esc_html_e('Jūs dar nenustatėte savo adreso.', 'bridge');
                 } else{
 				    echo implode('<br/>', $address);
                 }

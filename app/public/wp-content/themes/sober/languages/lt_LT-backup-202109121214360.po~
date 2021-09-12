@@ -6,14 +6,14 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2021-09-09 06:59+0000\n"
+"PO-Revision-Date: 2021-09-12 12:13+0000\n"
 "Last-Translator: \n"
 "Language-Team: Lietuvių kalba\n"
 "Language: lt_LT\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 "
 "&&(n%100<10||n%100 >= 20)? 1 : 2);\n"
 "X-Generator: Loco https://localise.biz/\n"
-"X-Loco-Version: 2.5.3; wp-5.8"
+"X-Loco-Version: 2.5.3; wp-5.8.1"
 
 #: inc/customizer.php:1113
 msgid "1 Column"
@@ -54,7 +54,7 @@ msgstr ""
 
 #: woocommerce/myaccount/form-edit-account.php:26
 msgid "Account Details"
-msgstr ""
+msgstr "Profilio informacija"
 
 #: inc/customizer.php:1659
 msgid "Account Icon Behaviour"
@@ -1677,7 +1677,7 @@ msgstr ""
 
 #: inc/customizer.php:2643 woocommerce/single-product/up-sells.php:35
 msgid "Our offer"
-msgstr ""
+msgstr "Panašios prekės"
 
 #: inc/frontend/frontend.php:554
 msgid ""
@@ -2626,7 +2626,7 @@ msgstr ""
 
 #: 404.php:21
 msgid "The page you are looking for not available!"
-msgstr ""
+msgstr "Puslapis nerastas!"
 
 #: inc/admin/meta-boxes.php:384
 msgid "The video thumbnail"
@@ -2759,7 +2759,7 @@ msgstr ""
 
 #: inc/admin/ajax.php:28
 msgid "Username is required."
-msgstr ""
+msgstr "Vartotojo vardas yra privalomas laukas."
 
 #: woocommerce/global/form-login.php:34
 msgid "Username or email"
@@ -2861,7 +2861,7 @@ msgstr ""
 
 #: woocommerce/myaccount/my-address.php:69
 msgid "You have not set up this type of address yet."
-msgstr ""
+msgstr "Jūs dar nenustatėte savo adreso."
 
 #: template-parts/related-posts.php:31
 msgid "You Might Also Like"

@@ -6,14 +6,14 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2021-09-08 11:23+0000\n"
+"PO-Revision-Date: 2021-09-12 12:20+0000\n"
 "Last-Translator: \n"
 "Language-Team: Lietuvių kalba\n"
 "Language: lt_LT\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 "
 "&&(n%100<10||n%100 >= 20)? 1 : 2);\n"
 "X-Generator: Loco https://localise.biz/\n"
-"X-Loco-Version: 2.5.3; wp-5.8"
+"X-Loco-Version: 2.5.3; wp-5.8.1"
 
 #: inc/customizer.php:1113
 msgid "1 Column"
@@ -24,8 +24,8 @@ msgstr ""
 #, php-format
 msgid "1 product"
 msgid_plural "%d products"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "1 prekė"
+msgstr[1] "%d prekės"
 msgstr[2] ""
 
 #: inc/customizer.php:1112
@@ -301,7 +301,7 @@ msgstr ""
 #: inc/customizer.php:1449 inc/customizer.php:1471 inc/customizer.php:1493
 #: inc/customizer.php:1515 inc/customizer.php:1537 inc/frontend/footer.php:384
 msgid "Cart"
-msgstr ""
+msgstr "Krepšelis"
 
 #: inc/customizer.php:2127
 msgid "Cart Counter Badge"
@@ -737,7 +737,7 @@ msgstr ""
 
 #: inc/frontend/comments.php:83 woocommerce/myaccount/my-address.php:73
 msgid "Edit"
-msgstr ""
+msgstr "Redaguoti"
 
 #: inc/class-sober-wc.php:1391 inc/customizer.php:2801
 msgid "Email"
@@ -824,7 +824,7 @@ msgstr ""
 
 #: 404.php:28
 msgid "Enter keywords"
-msgstr ""
+msgstr "Įveskite raktažodžius"
 
 #: inc/customizer.php:460
 msgid "Enter popup content. HTML and shortcodes are allowed."
@@ -1677,7 +1677,7 @@ msgstr ""
 
 #: inc/customizer.php:2643 woocommerce/single-product/up-sells.php:35
 msgid "Our offer"
-msgstr ""
+msgstr "Panašios prekės"
 
 #: inc/frontend/frontend.php:554
 msgid ""
@@ -1761,7 +1761,7 @@ msgstr ""
 
 #: woocommerce/myaccount/form-edit-account.php:52
 msgid "Password Change"
-msgstr ""
+msgstr "Slaptažodžio keitimas"
 
 #: inc/customizer.php:2910
 msgid "Percentage"
@@ -2299,7 +2299,7 @@ msgstr ""
 
 #: woocommerce/myaccount/my-address.php:28
 msgid "Shipping Address"
-msgstr ""
+msgstr "Pristatymo adresas"
 
 #: inc/customizer.php:223 inc/customizer.php:2229
 msgid "Shop"
@@ -2626,7 +2626,7 @@ msgstr ""
 
 #: 404.php:21
 msgid "The page you are looking for not available!"
-msgstr ""
+msgstr "Puslapis nerastas!"
 
 #: inc/admin/meta-boxes.php:384
 msgid "The video thumbnail"
@@ -2759,7 +2759,7 @@ msgstr ""
 
 #: inc/admin/ajax.php:28
 msgid "Username is required."
-msgstr ""
+msgstr "Vartotojo vardas yra privalomas laukas."
 
 #: woocommerce/global/form-login.php:34
 msgid "Username or email"
@@ -2791,7 +2791,7 @@ msgstr ""
 
 #: vc_templates/vc_custom_heading.php:66 inc/frontend/footer.php:307
 msgid "View more"
-msgstr ""
+msgstr "Užkrauti daugiau"
 
 #: inc/customizer.php:496
 msgid "Wait for seconds"

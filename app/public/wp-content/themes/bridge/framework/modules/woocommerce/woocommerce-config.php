@@ -80,7 +80,7 @@ function bridge_qode_custom_override_checkout_fields($fields) {
     $args_billing = array(
         'first_name' => esc_html__('First name','bridge'),
         'last_name'  => esc_html__('Last name','bridge'),
-        'company'    => esc_html__('Company name','bridge'),
+        'company'    => esc_html__('Įmonės pavadinimas','bridge'),
         'address_1'  => esc_html__('Address','bridge'),
         'email'      => esc_html__('Email','bridge'),
         'phone'      => esc_html__('Phone','bridge'),
@@ -93,7 +93,7 @@ function bridge_qode_custom_override_checkout_fields($fields) {
     $args_shipping = array(
         'first_name' => esc_html__('First name','bridge'),
         'last_name'  => esc_html__('Last name','bridge'),
-        'company'    => esc_html__('Company name','bridge'),
+        'company'    => esc_html__('Įmonės pavadinimas','bridge'),
         'address_1'  => esc_html__('Address','bridge'),
         'postcode'   => esc_html__('Postcode / ZIP','bridge'),
 		'city'  	 => esc_html__('Town / City','bridge'),

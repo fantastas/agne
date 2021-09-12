@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2021-08-17T19:57:19+00:00\n"
-"PO-Revision-Date: 2021-09-12 09:02+0000\n"
+"PO-Revision-Date: 2021-09-12 09:29+0000\n"
 "X-Generator: Loco https://localise.biz/\n"
 "X-Domain: woocommerce\n"
 "Language: lt_LT\n"
@@ -20819,6 +20819,7 @@ msgstr "Adresas"
 #: includes/class-wc-privacy-exporters.php:258
 msgid "Shipping Address"
 msgstr ""
+"Shipping Address\n"
 
 #: includes/class-wc-privacy-exporters.php:259
 msgid "Phone Number"
@@ -21105,7 +21106,7 @@ msgstr ""
 
 #: includes/class-wc-query.php:143 includes/wc-account-functions.php:104
 msgid "Account details"
-msgstr "Paskyros informacija"
+msgstr "Profilio informacija"
 
 #: includes/class-wc-query.php:156
 msgid "Set password"
@@ -22223,7 +22224,7 @@ msgstr ""
 
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:132
 msgid "Account details:"
-msgstr "Paskyros informacija:"
+msgstr "Profilio informacija:"
 
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:139
 #: packages/woocommerce-admin/dist/chunks/task-list.js:1
@@ -25100,7 +25101,7 @@ msgstr ""
 #: packages/woocommerce-blocks/src/StoreApi/Routes/CartUpdateCustomer.php:55
 #: packages/woocommerce-blocks/src/StoreApi/Schemas/CheckoutSchema.php:103
 msgid "Shipping address."
-msgstr ""
+msgstr "Pristatymo adresas."
 
 #: includes/rest-api/Controllers/Version1/class-wc-rest-orders-v1-controller.php:1145
 #: includes/rest-api/Controllers/Version2/class-wc-rest-orders-v2-controller.php:1207
@@ -35585,7 +35586,7 @@ msgstr ""
 
 #: packages/woocommerce-blocks/src/StoreApi/Utilities/OrderController.php:273
 msgid "shipping address"
-msgstr ""
+msgstr "pristatymo adresas"
 
 #: packages/woocommerce-blocks/src/StoreApi/Utilities/OrderController.php:273
 msgid "billing address"
@@ -36175,7 +36176,7 @@ msgstr "Adresas"
 #: packages/woocommerce-blocks/build/checkout-frontend.js:29
 #: packages/woocommerce-blocks/build/checkout.js:29
 msgid "Shipping address"
-msgstr ""
+msgstr "Pristatymo adresas"
 
 #: templates/emails/email-customer-details.php:24
 #: templates/emails/plain/email-customer-details.php:22
@@ -36314,7 +36315,7 @@ msgstr "Dabartinis slaptažodis (palikite tuščią, jei nenorite keisti)"
 
 #: templates/myaccount/form-edit-account.php:55
 msgid "New password (leave blank to leave unchanged)"
-msgstr ""
+msgstr "Naujas slaptažodis (palikite tuščią, jei nenorite keisti)"
 
 #: templates/myaccount/form-edit-account.php:59
 msgid "Confirm new password"
@@ -36322,7 +36323,7 @@ msgstr "Patvirtinkite naują slaptažodį"
 
 #: templates/myaccount/form-edit-address.php:46
 msgid "Save address"
-msgstr ""
+msgstr "Išsaugoti"
 
 #: templates/myaccount/form-login.php:54
 msgid "Log in"

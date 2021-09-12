@@ -32,7 +32,7 @@ $allowed_html = array(
 	<?php
 	printf(
 		/* translators: 1: user display name 2: logout url */
-		wp_kses( __( 'Hello %1$s %3$s(not %1$s? <a href="%2$s">Log out</a>)%4$s', 'sober' ), $allowed_html ),
+		wp_kses( __( 'Labas, %1$s (ne %1$s? <a href=\"%2$s\">Atsijungti</a>)', 'sober' ), $allowed_html ),
 		'<strong>' . esc_html( $current_user->display_name ) . '</strong>',
 		esc_url( wc_logout_url() ),
 		'<span class="not-admin">',

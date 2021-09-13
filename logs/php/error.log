@@ -829,3 +829,11 @@
 [13-Sep-2021 04:29:29 UTC] PHP   4. WP_Hook->apply_filters() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:327
 [13-Sep-2021 04:29:29 UTC] PHP   5. wp_update_themes() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/class-wp-hook.php:303
 [13-Sep-2021 04:29:29 UTC] PHP   6. trigger_error() /Users/mariussurvila/Local Sites/agne/app/public/wp-includes/update.php:693
+[13-Sep-2021 07:00:08 UTC] PHP Fatal error:  Cannot redeclare custom_override_default_address_fields() (previously declared in /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/sober/functions.php:178) in /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/sober/functions.php on line 199
+[13-Sep-2021 07:00:08 UTC] PHP Stack trace:
+[13-Sep-2021 07:00:08 UTC] PHP   1. {main}() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/theme-editor.php:0
+[13-Sep-2021 07:00:08 UTC] PHP   2. require_once() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/theme-editor.php:10
+[13-Sep-2021 07:00:08 UTC] PHP   3. require_once() /Users/mariussurvila/Local Sites/agne/app/public/wp-admin/admin.php:34
+[13-Sep-2021 07:00:08 UTC] PHP   4. require_once() /Users/mariussurvila/Local Sites/agne/app/public/wp-load.php:50
+[13-Sep-2021 07:00:08 UTC] PHP   5. require_once() /Users/mariussurvila/Local Sites/agne/app/public/wp-config.php:77
+[13-Sep-2021 07:08:23 UTC] PHP Parse error:  syntax error, unexpected ';' in /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/sober/functions.php on line 182

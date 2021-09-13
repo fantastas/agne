@@ -174,6 +174,14 @@ function sober_widgets_init() {
 
 add_action( 'widgets_init', 'sober_widgets_init' );
 
+function jeherve_remove_state_field( $fields ) {
+	unset( $fields['state'] );
+
+	return $fields;
+}
+add_filter( 'woocommerce_default_address_fields', 'jeherve_remove_state_field' );
+
+
 /**
  * Register elementor locations
  */

@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2021-08-17T19:57:19+00:00\n"
-"PO-Revision-Date: 2021-09-12 11:38+0000\n"
+"PO-Revision-Date: 2021-09-13 06:31+0000\n"
 "X-Generator: Loco https://localise.biz/\n"
 "X-Domain: woocommerce\n"
 "Language: lt_LT\n"
@@ -108,7 +108,7 @@ msgstr ""
 
 #: i18n/continents.php:78 i18n/countries.php:25
 msgid "Antarctica"
-msgstr ""
+msgstr "Antarktida"
 
 #: i18n/continents.php:88
 msgid "Asia"
@@ -120,7 +120,7 @@ msgstr ""
 
 #: i18n/continents.php:203
 msgid "North America"
-msgstr ""
+msgstr "Šiaurės Amerika"
 
 #: i18n/continents.php:249
 msgid "Oceania"
@@ -128,43 +128,43 @@ msgstr ""
 
 #: i18n/continents.php:280
 msgid "South America"
-msgstr ""
+msgstr "Pietų Amerika"
 
 #: i18n/countries.php:17
 msgid "Afghanistan"
-msgstr ""
+msgstr "Afganistanas"
 
 #: i18n/countries.php:18
 msgid "Åland Islands"
-msgstr ""
+msgstr "Alandų salos"
 
 #: i18n/countries.php:19
 msgid "Albania"
-msgstr ""
+msgstr "Albanija"
 
 #: i18n/countries.php:20
 msgid "Algeria"
-msgstr ""
+msgstr "Algerija"
 
 #: i18n/countries.php:21
 msgid "American Samoa"
-msgstr ""
+msgstr "Amerikos Samoa"
 
 #: i18n/countries.php:22
 msgid "Andorra"
-msgstr ""
+msgstr "Andora"
 
 #: i18n/countries.php:23
 msgid "Angola"
-msgstr ""
+msgstr "Angola"
 
 #: i18n/countries.php:24
 msgid "Anguilla"
-msgstr ""
+msgstr "Angilija"
 
 #: i18n/countries.php:26
 msgid "Antigua and Barbuda"
-msgstr ""
+msgstr "Antigva ir Barbuda"
 
 #: i18n/countries.php:27
 msgid "Argentina"
@@ -172,7 +172,7 @@ msgstr ""
 
 #: i18n/countries.php:28
 msgid "Armenia"
-msgstr ""
+msgstr "Armėnija"
 
 #: i18n/countries.php:29
 msgid "Aruba"
@@ -180,39 +180,39 @@ msgstr ""
 
 #: i18n/countries.php:30
 msgid "Australia"
-msgstr ""
+msgstr "Australija"
 
 #: i18n/countries.php:31
 msgid "Austria"
-msgstr ""
+msgstr "Austrija"
 
 #: i18n/countries.php:32
 msgid "Azerbaijan"
-msgstr ""
+msgstr "Azerbaidžanas"
 
 #: i18n/countries.php:33
 msgid "Bahamas"
-msgstr ""
+msgstr "Bahamos"
 
 #: i18n/countries.php:34
 msgid "Bahrain"
-msgstr ""
+msgstr "Bahreinas"
 
 #: i18n/countries.php:35
 msgid "Bangladesh"
-msgstr ""
+msgstr "Bangladešas"
 
 #: i18n/countries.php:36
 msgid "Barbados"
-msgstr ""
+msgstr "Barbadosas"
 
 #: i18n/countries.php:37
 msgid "Belarus"
-msgstr ""
+msgstr "Baltarusija"
 
 #: i18n/countries.php:38
 msgid "Belgium"
-msgstr ""
+msgstr "Belgija"
 
 #: i18n/countries.php:39
 msgid "Belau"
@@ -220,59 +220,59 @@ msgstr ""
 
 #: i18n/countries.php:40
 msgid "Belize"
-msgstr ""
+msgstr "Belizas"
 
 #: i18n/countries.php:41
 msgid "Benin"
-msgstr ""
+msgstr "Beninas"
 
 #: i18n/countries.php:42
 msgid "Bermuda"
-msgstr ""
+msgstr "Bermudai"
 
 #: i18n/countries.php:43
 msgid "Bhutan"
-msgstr ""
+msgstr "Butanas"
 
 #: i18n/countries.php:44
 msgid "Bolivia"
-msgstr ""
+msgstr "Bolivija"
 
 #: i18n/countries.php:45
 msgid "Bonaire, Saint Eustatius and Saba"
-msgstr ""
+msgstr "Bonaire, Saint Eustatius ir Saba"
 
 #: i18n/countries.php:46
 msgid "Bosnia and Herzegovina"
-msgstr ""
+msgstr "Bosnija ir Hercegovina"
 
 #: i18n/countries.php:47
 msgid "Botswana"
-msgstr ""
+msgstr "Botsvana"
 
 #: i18n/countries.php:48
 msgid "Bouvet Island"
-msgstr ""
+msgstr "Buvė"
 
 #: i18n/countries.php:49
 msgid "Brazil"
-msgstr ""
+msgstr "Brazilija"
 
 #: i18n/countries.php:50
 msgid "British Indian Ocean Territory"
-msgstr ""
+msgstr "Britų Indijos vandenyno teritorija"
 
 #: i18n/countries.php:51
 msgid "Brunei"
-msgstr ""
+msgstr "Brunėjus"
 
 #: i18n/countries.php:52
 msgid "Bulgaria"
-msgstr ""
+msgstr "Bulgarija"
 
 #: i18n/countries.php:53
 msgid "Burkina Faso"
-msgstr ""
+msgstr "Burkina Fasas"
 
 #: i18n/countries.php:54
 msgid "Burundi"
@@ -280,15 +280,15 @@ msgstr ""
 
 #: i18n/countries.php:55
 msgid "Cambodia"
-msgstr ""
+msgstr "Kambodža"
 
 #: i18n/countries.php:56
 msgid "Cameroon"
-msgstr ""
+msgstr "Kamerūnas"
 
 #: i18n/countries.php:57
 msgid "Canada"
-msgstr ""
+msgstr "Kanada"
 
 #: i18n/countries.php:58
 msgid "Cape Verde"
@@ -296,183 +296,183 @@ msgstr ""
 
 #: i18n/countries.php:59
 msgid "Cayman Islands"
-msgstr ""
+msgstr "Kaimanų salos"
 
 #: i18n/countries.php:60
 msgid "Central African Republic"
-msgstr ""
+msgstr "Centrine Afrikos Respublika"
 
 #: i18n/countries.php:61
 msgid "Chad"
-msgstr ""
+msgstr "Čadas"
 
 #: i18n/countries.php:62
 msgid "Chile"
-msgstr ""
+msgstr "Čilė"
 
 #: i18n/countries.php:63
 msgid "China"
-msgstr ""
+msgstr "Kinija"
 
 #: i18n/countries.php:64
 msgid "Christmas Island"
-msgstr ""
+msgstr "Kalėdų sala"
 
 #: i18n/countries.php:65
 msgid "Cocos (Keeling) Islands"
-msgstr ""
+msgstr "Kokosų (Keeling) salos"
 
 #: i18n/countries.php:66
 msgid "Colombia"
-msgstr ""
+msgstr "Kolumbija"
 
 #: i18n/countries.php:67
 msgid "Comoros"
-msgstr ""
+msgstr "Komorai"
 
 #: i18n/countries.php:68
 msgid "Congo (Brazzaville)"
-msgstr ""
+msgstr "Kongas (Brazavilis)"
 
 #: i18n/countries.php:69
 msgid "Congo (Kinshasa)"
-msgstr ""
+msgstr "Kongas (Kinšasa)"
 
 #: i18n/countries.php:70
 msgid "Cook Islands"
-msgstr ""
+msgstr "Kuko salos"
 
 #: i18n/countries.php:71
 msgid "Costa Rica"
-msgstr ""
+msgstr "Kosta Rika"
 
 #: i18n/countries.php:72
 msgid "Croatia"
-msgstr ""
+msgstr "Kroatija"
 
 #: i18n/countries.php:73
 msgid "Cuba"
-msgstr ""
+msgstr "Kuba"
 
 #: i18n/countries.php:74
 msgid "Cura&ccedil;ao"
-msgstr ""
+msgstr "Kiurasao"
 
 #: i18n/countries.php:75
 msgid "Cyprus"
-msgstr ""
+msgstr "Kipras"
 
 #: i18n/countries.php:76
 msgid "Czech Republic"
-msgstr ""
+msgstr "Čekija"
 
 #: i18n/countries.php:77
 msgid "Denmark"
-msgstr ""
+msgstr "Danija"
 
 #: i18n/countries.php:78
 msgid "Djibouti"
-msgstr ""
+msgstr "Džibutis"
 
 #: i18n/countries.php:79
 msgid "Dominica"
-msgstr ""
+msgstr "Dominika"
 
 #: i18n/countries.php:80
 msgid "Dominican Republic"
-msgstr ""
+msgstr "Dominikos Respublika"
 
 #: i18n/countries.php:81
 msgid "Ecuador"
-msgstr ""
+msgstr "Ekvadoras"
 
 #: i18n/countries.php:82
 msgid "Egypt"
-msgstr ""
+msgstr "Egiptas"
 
 #: i18n/countries.php:83
 msgid "El Salvador"
-msgstr ""
+msgstr "Salvadoras"
 
 #: i18n/countries.php:84
 msgid "Equatorial Guinea"
-msgstr ""
+msgstr "Pusiaujo Gvinėja"
 
 #: i18n/countries.php:85
 msgid "Eritrea"
-msgstr ""
+msgstr "Eritrėja"
 
 #: i18n/countries.php:86
 msgid "Estonia"
-msgstr ""
+msgstr "Estija"
 
 #: i18n/countries.php:87
 msgid "Ethiopia"
-msgstr ""
+msgstr "Etiopija"
 
 #: i18n/countries.php:88
 msgid "Falkland Islands"
-msgstr ""
+msgstr "Folklando salos"
 
 #: i18n/countries.php:89
 msgid "Faroe Islands"
-msgstr ""
+msgstr "Farerų salos"
 
 #: i18n/countries.php:90
 msgid "Fiji"
-msgstr ""
+msgstr "Fidžis"
 
 #: i18n/countries.php:91
 msgid "Finland"
-msgstr ""
+msgstr "Suomija"
 
 #: i18n/countries.php:92
 msgid "France"
-msgstr ""
+msgstr "Prancūzija"
 
 #: i18n/countries.php:93
 msgid "French Guiana"
-msgstr ""
+msgstr "Prancūzijos Gviana"
 
 #: i18n/countries.php:94
 msgid "French Polynesia"
-msgstr ""
+msgstr "Prancūzų Polinezija"
 
 #: i18n/countries.php:95
 msgid "French Southern Territories"
-msgstr ""
+msgstr "Prancūzijos pietinės teritorijos"
 
 #: i18n/countries.php:96
 msgid "Gabon"
-msgstr ""
+msgstr "Gabonas"
 
 #: i18n/countries.php:97
 msgid "Gambia"
-msgstr ""
+msgstr "Gambija"
 
 #: i18n/countries.php:98
 msgid "Georgia"
-msgstr ""
+msgstr "Gruzija"
 
 #: i18n/countries.php:99
 msgid "Germany"
-msgstr ""
+msgstr "Vokietija"
 
 #: i18n/countries.php:100
 msgid "Ghana"
-msgstr ""
+msgstr "Gana"
 
 #: i18n/countries.php:101
 msgid "Gibraltar"
-msgstr ""
+msgstr "Gibraltaras"
 
 #: i18n/countries.php:102
 msgid "Greece"
-msgstr ""
+msgstr "Graikija"
 
 #: i18n/countries.php:103
 msgid "Greenland"
-msgstr ""
+msgstr "Grenlandija"
 
 #: i18n/countries.php:104
 msgid "Grenada"
@@ -484,31 +484,31 @@ msgstr ""
 
 #: i18n/countries.php:106
 msgid "Guam"
-msgstr ""
+msgstr "Guamas"
 
 #: i18n/countries.php:107 i18n/states.php:522
 msgid "Guatemala"
-msgstr ""
+msgstr "Gvatemala"
 
 #: i18n/countries.php:108
 msgid "Guernsey"
-msgstr ""
+msgstr "Gernsis"
 
 #: i18n/countries.php:109
 msgid "Guinea"
-msgstr ""
+msgstr "Gvinėja"
 
 #: i18n/countries.php:110
 msgid "Guinea-Bissau"
-msgstr ""
+msgstr "Bisau Gvinėja"
 
 #: i18n/countries.php:111
 msgid "Guyana"
-msgstr ""
+msgstr "Gajana"
 
 #: i18n/countries.php:112
 msgid "Haiti"
-msgstr ""
+msgstr "Haitis"
 
 #: i18n/countries.php:113
 msgid "Heard Island and McDonald Islands"
@@ -516,19 +516,19 @@ msgstr ""
 
 #: i18n/countries.php:114
 msgid "Honduras"
-msgstr ""
+msgstr "Hondūras"
 
 #: i18n/countries.php:115
 msgid "Hong Kong"
-msgstr ""
+msgstr "Honkongas"
 
 #: i18n/countries.php:116
 msgid "Hungary"
-msgstr ""
+msgstr "Vengrija"
 
 #: i18n/countries.php:117
 msgid "Iceland"
-msgstr ""
+msgstr "Islandija"
 
 #: i18n/countries.php:118
 msgid "India"
@@ -536,67 +536,67 @@ msgstr ""
 
 #: i18n/countries.php:119
 msgid "Indonesia"
-msgstr ""
+msgstr "Indonezija"
 
 #: i18n/countries.php:120
 msgid "Iran"
-msgstr ""
+msgstr "Iranas"
 
 #: i18n/countries.php:121
 msgid "Iraq"
-msgstr ""
+msgstr "Irakas"
 
 #: i18n/countries.php:122
 msgid "Ireland"
-msgstr ""
+msgstr "Airija"
 
 #: i18n/countries.php:123
 msgid "Isle of Man"
-msgstr ""
+msgstr "Meno sala"
 
 #: i18n/countries.php:124
 msgid "Israel"
-msgstr ""
+msgstr "Izraelis"
 
 #: i18n/countries.php:125
 msgid "Italy"
-msgstr ""
+msgstr "Italija"
 
 #: i18n/countries.php:126
 msgid "Ivory Coast"
-msgstr ""
+msgstr "Dramblio kaulo krantas"
 
 #: i18n/countries.php:127
 msgid "Jamaica"
-msgstr ""
+msgstr "Jamaika"
 
 #: i18n/countries.php:128
 msgid "Japan"
-msgstr ""
+msgstr "Japonija"
 
 #: i18n/countries.php:129
 msgid "Jersey"
-msgstr ""
+msgstr "Džersis"
 
 #: i18n/countries.php:130
 msgid "Jordan"
-msgstr ""
+msgstr "Jordanija"
 
 #: i18n/countries.php:131
 msgid "Kazakhstan"
-msgstr ""
+msgstr "Kazachstanas"
 
 #: i18n/countries.php:132
 msgid "Kenya"
-msgstr ""
+msgstr "Kenija"
 
 #: i18n/countries.php:133
 msgid "Kiribati"
-msgstr ""
+msgstr "Kiribatis"
 
 #: i18n/countries.php:134
 msgid "Kuwait"
-msgstr ""
+msgstr "Kuveitas"
 
 #: i18n/countries.php:135
 msgid "Kyrgyzstan"
@@ -604,67 +604,67 @@ msgstr ""
 
 #: i18n/countries.php:136
 msgid "Laos"
-msgstr ""
+msgstr "Laosas"
 
 #: i18n/countries.php:137
 msgid "Latvia"
-msgstr ""
+msgstr "Latvija"
 
 #: i18n/countries.php:138
 msgid "Lebanon"
-msgstr ""
+msgstr "Libanas"
 
 #: i18n/countries.php:139
 msgid "Lesotho"
-msgstr ""
+msgstr "Lesotas"
 
 #: i18n/countries.php:140
 msgid "Liberia"
-msgstr ""
+msgstr "Liberija"
 
 #: i18n/countries.php:141
 msgid "Libya"
-msgstr ""
+msgstr "Libija"
 
 #: i18n/countries.php:142
 msgid "Liechtenstein"
-msgstr ""
+msgstr "Lichtenšteinas"
 
 #: i18n/countries.php:143
 msgid "Lithuania"
-msgstr ""
+msgstr "Lietuva"
 
 #: i18n/countries.php:144
 msgid "Luxembourg"
-msgstr ""
+msgstr "Liuksemburgas"
 
 #: i18n/countries.php:145
 msgid "Macao"
-msgstr ""
+msgstr "Makao"
 
 #: i18n/countries.php:146
 msgid "North Macedonia"
-msgstr ""
+msgstr "Šiaurės Makedonija"
 
 #: i18n/countries.php:147
 msgid "Madagascar"
-msgstr ""
+msgstr "Madagaskaras"
 
 #: i18n/countries.php:148
 msgid "Malawi"
-msgstr ""
+msgstr "Malavis"
 
 #: i18n/countries.php:149
 msgid "Malaysia"
-msgstr ""
+msgstr "Malaizija"
 
 #: i18n/countries.php:150
 msgid "Maldives"
-msgstr ""
+msgstr "Maldyvai"
 
 #: i18n/countries.php:151
 msgid "Mali"
-msgstr ""
+msgstr "Malis"
 
 #: i18n/countries.php:152
 msgid "Malta"
@@ -672,31 +672,31 @@ msgstr ""
 
 #: i18n/countries.php:153
 msgid "Marshall Islands"
-msgstr ""
+msgstr "Maršalo salos"
 
 #: i18n/countries.php:154
 msgid "Martinique"
-msgstr ""
+msgstr "Martinika"
 
 #: i18n/countries.php:155
 msgid "Mauritania"
-msgstr ""
+msgstr "Mauritanija"
 
 #: i18n/countries.php:156
 msgid "Mauritius"
-msgstr ""
+msgstr "Mauricijus"
 
 #: i18n/countries.php:157
 msgid "Mayotte"
-msgstr ""
+msgstr "Majota"
 
 #: i18n/countries.php:158
 msgid "Mexico"
-msgstr ""
+msgstr "Meksika"
 
 #: i18n/countries.php:159
 msgid "Micronesia"
-msgstr ""
+msgstr "Mikronezija"
 
 #: i18n/countries.php:160
 msgid "Moldova"
@@ -704,23 +704,23 @@ msgstr ""
 
 #: i18n/countries.php:161
 msgid "Monaco"
-msgstr ""
+msgstr "Monakas"
 
 #: i18n/countries.php:162
 msgid "Mongolia"
-msgstr ""
+msgstr "Mongolija"
 
 #: i18n/countries.php:163
 msgid "Montenegro"
-msgstr ""
+msgstr "Montenegras"
 
 #: i18n/countries.php:164
 msgid "Montserrat"
-msgstr ""
+msgstr "Montseratas"
 
 #: i18n/countries.php:165
 msgid "Morocco"
-msgstr ""
+msgstr "Marokas"
 
 #: i18n/countries.php:166
 msgid "Mozambique"
@@ -728,11 +728,11 @@ msgstr ""
 
 #: i18n/countries.php:167
 msgid "Myanmar"
-msgstr ""
+msgstr "Mianmaras"
 
 #: i18n/countries.php:168
 msgid "Namibia"
-msgstr ""
+msgstr "Namibija"
 
 #: i18n/countries.php:169
 msgid "Nauru"
@@ -740,31 +740,31 @@ msgstr ""
 
 #: i18n/countries.php:170
 msgid "Nepal"
-msgstr ""
+msgstr "Nepalas"
 
 #: i18n/countries.php:171
 msgid "Netherlands"
-msgstr ""
+msgstr "Olandija"
 
 #: i18n/countries.php:172
 msgid "New Caledonia"
-msgstr ""
+msgstr "Naujoji Kaledonija"
 
 #: i18n/countries.php:173
 msgid "New Zealand"
-msgstr ""
+msgstr "Naujoji Zelandija"
 
 #: i18n/countries.php:174
 msgid "Nicaragua"
-msgstr ""
+msgstr "Nikaragva"
 
 #: i18n/countries.php:175 i18n/states.php:1123
 msgid "Niger"
-msgstr ""
+msgstr "Nigeris"
 
 #: i18n/countries.php:176
 msgid "Nigeria"
-msgstr ""
+msgstr "Nigerija"
 
 #: i18n/countries.php:177
 msgid "Niue"
@@ -772,31 +772,31 @@ msgstr ""
 
 #: i18n/countries.php:178
 msgid "Norfolk Island"
-msgstr ""
+msgstr "Norfolko sala"
 
 #: i18n/countries.php:179
 msgid "Northern Mariana Islands"
-msgstr ""
+msgstr "Šiaurės Marianos salos"
 
 #: i18n/countries.php:180
 msgid "North Korea"
-msgstr ""
+msgstr "Šiaurės Korėja"
 
 #: i18n/countries.php:181
 msgid "Norway"
-msgstr ""
+msgstr "Norvegija"
 
 #: i18n/countries.php:182
 msgid "Oman"
-msgstr ""
+msgstr "Omanas"
 
 #: i18n/countries.php:183
 msgid "Pakistan"
-msgstr ""
+msgstr "Pakistanas"
 
 #: i18n/countries.php:184
 msgid "Palestinian Territory"
-msgstr ""
+msgstr "Palestinos teritorija"
 
 #: i18n/countries.php:185
 msgid "Panama"
@@ -804,11 +804,11 @@ msgstr ""
 
 #: i18n/countries.php:186
 msgid "Papua New Guinea"
-msgstr ""
+msgstr "Papua Naujoji Gvinėja"
 
 #: i18n/countries.php:187
 msgid "Paraguay"
-msgstr ""
+msgstr "Paragvajus"
 
 #: i18n/countries.php:188
 msgid "Peru"
@@ -816,7 +816,7 @@ msgstr ""
 
 #: i18n/countries.php:189
 msgid "Philippines"
-msgstr ""
+msgstr "Filipinai"
 
 #: i18n/countries.php:190
 msgid "Pitcairn"
@@ -824,71 +824,71 @@ msgstr ""
 
 #: i18n/countries.php:191
 msgid "Poland"
-msgstr ""
+msgstr "Lenkija"
 
 #: i18n/countries.php:192
 msgid "Portugal"
-msgstr ""
+msgstr "Portugalija"
 
 #: i18n/countries.php:193
 msgid "Puerto Rico"
-msgstr ""
+msgstr "Puerto Rikas"
 
 #: i18n/countries.php:194
 msgid "Qatar"
-msgstr ""
+msgstr "Kataras"
 
 #: i18n/countries.php:195
 msgid "Reunion"
-msgstr ""
+msgstr "Reunjonas"
 
 #: i18n/countries.php:196
 msgid "Romania"
-msgstr ""
+msgstr "Rumunija"
 
 #: i18n/countries.php:197
 msgid "Russia"
-msgstr ""
+msgstr "Rusija"
 
 #: i18n/countries.php:198
 msgid "Rwanda"
-msgstr ""
+msgstr "Ruanda"
 
 #: i18n/countries.php:199
 msgid "Saint Barth&eacute;lemy"
-msgstr ""
+msgstr "Šventasis Bartelemelis"
 
 #: i18n/countries.php:200
 msgid "Saint Helena"
-msgstr ""
+msgstr "Šventoji Helena"
 
 #: i18n/countries.php:201
 msgid "Saint Kitts and Nevis"
-msgstr ""
+msgstr "Sent Kitsas ir Nevis"
 
 #: i18n/countries.php:202
 msgid "Saint Lucia"
-msgstr ""
+msgstr "Sent Lusija"
 
 #: i18n/countries.php:203
 msgid "Saint Martin (French part)"
-msgstr ""
+msgstr "Saint Martin (prancūzų dalis)"
 
 #: i18n/countries.php:204
 msgid "Saint Martin (Dutch part)"
-msgstr ""
+msgstr "Saint Martin (olandų dalis)"
 
 #: i18n/countries.php:205
 msgid "Saint Pierre and Miquelon"
-msgstr ""
+msgstr "Sen Pjeras ir Mikelonas"
 
 #: i18n/countries.php:206
 msgid "Saint Vincent and the Grenadines"
-msgstr ""
+msgstr "Sent Vinsentas ir Grenadinai"
 
 #: i18n/countries.php:207
 msgid "San Marino"
-msgstr ""
+msgstr "San Marinas"
 
 #: i18n/countries.php:208
 msgid "S&atilde;o Tom&eacute; and Pr&iacute;ncipe"
@@ -896,39 +896,39 @@ msgstr ""
 
 #: i18n/countries.php:209
 msgid "Saudi Arabia"
-msgstr ""
+msgstr "Saudo Arabija"
 
 #: i18n/countries.php:210
 msgid "Senegal"
-msgstr ""
+msgstr "Senegalas"
 
 #: i18n/countries.php:211
 msgid "Serbia"
-msgstr ""
+msgstr "Serbija"
 
 #: i18n/countries.php:212
 msgid "Seychelles"
-msgstr ""
+msgstr "Seišeliai"
 
 #: i18n/countries.php:213
 msgid "Sierra Leone"
-msgstr ""
+msgstr "Siera Leonė"
 
 #: i18n/countries.php:214
 msgid "Singapore"
-msgstr ""
+msgstr "Singapūras"
 
 #: i18n/countries.php:215
 msgid "Slovakia"
-msgstr ""
+msgstr "Slovakija"
 
 #: i18n/countries.php:216
 msgid "Slovenia"
-msgstr ""
+msgstr "Slovėnija"
 
 #: i18n/countries.php:217
 msgid "Solomon Islands"
-msgstr ""
+msgstr "Saliamono Salos"
 
 #: i18n/countries.php:218
 msgid "Somalia"
@@ -936,39 +936,39 @@ msgstr ""
 
 #: i18n/countries.php:219
 msgid "South Africa"
-msgstr ""
+msgstr "Pietų Afrika"
 
 #: i18n/countries.php:220
 msgid "South Georgia/Sandwich Islands"
-msgstr ""
+msgstr "Pietų Džordžija/Sandvičo salos"
 
 #: i18n/countries.php:221
 msgid "South Korea"
-msgstr ""
+msgstr "Pietų Korėja"
 
 #: i18n/countries.php:222
 msgid "South Sudan"
-msgstr ""
+msgstr "Pietų Sudanas"
 
 #: i18n/countries.php:223
 msgid "Spain"
-msgstr ""
+msgstr "Ispanija"
 
 #: i18n/countries.php:224
 msgid "Sri Lanka"
-msgstr ""
+msgstr "Šri Lanka"
 
 #: i18n/countries.php:225
 msgid "Sudan"
-msgstr ""
+msgstr "Sudanas"
 
 #: i18n/countries.php:226
 msgid "Suriname"
-msgstr ""
+msgstr "Surinamas"
 
 #: i18n/countries.php:227
 msgid "Svalbard and Jan Mayen"
-msgstr ""
+msgstr "Svalbardas ir Janas Mayenas"
 
 #: i18n/countries.php:228
 msgid "Swaziland"
@@ -976,39 +976,39 @@ msgstr ""
 
 #: i18n/countries.php:229
 msgid "Sweden"
-msgstr ""
+msgstr "Švedija"
 
 #: i18n/countries.php:230
 msgid "Switzerland"
-msgstr ""
+msgstr "Šveicarija"
 
 #: i18n/countries.php:231
 msgid "Syria"
-msgstr ""
+msgstr "Sirija"
 
 #: i18n/countries.php:232
 msgid "Taiwan"
-msgstr ""
+msgstr "Taivanas"
 
 #: i18n/countries.php:233
 msgid "Tajikistan"
-msgstr ""
+msgstr "Tadžikistanas"
 
 #: i18n/countries.php:234
 msgid "Tanzania"
-msgstr ""
+msgstr "Tanzanija"
 
 #: i18n/countries.php:235
 msgid "Thailand"
-msgstr ""
+msgstr "Tailandas"
 
 #: i18n/countries.php:236
 msgid "Timor-Leste"
-msgstr ""
+msgstr "Rytų Timoras"
 
 #: i18n/countries.php:237
 msgid "Togo"
-msgstr ""
+msgstr "Togas"
 
 #: i18n/countries.php:238
 msgid "Tokelau"
@@ -1016,11 +1016,11 @@ msgstr ""
 
 #: i18n/countries.php:239
 msgid "Tonga"
-msgstr ""
+msgstr "Tongos Karalystė"
 
 #: i18n/countries.php:240
 msgid "Trinidad and Tobago"
-msgstr ""
+msgstr "Trinidadas ir Tobagas"
 
 #: i18n/countries.php:241
 msgid "Tunisia"
@@ -1028,15 +1028,15 @@ msgstr ""
 
 #: i18n/countries.php:242
 msgid "Turkey"
-msgstr ""
+msgstr "Turkija"
 
 #: i18n/countries.php:243
 msgid "Turkmenistan"
-msgstr ""
+msgstr "Turkmėnistanas"
 
 #: i18n/countries.php:244
 msgid "Turks and Caicos Islands"
-msgstr ""
+msgstr "Terkso ir Kaikoso salos"
 
 #: i18n/countries.php:245
 msgid "Tuvalu"
@@ -1048,31 +1048,31 @@ msgstr ""
 
 #: i18n/countries.php:247
 msgid "Ukraine"
-msgstr ""
+msgstr "Ukraina"
 
 #: i18n/countries.php:248
 msgid "United Arab Emirates"
-msgstr ""
+msgstr "Jungtiniai Arabų Emyratai"
 
 #: i18n/countries.php:249
 msgid "United Kingdom (UK)"
-msgstr ""
+msgstr "Jungtinė Karalystė (UK)"
 
 #: i18n/countries.php:250
 msgid "United States (US)"
-msgstr ""
+msgstr "Jungtinės Amerikos Valstijos JAV "
 
 #: i18n/countries.php:251
 msgid "United States (US) Minor Outlying Islands"
-msgstr ""
+msgstr "JAV (JAV) Mažosios atokiosios salos"
 
 #: i18n/countries.php:252
 msgid "Uruguay"
-msgstr ""
+msgstr "Urugvajus"
 
 #: i18n/countries.php:253
 msgid "Uzbekistan"
-msgstr ""
+msgstr "Uzbekistanas"
 
 #: i18n/countries.php:254
 msgid "Vanuatu"
@@ -1080,31 +1080,31 @@ msgstr ""
 
 #: i18n/countries.php:255
 msgid "Vatican"
-msgstr ""
+msgstr "Vatikanas"
 
 #: i18n/countries.php:256
 msgid "Venezuela"
-msgstr ""
+msgstr "Venesuela"
 
 #: i18n/countries.php:257
 msgid "Vietnam"
-msgstr ""
+msgstr "Vietnamas"
 
 #: i18n/countries.php:258
 msgid "Virgin Islands (British)"
-msgstr ""
+msgstr "Mergelių salos (britų)"
 
 #: i18n/countries.php:259
 msgid "Virgin Islands (US)"
-msgstr ""
+msgstr "Mergelių salos (JAV)"
 
 #: i18n/countries.php:260
 msgid "Wallis and Futuna"
-msgstr ""
+msgstr "Volisas ir Futūna"
 
 #: i18n/countries.php:261
 msgid "Western Sahara"
-msgstr ""
+msgstr "Vakarų Sachara"
 
 #: i18n/countries.php:262
 msgid "Samoa"
@@ -1112,15 +1112,15 @@ msgstr ""
 
 #: i18n/countries.php:263
 msgid "Yemen"
-msgstr ""
+msgstr "Jemenas"
 
 #: i18n/countries.php:264
 msgid "Zambia"
-msgstr ""
+msgstr "Zambija"
 
 #: i18n/countries.php:265
 msgid "Zimbabwe"
-msgstr ""
+msgstr "Zimbabvė"
 
 #: i18n/states.php:19
 msgid "Bengo"
@@ -1308,7 +1308,7 @@ msgstr ""
 
 #: i18n/states.php:70
 msgid "South Australia"
-msgstr ""
+msgstr "Pietų Australija"
 
 #: i18n/states.php:71
 msgid "Tasmania"
@@ -1452,7 +1452,7 @@ msgstr ""
 
 #: i18n/states.php:109
 msgid "Madaripur"
-msgstr ""
+msgstr "Madaripuras"
 
 #: i18n/states.php:110
 msgid "Magura"
@@ -1868,7 +1868,7 @@ msgstr ""
 
 #: i18n/states.php:225
 msgid "São Paulo"
-msgstr ""
+msgstr "San Paulas"
 
 #: i18n/states.php:226
 msgid "Sergipe"
@@ -5512,7 +5512,7 @@ msgstr ""
 
 #: i18n/states.php:1237
 msgid "Guimaras"
-msgstr ""
+msgstr "Guimaras"
 
 #: i18n/states.php:1238
 msgid "Ifugao"
@@ -10109,7 +10109,7 @@ msgstr "Valstybė"
 #: includes/wc-template-functions.php:2805
 #: templates/cart/shipping-calculator.php:31
 msgid "Select a country / region&hellip;"
-msgstr ""
+msgstr "Pasirinkite šalį / regioną&hellip;"
 
 #: includes/admin/class-wc-admin-profile.php:81
 #: includes/admin/class-wc-admin-profile.php:141
@@ -10120,7 +10120,7 @@ msgstr ""
 #: templates/cart/shipping-calculator.php:55
 #: templates/cart/shipping-calculator.php:67
 msgid "State / County"
-msgstr ""
+msgstr " Valstybė"
 
 #: includes/admin/class-wc-admin-profile.php:82
 #: includes/admin/class-wc-admin-profile.php:142
@@ -18900,7 +18900,7 @@ msgstr ""
 #: packages/woocommerce-blocks/src/StoreApi/Utilities/CartController.php:1067
 msgid "%s is a required field"
 msgid_plural "%s are required fields"
-msgstr[0] "Laukas %s yra privalomas"
+msgstr[0] " "
 msgstr[1] "Laukai %s yra privalomi"
 msgstr[2] ""
 
@@ -19051,7 +19051,7 @@ msgstr ""
 #: includes/class-wc-checkout.php:834 includes/class-wc-form-handler.php:132
 #: includes/class-wc-form-handler.php:278
 msgid "%s is a required field."
-msgstr "Laukas %s yra privalomas."
+msgstr "%s yra privalomas."
 
 #: includes/class-wc-checkout.php:853 includes/class-wc-form-handler.php:412
 msgid ""
@@ -19160,7 +19160,7 @@ msgstr "Adresas"
 #. translators: use local order of street name and house number.
 #: includes/class-wc-countries.php:716
 msgid "House number and street name"
-msgstr "Namo numeris ir gatvės pavadinimas"
+msgstr "Namo ar buto numeris ir gatvės pavadinimas"
 
 #: includes/class-wc-countries.php:732
 msgid "Town / City"
@@ -19758,7 +19758,7 @@ msgstr ""
 
 #: includes/class-wc-frontend-scripts.php:598
 msgid "Please enter a stronger password."
-msgstr ""
+msgstr "Įvveskite sudėtingesnį slaptažodį."
 
 #: includes/class-wc-install.php:507
 msgid "Monthly"
@@ -29879,6 +29879,8 @@ msgid ""
 "An account is already registered with your email address. <a href=\"#\" "
 "class=\"showlogin\">Please log in.</a>"
 msgstr ""
+"Paskyra jau užregistruota jūsų el. pašto adresu. <a href=\"#\" "
+"class=\"showlogin\"> Prisijunkite. </a>"
 
 #: includes/wc-user-functions.php:57
 msgid "Please enter a valid account username."
@@ -34519,6 +34521,7 @@ msgid ""
 "An account is already registered with your email address. Please log in "
 "before proceeding."
 msgstr ""
+"Paskyra jau užregistruota jūsų el. pašto adresu. Prieš tęsdami prisijunkite."
 
 #: packages/woocommerce-blocks/src/StoreApi/Routes/ProductAttributesById.php:59
 msgid "Invalid attribute ID."
@@ -35599,7 +35602,7 @@ msgstr "Valstybė"
 #: packages/woocommerce-blocks/src/StoreApi/Utilities/OrderController.php:339
 #: packages/woocommerce-blocks/build/wc-settings.js:1
 msgid "State/County"
-msgstr ""
+msgstr "Valstybė"
 
 #. translators: %s Field label.
 #: packages/woocommerce-blocks/src/StoreApi/Utilities/OrderController.php:360
@@ -36376,7 +36379,7 @@ msgstr ""
 
 #: templates/myaccount/my-address.php:67
 msgid "You have not set up this type of address yet."
-msgstr "Jūs dar nenustatėte savo adreso."
+msgstr ""
 
 #: templates/myaccount/my-downloads.php:29
 msgid "Available downloads"
@@ -39045,7 +39048,7 @@ msgstr ""
 #: packages/woocommerce-admin/dist/chunks/profile-wizard.js:1
 #: packages/woocommerce-admin/dist/chunks/task-list.js:1
 msgid "Please select a country / region"
-msgstr ""
+msgstr "Pasirinkite šalį / regioną"
 
 #: packages/woocommerce-admin/dist/chunks/profile-wizard.js:1
 #: packages/woocommerce-admin/dist/chunks/task-list.js:1

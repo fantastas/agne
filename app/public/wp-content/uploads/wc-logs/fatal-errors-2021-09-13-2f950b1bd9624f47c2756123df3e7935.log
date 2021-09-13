@@ -1,0 +1,4 @@
+2021-09-13T07:00:08+00:00 CRITICAL Cannot redeclare custom_override_default_address_fields() (previously declared in /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/sober/functions.php:178) in /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/sober/functions.php on line 199
+
+2021-09-13T07:08:23+00:00 CRITICAL syntax error, unexpected ';' in /Users/mariussurvila/Local Sites/agne/app/public/wp-content/themes/sober/functions.php on line 182
+

@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2021-08-17T19:57:19+00:00\n"
-"PO-Revision-Date: 2021-09-12 11:38+0000\n"
+"PO-Revision-Date: 2021-09-12 13:02+0000\n"
 "X-Generator: Loco https://localise.biz/\n"
 "X-Domain: woocommerce\n"
 "Language: lt_LT\n"
@@ -19758,7 +19758,7 @@ msgstr ""
 
 #: includes/class-wc-frontend-scripts.php:598
 msgid "Please enter a stronger password."
-msgstr ""
+msgstr "Įvveskite sudėtingesnį slaptažodį."
 
 #: includes/class-wc-install.php:507
 msgid "Monthly"
@@ -29879,6 +29879,8 @@ msgid ""
 "An account is already registered with your email address. <a href=\"#\" "
 "class=\"showlogin\">Please log in.</a>"
 msgstr ""
+"Paskyra jau užregistruota jūsų el. pašto adresu. <a href=\"#\" "
+"class=\"showlogin\"> Prisijunkite. </a>"
 
 #: includes/wc-user-functions.php:57
 msgid "Please enter a valid account username."
@@ -34519,6 +34521,7 @@ msgid ""
 "An account is already registered with your email address. Please log in "
 "before proceeding."
 msgstr ""
+"Paskyra jau užregistruota jūsų el. pašto adresu. Prieš tęsdami prisijunkite."
 
 #: packages/woocommerce-blocks/src/StoreApi/Routes/ProductAttributesById.php:59
 msgid "Invalid attribute ID."
@@ -36376,7 +36379,7 @@ msgstr ""
 
 #: templates/myaccount/my-address.php:67
 msgid "You have not set up this type of address yet."
-msgstr "Jūs dar nenustatėte savo adreso."
+msgstr ""
 
 #: templates/myaccount/my-downloads.php:29
 msgid "Available downloads"

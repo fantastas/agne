@@ -25086,7 +25086,7 @@ msgstr ""
 #: packages/woocommerce-blocks/src/StoreApi/Routes/CartUpdateCustomer.php:47
 #: packages/woocommerce-blocks/src/StoreApi/Schemas/CheckoutSchema.php:92
 msgid "Billing address."
-msgstr ""
+msgstr "Užsakymo adresas."
 
 #: includes/rest-api/Controllers/Version1/class-wc-rest-orders-v1-controller.php:1075
 #: includes/rest-api/Controllers/Version1/class-wc-rest-orders-v1-controller.php:1138

@@ -25086,7 +25086,7 @@ msgstr ""
 #: packages/woocommerce-blocks/src/StoreApi/Routes/CartUpdateCustomer.php:47
 #: packages/woocommerce-blocks/src/StoreApi/Schemas/CheckoutSchema.php:92
 msgid "Billing address."
-msgstr ""
+msgstr "Užsakymo adresas."
 
 #: includes/rest-api/Controllers/Version1/class-wc-rest-orders-v1-controller.php:1075
 #: includes/rest-api/Controllers/Version1/class-wc-rest-orders-v1-controller.php:1138
@@ -36265,7 +36265,7 @@ msgstr "Labas, %1$s (ne %1$s? <a href=\"%2$s\">Atsijungti</a>)"
 #: templates/myaccount/dashboard.php:45
 msgid ""
 "From your account dashboard you can view your <a href=\"%1$s\">recent "
-"orders</a>, manage your <a href=\"%2$s\">billing address</a>, and <a "
+"orders</a>, manage your <a href=\"%2$s\">Užsakymo adresas</a>, and <a "
 "href=\"%3$s\">edit your password and account details</a>."
 msgstr ""
 "Paskyros suvestinėje galite peržiūrėti <a href=\"%1$s\"> naujausius "

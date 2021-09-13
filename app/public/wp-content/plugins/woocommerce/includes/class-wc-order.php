@@ -574,7 +574,7 @@ class WC_Order extends WC_Abstract_Order {
 	}
 
 	/**
-	 * Get billing address line 1.
+	 * Get Užsakymo adresas line 1.
 	 *
 	 * @param  string $context What the value is for. Valid values are view and edit.
 	 * @return string
@@ -584,7 +584,7 @@ class WC_Order extends WC_Abstract_Order {
 	}
 
 	/**
-	 * Get billing address line 2.
+	 * Get Užsakymo adresas line 2.
 	 *
 	 * @param  string $context What the value is for. Valid values are view and edit.
 	 * @return string
@@ -909,7 +909,7 @@ class WC_Order extends WC_Abstract_Order {
 	}
 
 	/**
-	 * Get a formatted billing address for the order.
+	 * Get a formatted Užsakymo adresas for the order.
 	 *
 	 * @param string $empty_content Content to show if no address is present. @since 3.3.0.
 	 * @return string
@@ -919,11 +919,11 @@ class WC_Order extends WC_Abstract_Order {
 		$address     = WC()->countries->get_formatted_address( $raw_address );
 
 		/**
-		 * Filter orders formatted billing address.
+		 * Filter orders formatted Užsakymo adresas.
 		 *
 		 * @since 3.8.0
-		 * @param string   $address     Formatted billing address string.
-		 * @param array    $raw_address Raw billing address.
+		 * @param string   $address     Formatted Užsakymo adresas string.
+		 * @param array    $raw_address Raw Užsakymo adresas.
 		 * @param WC_Order $order       Order data. @since 3.9.0
 		 */
 		return apply_filters( 'woocommerce_order_get_formatted_billing_address', $address ? $address : $empty_content, $raw_address, $this );
@@ -948,15 +948,15 @@ class WC_Order extends WC_Abstract_Order {
 		 * Filter orders formatted shipping address.
 		 *
 		 * @since 3.8.0
-		 * @param string   $address     Formatted billing address string.
-		 * @param array    $raw_address Raw billing address.
+		 * @param string   $address     Formatted Užsakymo adresas string.
+		 * @param array    $raw_address Raw Užsakymo adresas.
 		 * @param WC_Order $order       Order data. @since 3.9.0
 		 */
 		return apply_filters( 'woocommerce_order_get_formatted_shipping_address', $address ? $address : $empty_content, $raw_address, $this );
 	}
 
 	/**
-	 * Returns true if the order has a billing address.
+	 * Returns true if the order has a Užsakymo adresas.
 	 *
 	 * @since  3.0.4
 	 * @return boolean
@@ -1058,9 +1058,9 @@ class WC_Order extends WC_Abstract_Order {
 	}
 
 	/**
-	 * Set billing address line 1.
+	 * Set Užsakymo adresas line 1.
 	 *
-	 * @param string $value Billing address line 1.
+	 * @param string $value Užsakymo adresas line 1.
 	 * @throws WC_Data_Exception Throws exception when invalid data is found.
 	 */
 	public function set_billing_address_1( $value ) {
@@ -1068,9 +1068,9 @@ class WC_Order extends WC_Abstract_Order {
 	}
 
 	/**
-	 * Set billing address line 2.
+	 * Set Užsakymo adresas line 2.
 	 *
-	 * @param string $value Billing address line 2.
+	 * @param string $value Užsakymo adresas line 2.
 	 * @throws WC_Data_Exception Throws exception when invalid data is found.
 	 */
 	public function set_billing_address_2( $value ) {

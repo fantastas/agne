@@ -1524,7 +1524,7 @@ abstract class WC_Abstract_Order extends WC_Abstract_Legacy_Order {
 	}
 
 	/**
-	 * Get tax rates for an order. Use order's shipping or billing address, defaults to base location.
+	 * Get tax rates for an order. Use order's shipping or Užsakymo adresas, defaults to base location.
 	 *
 	 * @param string $tax_class     Tax class to get rates for.
 	 * @param array  $location_args Location to compute rates for. Should be in form: array( country, state, postcode, city).
@@ -1542,7 +1542,7 @@ abstract class WC_Abstract_Order extends WC_Abstract_Legacy_Order {
 	 * Calculate taxes for all line items and shipping, and store the totals and tax rows.
 	 *
 	 * If by default the taxes are based on the shipping address and the current order doesn't
-	 * have any, it would use the billing address rather than using the Shopping base location.
+	 * have any, it would use the Užsakymo adresas rather than using the Shopping base location.
 	 *
 	 * Will use the base country unless customer addresses are set.
 	 *

@@ -717,7 +717,7 @@ class WC_API_Orders extends WC_API_Resource {
 
 		$billing_address = $shipping_address = array();
 
-		// billing address
+		// Užsakymo adresas
 		if ( isset( $data['billing_address'] ) && is_array( $data['billing_address'] ) ) {
 
 			foreach ( $address_fields as $field ) {

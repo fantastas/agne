@@ -94,7 +94,7 @@ class WC_Privacy extends WC_Abstract_Privacy {
 			'<p class="privacy-policy-tutorial">' .
 				__( 'Note: you may want to further detail your cookie policy, and link to that section from here.', 'woocommerce' ) .
 			'</p>' .
-			'<p>' . __( 'When you purchase from us, we’ll ask you to provide information including your name, billing address, shipping address, email address, phone number, credit card/payment details and optional account information like username and password. We’ll use this information for purposes, such as, to:', 'woocommerce' ) . '</p>' .
+			'<p>' . __( 'When you purchase from us, we’ll ask you to provide information including your name, Užsakymo adresas, shipping address, email address, phone number, credit card/payment details and optional account information like username and password. We’ll use this information for purposes, such as, to:', 'woocommerce' ) . '</p>' .
 			'<ul>' .
 				'<li>' . __( 'Send you information about your account and order', 'woocommerce' ) . '</li>' .
 				'<li>' . __( 'Respond to your requests, including refunds and complaints', 'woocommerce' ) . '</li>' .

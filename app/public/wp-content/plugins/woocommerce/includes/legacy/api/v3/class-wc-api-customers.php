@@ -241,7 +241,7 @@ class WC_API_Customers extends WC_API_Resource {
 	}
 
 	/**
-	 * Get customer billing address fields.
+	 * Get customer Užsakymo adresas fields.
 	 *
 	 * @since  2.2
 	 * @return array
@@ -306,7 +306,7 @@ class WC_API_Customers extends WC_API_Resource {
 			$customer->set_last_name( wc_clean( $data['last_name'] ) );
 		}
 
-		// Customer billing address.
+		// Customer Užsakymo adresas.
 		if ( isset( $data['billing_address'] ) ) {
 			foreach ( $this->get_customer_billing_address() as $field ) {
 				if ( isset( $data['billing_address'][ $field ] ) ) {

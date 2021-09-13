@@ -42,9 +42,9 @@
 /**
  * @typedef {Object} StripeBillingDetails
  *
- * @property {Object} address             The billing address
- * @property {string} address.city        The billing address city
- * @property {string} address.country     The billing address country
+ * @property {Object} address             The Užsakymo adresas
+ * @property {string} address.city        The Užsakymo adresas city
+ * @property {string} address.country     The Užsakymo adresas country
  * @property {string} address.line1       The first line for the address
  * @property {string} address.line2       The second line fro the address
  * @property {string} address.postal_code The postal/zip code

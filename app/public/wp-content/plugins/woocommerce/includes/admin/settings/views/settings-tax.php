@@ -37,7 +37,7 @@ $settings = array(
 		'class'    => 'wc-enhanced-select',
 		'options'  => array(
 			'shipping' => __( 'Customer shipping address', 'woocommerce' ),
-			'billing'  => __( 'Customer billing address', 'woocommerce' ),
+			'billing'  => __( 'Customer Užsakymo adresas', 'woocommerce' ),
 			'base'     => __( 'Shop base address', 'woocommerce' ),
 		),
 	),

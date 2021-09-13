@@ -317,7 +317,7 @@ class WC_Meta_Box_Order_Data {
 							<?php esc_html_e( 'Billing', 'woocommerce' ); ?>
 							<a href="#" class="edit_address"><?php esc_html_e( 'Edit', 'woocommerce' ); ?></a>
 							<span>
-								<a href="#" class="load_customer_billing" style="display:none;"><?php esc_html_e( 'Load billing address', 'woocommerce' ); ?></a>
+								<a href="#" class="load_customer_billing" style="display:none;"><?php esc_html_e( 'Load Užsakymo adresas', 'woocommerce' ); ?></a>
 							</span>
 						</h3>
 						<div class="address">
@@ -327,7 +327,7 @@ class WC_Meta_Box_Order_Data {
 							if ( $order->get_formatted_billing_address() ) {
 								echo '<p>' . wp_kses( $order->get_formatted_billing_address(), array( 'br' => array() ) ) . '</p>';
 							} else {
-								echo '<p class="none_set"><strong>' . __( 'Address:', 'woocommerce' ) . '</strong> ' . __( 'No billing address set.', 'woocommerce' ) . '</p>';
+								echo '<p class="none_set"><strong>' . __( 'Address:', 'woocommerce' ) . '</strong> ' . __( 'No Užsakymo adresas set.', 'woocommerce' ) . '</p>';
 							}
 
 							foreach ( self::$billing_fields as $key => $field ) {
@@ -436,7 +436,7 @@ class WC_Meta_Box_Order_Data {
 							<a href="#" class="edit_address"><?php esc_html_e( 'Edit', 'woocommerce' ); ?></a>
 							<span>
 								<a href="#" class="load_customer_shipping" style="display:none;"><?php esc_html_e( 'Load shipping address', 'woocommerce' ); ?></a>
-								<a href="#" class="billing-same-as-shipping" style="display:none;"><?php esc_html_e( 'Copy billing address', 'woocommerce' ); ?></a>
+								<a href="#" class="billing-same-as-shipping" style="display:none;"><?php esc_html_e( 'Copy Užsakymo adresas', 'woocommerce' ); ?></a>
 							</span>
 						</h3>
 						<div class="address">

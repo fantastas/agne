@@ -924,7 +924,7 @@ class WC_Checkout {
 	 * @param array $data Posted data.
 	 */
 	protected function update_session( $data ) {
-		// Update both shipping and billing to the passed billing address first if set.
+		// Update both shipping and billing to the passed Užsakymo adresas first if set.
 		$address_fields = array(
 			'first_name',
 			'last_name',
@@ -1240,7 +1240,7 @@ class WC_Checkout {
 
 		/**
 		 * For logged in customers, pull data from their account rather than the session which may contain incomplete data.
-		 * Another reason is that WC sets shipping address to the billing address on the checkout updates unless the
+		 * Another reason is that WC sets shipping address to the Užsakymo adresas on the checkout updates unless the
 		 * "ship to another address" box is checked. @see issue #20975.
 		 */
 		$customer_object = false;

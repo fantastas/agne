@@ -8842,11 +8842,11 @@ msgid "Payment method"
 msgstr ""
 
 #: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1545
-msgid "Billing address city"
+msgid "Užsakymo adresas city"
 msgstr ""
 
 #: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1546
-msgid "Billing address country"
+msgid "Užsakymo adresas country"
 msgstr ""
 
 #: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1547

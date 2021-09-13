@@ -958,7 +958,7 @@ class WC_Customer extends WC_Legacy_Customer {
 	/**
 	 * Set billing_address_1.
 	 *
-	 * @param string $value Billing address line 1.
+	 * @param string $value Užsakymo adresas line 1.
 	 */
 	public function set_billing_address( $value ) {
 		$this->set_billing_address_1( $value );
@@ -967,7 +967,7 @@ class WC_Customer extends WC_Legacy_Customer {
 	/**
 	 * Set billing_address_1.
 	 *
-	 * @param string $value Billing address line 1.
+	 * @param string $value Užsakymo adresas line 1.
 	 */
 	public function set_billing_address_1( $value ) {
 		$this->set_address_prop( 'address_1', 'billing', $value );
@@ -976,7 +976,7 @@ class WC_Customer extends WC_Legacy_Customer {
 	/**
 	 * Set billing_address_2.
 	 *
-	 * @param string $value Billing address line 2.
+	 * @param string $value Užsakymo adresas line 2.
 	 */
 	public function set_billing_address_2( $value ) {
 		$this->set_address_prop( 'address_2', 'billing', $value );

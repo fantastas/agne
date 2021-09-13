@@ -13,7 +13,7 @@ const BillingFieldsStep = ( { children } ) => {
 			id="billing-fields"
 			disabled={ isDisabled }
 			className="wc-block-checkout__billing-fields"
-			title={ __( 'Billing address', 'woocommerce' ) }
+			title={ __( 'Užsakymo adresas', 'woocommerce' ) }
 			description={ __(
 				'Enter the address that matches your card or payment method.',
 				'woocommerce'

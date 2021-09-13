@@ -403,7 +403,7 @@ msgstr ""
 msgid "For ajax  redraw."
 msgstr ""
 
-msgid "For currencies - aggregated data about count of countries which users selected currencies on the site front. For orders - count of orders made from countries, detected by selected country in the billing address."
+msgid "For currencies - aggregated data about count of countries which users selected currencies on the site front. For orders - count of orders made from countries, detected by selected country in the Užsakymo adresas."
 msgstr ""
 
 msgid "For currencies - aggregated data about selected currencies on the site front. For orders - count of orders made in the selected currencies."

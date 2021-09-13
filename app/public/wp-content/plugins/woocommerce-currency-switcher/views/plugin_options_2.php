@@ -1517,7 +1517,7 @@ global $WOOCS;
                                                 <a href="javascript: woocs_stat_redraw(2); void(0);" id="woocs_stat_redraw_2" class="woocs_stat_redraw_btn woocs__button">
                                                     <i class="uil uil-refresh"></i>&nbsp;<?php echo $this->statistic->get_label(2) ?>
                                                 </a>&nbsp;
-                                                <label class="woocs-options-valign-top"><?php woocs_draw_tooltip(esc_html__('For currencies - aggregated data about count of countries which users selected currencies on the site front. For orders - count of orders made from countries, detected by selected country in the billing address.', 'woocommerce-currency-switcher')) ?></label>
+                                                <label class="woocs-options-valign-top"><?php woocs_draw_tooltip(esc_html__('For currencies - aggregated data about count of countries which users selected currencies on the site front. For orders - count of orders made from countries, detected by selected country in the Užsakymo adresas.', 'woocommerce-currency-switcher')) ?></label>
                                             </li>
                                         </ul>
                                     </div>

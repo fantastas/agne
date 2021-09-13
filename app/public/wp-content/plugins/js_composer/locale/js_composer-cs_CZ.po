@@ -8324,11 +8324,11 @@ msgid "Payment method"
 msgstr "Způsob platby"
 
 #: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1545
-msgid "Billing address city"
+msgid "Užsakymo adresas city"
 msgstr "Město (Fakturační adresa)"
 
 #: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1546
-msgid "Billing address country"
+msgid "Užsakymo adresas country"
 msgstr "Stát (Fakturační adresa)"
 
 #: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1547

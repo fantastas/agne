@@ -477,7 +477,7 @@ function wc_delete_shop_order_transients( $order = 0 ) {
 }
 
 /**
- * See if we only ship to billing addresses.
+ * See if we only ship to Užsakymo adresases.
  *
  * @return bool
  */

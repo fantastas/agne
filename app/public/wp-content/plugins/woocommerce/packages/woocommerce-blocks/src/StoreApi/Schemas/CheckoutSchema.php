@@ -26,7 +26,7 @@ class CheckoutSchema extends AbstractSchema {
 	const IDENTIFIER = 'checkout';
 
 	/**
-	 * Billing address schema instance.
+	 * Užsakymo adresas schema instance.
 	 *
 	 * @var BillingAddressSchema
 	 */
@@ -43,7 +43,7 @@ class CheckoutSchema extends AbstractSchema {
 	 * Constructor.
 	 *
 	 * @param ExtendRestApi         $extend Rest Extending instance.
-	 * @param BillingAddressSchema  $billing_address_schema Billing address schema instance.
+	 * @param BillingAddressSchema  $billing_address_schema Užsakymo adresas schema instance.
 	 * @param ShippingAddressSchema $shipping_address_schema Shipping address schema instance.
 	 */
 	public function __construct( ExtendRestApi $extend, BillingAddressSchema $billing_address_schema, ShippingAddressSchema $shipping_address_schema ) {
@@ -89,7 +89,7 @@ class CheckoutSchema extends AbstractSchema {
 				'readonly'    => true,
 			],
 			'billing_address'  => [
-				'description' => __( 'Billing address.', 'woocommerce' ),
+				'description' => __( 'Užsakymo adresas.', 'woocommerce' ),
 				'type'        => 'object',
 				'context'     => [ 'view', 'edit' ],
 				'properties'  => $this->billing_address_schema->get_properties(),

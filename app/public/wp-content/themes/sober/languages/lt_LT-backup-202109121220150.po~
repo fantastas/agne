@@ -250,7 +250,7 @@ msgstr ""
 
 #: woocommerce/myaccount/my-address.php:27
 #: woocommerce/myaccount/my-address.php:32
-msgid "Billing Address"
+msgid "Užsakymo adresas"
 msgstr ""
 
 #: inc/class-sober-wc.php:1100

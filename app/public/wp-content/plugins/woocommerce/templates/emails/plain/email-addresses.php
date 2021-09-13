@@ -17,7 +17,7 @@
 
 defined( 'ABSPATH' ) || exit;
 
-echo "\n" . esc_html( wc_strtoupper( esc_html__( 'Billing address', 'woocommerce' ) ) ) . "\n\n";
+echo "\n" . esc_html( wc_strtoupper( esc_html__( 'Užsakymo adresas', 'woocommerce' ) ) ) . "\n\n";
 echo preg_replace( '#<br\s*/?>#i', "\n", $order->get_formatted_billing_address() ) . "\n"; // phpcs:ignore WordPress.Security.EscapeOutput.OutputNotEscaped
 
 if ( $order->get_billing_phone() ) {

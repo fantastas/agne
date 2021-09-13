@@ -18,7 +18,7 @@ use WooCommerce\PayPalCommerce\ApiClient\Exception\RuntimeException;
 class AddressFactory {
 
 	/**
-	 * Returns either the shipping or billing Address object of a customer.
+	 * Returns either the shipping or Užsakymo adresas object of a customer.
 	 *
 	 * @param \WC_Customer $customer The WooCommerce customer.
 	 * @param string       $type Either 'shipping' or 'billing'.

@@ -579,7 +579,7 @@ class WC_REST_Customers_V1_Controller extends WC_REST_Controller {
 			$customer->set_last_name( wc_clean( $request['last_name'] ) );
 		}
 
-		// Customer billing address.
+		// Customer Užsakymo adresas.
 		if ( isset( $request['billing'] ) ) {
 			foreach ( array_keys( $schema['properties']['billing']['properties'] ) as $field ) {
 				if ( isset( $request['billing'][ $field ] ) && is_callable( array( $customer, "set_billing_{$field}" ) ) ) {
@@ -720,7 +720,7 @@ class WC_REST_Customers_V1_Controller extends WC_REST_Controller {
 					'readonly'    => true,
 				),
 				'billing' => array(
-					'description' => __( 'List of billing address data.', 'woocommerce' ),
+					'description' => __( 'List of Užsakymo adresas data.', 'woocommerce' ),
 					'type'        => 'object',
 					'context'     => array( 'view', 'edit' ),
 					'properties' => array(

@@ -449,7 +449,7 @@ type BillingAddressShippingAddress = {
 };
 
 /**
- * Updates the shipping and/or billing address for the customer and returns an
+ * Updates the shipping and/or Užsakymo adresas for the customer and returns an
  * updated cart.
  *
  * @param {BillingAddressShippingAddress} customerData Address data to be updated; can contain both

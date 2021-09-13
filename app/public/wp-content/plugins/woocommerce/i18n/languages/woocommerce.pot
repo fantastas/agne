@@ -9895,7 +9895,7 @@ msgstr ""
 
 #: includes/admin/class-wc-admin-profile.php:43
 #: includes/admin/settings/views/settings-tax.php:40
-msgid "Customer billing address"
+msgid "Customer Užsakymo adresas"
 msgstr ""
 
 #: includes/admin/class-wc-admin-profile.php:46
@@ -10075,7 +10075,7 @@ msgid "Customer shipping address"
 msgstr ""
 
 #: includes/admin/class-wc-admin-profile.php:99
-msgid "Copy from billing address"
+msgid "Copy from Užsakymo adresas"
 msgstr ""
 
 #: includes/admin/class-wc-admin-profile.php:103
@@ -13082,7 +13082,7 @@ msgid "Guest"
 msgstr ""
 
 #: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:320
-msgid "Load billing address"
+msgid "Load Užsakymo adresas"
 msgstr ""
 
 #: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:330
@@ -13091,7 +13091,7 @@ msgid "Address:"
 msgstr ""
 
 #: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:330
-msgid "No billing address set."
+msgid "No Užsakymo adresas set."
 msgstr ""
 
 #: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:396
@@ -13120,7 +13120,7 @@ msgid "Load shipping address"
 msgstr ""
 
 #: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:439
-msgid "Copy billing address"
+msgid "Copy Užsakymo adresas"
 msgstr ""
 
 #: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:449
@@ -16072,11 +16072,11 @@ msgid "Default to customer shipping address"
 msgstr ""
 
 #: includes/admin/settings/class-wc-settings-shipping.php:142
-msgid "Default to customer billing address"
+msgid "Default to customer Užsakymo adresas"
 msgstr ""
 
 #: includes/admin/settings/class-wc-settings-shipping.php:143
-msgid "Force shipping to the customer billing address"
+msgid "Force shipping to the customer Užsakymo adresas"
 msgstr ""
 
 #: includes/admin/settings/class-wc-settings-shipping.php:151
@@ -18879,7 +18879,7 @@ msgid "Please enter a valid postcode / ZIP."
 msgstr ""
 
 #: includes/class-wc-form-handler.php:207
-msgid "Address changed successfully."
+msgid "Adresas buvo sėkmingai pakeistas."
 msgstr ""
 
 #: includes/class-wc-form-handler.php:261
@@ -19953,12 +19953,12 @@ msgstr ""
 
 #: includes/class-wc-privacy-erasers.php:49
 #: includes/class-wc-privacy-exporters.php:188
-msgid "Billing Address 1"
+msgid "Užsakymo adresas 1"
 msgstr ""
 
 #: includes/class-wc-privacy-erasers.php:50
 #: includes/class-wc-privacy-exporters.php:189
-msgid "Billing Address 2"
+msgid "Užsakymo adresas 2"
 msgstr ""
 
 #: includes/class-wc-privacy-erasers.php:51
@@ -20131,7 +20131,7 @@ msgid "Browser User Agent"
 msgstr ""
 
 #: includes/class-wc-privacy-exporters.php:257
-msgid "Billing Address"
+msgid "Užsakymo adresas"
 msgstr ""
 
 #: includes/class-wc-privacy-exporters.php:258
@@ -20240,7 +20240,7 @@ msgid "Note: you may want to further detail your cookie policy, and link to that
 msgstr ""
 
 #: includes/class-wc-privacy.php:97
-msgid "When you purchase from us, we’ll ask you to provide information including your name, billing address, shipping address, email address, phone number, credit card/payment details and optional account information like username and password. We’ll use this information for purposes, such as, to:"
+msgid "When you purchase from us, we’ll ask you to provide information including your name, Užsakymo adresas, shipping address, email address, phone number, credit card/payment details and optional account information like username and password. We’ll use this information for purposes, such as, to:"
 msgstr ""
 
 #: includes/class-wc-privacy.php:99
@@ -23585,7 +23585,7 @@ msgstr ""
 #: includes/rest-api/Controllers/Version1/class-wc-rest-customers-v1-controller.php:723
 #: includes/rest-api/Controllers/Version2/class-wc-rest-customers-v2-controller.php:195
 #: includes/rest-api/Controllers/Version3/class-wc-rest-customers-controller.php:150
-msgid "List of billing address data."
+msgid "List of Užsakymo adresas data."
 msgstr ""
 
 #: includes/rest-api/Controllers/Version1/class-wc-rest-customers-v1-controller.php:728
@@ -24210,7 +24210,7 @@ msgstr ""
 #: includes/rest-api/Controllers/Version2/class-wc-rest-orders-v2-controller.php:1092
 #: packages/woocommerce-blocks/src/StoreApi/Routes/CartUpdateCustomer.php:47
 #: packages/woocommerce-blocks/src/StoreApi/Schemas/CheckoutSchema.php:92
-msgid "Billing address."
+msgid "Užsakymo adresas."
 msgstr ""
 
 #: includes/rest-api/Controllers/Version1/class-wc-rest-orders-v1-controller.php:1075
@@ -33540,7 +33540,7 @@ msgid "Current set shipping address for the customer."
 msgstr ""
 
 #: packages/woocommerce-blocks/src/StoreApi/Schemas/CartSchema.php:147
-msgid "Current set billing address for the customer."
+msgid "Current set Užsakymo adresas for the customer."
 msgstr ""
 
 #: packages/woocommerce-blocks/src/StoreApi/Schemas/CartSchema.php:154
@@ -34182,7 +34182,7 @@ msgid "shipping address"
 msgstr ""
 
 #: packages/woocommerce-blocks/src/StoreApi/Utilities/OrderController.php:273
-msgid "billing address"
+msgid "Užsakymo adresas"
 msgstr ""
 
 #: packages/woocommerce-blocks/src/StoreApi/Utilities/OrderController.php:331
@@ -34703,7 +34703,7 @@ msgstr ""
 #: packages/woocommerce-blocks/assets/js/blocks/cart-checkout/checkout/form/billing-fields-step.js:16
 #: packages/woocommerce-blocks/build/checkout-frontend.js:29
 #: packages/woocommerce-blocks/build/checkout.js:29
-msgid "Billing address"
+msgid "Užsakymo adresas"
 msgstr ""
 
 #: templates/emails/email-addresses.php:43
@@ -34801,12 +34801,12 @@ msgstr "Labas, %1$s (ne %1$s? <a href=\"%2$s\">Atsijungti</a>)"
 
 #. translators: 1: Orders URL 2: Address URL 3: Account URL.
 #: templates/myaccount/dashboard.php:45
-msgid "From your account dashboard you can view your <a href=\"%1$s\">recent orders</a>, manage your <a href=\"%2$s\">billing address</a>, and <a href=\"%3$s\">edit your password and account details</a>."
+msgid "From your account dashboard you can view your <a href=\"%1$s\">recent orders</a>, manage your <a href=\"%2$s\">Užsakymo adresas</a>, and <a href=\"%3$s\">edit your password and account details</a>."
 msgstr ""
 
 #. translators: 1: Orders URL 2: Addresses URL 3: Account URL.
 #: templates/myaccount/dashboard.php:48
-msgid "From your account dashboard you can view your <a href=\"%1$s\">recent orders</a>, manage your <a href=\"%2$s\">shipping and billing addresses</a>, and <a href=\"%3$s\">edit your password and account details</a>."
+msgid "From your account dashboard you can view your <a href=\"%1$s\">recent orders</a>, manage your <a href=\"%2$s\">shipping and Užsakymo adresases</a>, and <a href=\"%3$s\">edit your password and account details</a>."
 msgstr ""
 
 #: templates/myaccount/downloads.php:40

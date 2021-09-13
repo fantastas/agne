@@ -1027,7 +1027,7 @@ class WC_REST_Orders_V1_Controller extends WC_REST_Posts_Controller {
 					'readonly'    => true,
 				),
 				'billing' => array(
-					'description' => __( 'Billing address.', 'woocommerce' ),
+					'description' => __( 'Užsakymo adresas.', 'woocommerce' ),
 					'type'        => 'object',
 					'context'     => array( 'view', 'edit' ),
 					'properties'  => array(

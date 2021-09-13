@@ -139,8 +139,8 @@ class WC_Settings_Shipping extends WC_Settings_Page {
 					'type'            => 'radio',
 					'options'         => array(
 						'shipping'     => __( 'Default to customer shipping address', 'woocommerce' ),
-						'billing'      => __( 'Default to customer billing address', 'woocommerce' ),
-						'billing_only' => __( 'Force shipping to the customer billing address', 'woocommerce' ),
+						'billing'      => __( 'Default to customer Užsakymo adresas', 'woocommerce' ),
+						'billing_only' => __( 'Force shipping to the customer Užsakymo adresas', 'woocommerce' ),
 					),
 					'autoload'        => false,
 					'desc_tip'        => true,

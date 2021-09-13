@@ -29,7 +29,7 @@
  *                                                      being loaded.
  * @property {Array}               cartErrors           An array of errors thrown
  *                                                      by the cart.
- * @property {CartBillingAddress}  billingAddress       Billing address for the
+ * @property {CartBillingAddress}  billingAddress       Užsakymo adresas for the
  *                                                      cart.
  * @property {CartShippingAddress} shippingAddress      Shipping address for the
  *                                                      cart.

@@ -40,7 +40,7 @@ export const useCheckoutAddress = () => {
 
 	// This tracks the state of the "shipping as billing" address checkbox. It's
 	// initial value is true (if shipping is needed), however, if the user is
-	// logged in and they have a different billing address, we can toggle this off.
+	// logged in and they have a different Užsakymo adresas, we can toggle this off.
 	const [ shippingAsBilling, setShippingAsBilling ] = useState(
 		() =>
 			needsShipping &&
@@ -65,7 +65,7 @@ export const useCheckoutAddress = () => {
 	);
 
 	/**
-	 * Sets billing address data, and also shipping if shipping is disabled.
+	 * Sets Užsakymo adresas data, and also shipping if shipping is disabled.
 	 */
 	const setBillingFields = useCallback(
 		( value ) => {
@@ -78,8 +78,8 @@ export const useCheckoutAddress = () => {
 		[ needsShipping, setShippingAddress, setBillingData ]
 	);
 
-	// When the "Use same address" checkbox is toggled we need to update the current billing address to reflect this;
-	// that is either setting the billing address to the shipping address, or restoring the billing address to it's
+	// When the "Use same address" checkbox is toggled we need to update the current Užsakymo adresas to reflect this;
+	// that is either setting the Užsakymo adresas to the shipping address, or restoring the Užsakymo adresas to it's
 	// previous state.
 	useEffect( () => {
 		if ( currentShippingAsBilling.current !== shippingAsBilling ) {

@@ -192,7 +192,7 @@ class WC_REST_Customers_V2_Controller extends WC_REST_Customers_V1_Controller {
 					'context'     => array( 'edit' ),
 				),
 				'billing'            => array(
-					'description' => __( 'List of billing address data.', 'woocommerce' ),
+					'description' => __( 'List of Užsakymo adresas data.', 'woocommerce' ),
 					'type'        => 'object',
 					'context'     => array( 'view', 'edit' ),
 					'properties'  => array(

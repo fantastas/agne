@@ -8439,11 +8439,11 @@ msgid "Payment method"
 msgstr "Fizetési mód"
 
 #: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1545
-msgid "Billing address city"
+msgid "Užsakymo adresas city"
 msgstr "Számlázási cím városa"
 
 #: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1546
-msgid "Billing address country"
+msgid "Užsakymo adresas country"
 msgstr "Számlázási cím országa"
 
 #: include/./classes/vendors/plugins/class-vc-vendor-woocommerce.php:1547

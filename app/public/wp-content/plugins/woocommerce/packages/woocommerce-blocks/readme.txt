@@ -187,7 +187,7 @@ Release and roadmap notes available on the [WooCommerce Developers Blog](https:/
 
 #### Bug Fixes
 
-- Fix issue in which email and phone fields are cleared when using a separate billing address. ([4162](https://github.com/woocommerce/woocommerce-gutenberg-products-block/pull/4162))
+- Fix issue in which email and phone fields are cleared when using a separate Užsakymo adresas. ([4162](https://github.com/woocommerce/woocommerce-gutenberg-products-block/pull/4162))
 
 = 5.0.0 - 2021-04-28 =
 
@@ -443,7 +443,7 @@ See release post [here](https://developer.woocommerce.com/?p=8234)
 - Fix: Orders not being placed when paying with an Express payment method from the Cart block. ([3403](https://github.com/woocommerce/woocommerce-gutenberg-products-block/pull/3403))
 - Fix incorrect usage of static method in Stripe payment method integration. ([3400](https://github.com/woocommerce/woocommerce-gutenberg-products-block/pull/3400))
 - Cart and checkout should respect the global "Hide shipping costs until an address is entered" setting. ([3383](https://github.com/woocommerce/woocommerce-gutenberg-products-block/pull/3383))
-- Sync shipping address with billing address when shipping address fields are disabled. This fixes a bug where taxes would not reflect changes in billing address when they are set to be calculated from billing address ([3358](https://github.com/woocommerce/woocommerce-gutenberg-products-block/pull/3358))
+- Sync shipping address with Užsakymo adresas when shipping address fields are disabled. This fixes a bug where taxes would not reflect changes in Užsakymo adresas when they are set to be calculated from Užsakymo adresas ([3358](https://github.com/woocommerce/woocommerce-gutenberg-products-block/pull/3358))
 
 #### refactor
 

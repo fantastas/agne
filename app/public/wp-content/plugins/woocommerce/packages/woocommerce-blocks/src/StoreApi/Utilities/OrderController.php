@@ -270,7 +270,7 @@ class OrderController {
 				sprintf(
 					/* translators: %s Address type. */
 					__( 'There was a problem with the provided %s:', 'woocommerce' ) . ' ' . implode( ', ', $error_messages ),
-					'shipping' === $code ? __( 'shipping address', 'woocommerce' ) : __( 'billing address', 'woocommerce' )
+					'shipping' === $code ? __( 'shipping address', 'woocommerce' ) : __( 'Užsakymo adresas', 'woocommerce' )
 				),
 				400,
 				[

@@ -40,7 +40,7 @@ if ( ! class_exists( 'WC_Admin_Profile', false ) ) :
 				'woocommerce_customer_meta_fields',
 				array(
 					'billing'  => array(
-						'title'  => __( 'Customer billing address', 'woocommerce' ),
+						'title'  => __( 'Customer Užsakymo adresas', 'woocommerce' ),
 						'fields' => array(
 							'billing_first_name' => array(
 								'label'       => __( 'First name', 'woocommerce' ),
@@ -96,7 +96,7 @@ if ( ! class_exists( 'WC_Admin_Profile', false ) ) :
 						'title'  => __( 'Customer shipping address', 'woocommerce' ),
 						'fields' => array(
 							'copy_billing'        => array(
-								'label'       => __( 'Copy from billing address', 'woocommerce' ),
+								'label'       => __( 'Copy from Užsakymo adresas', 'woocommerce' ),
 								'description' => '',
 								'class'       => 'js_copy-billing',
 								'type'        => 'button',

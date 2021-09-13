@@ -44,7 +44,7 @@ class CartUpdateCustomer extends AbstractCartRoute {
 				'permission_callback' => '__return_true',
 				'args'                => [
 					'billing_address'  => [
-						'description'       => __( 'Billing address.', 'woocommerce' ),
+						'description'       => __( 'Užsakymo adresas.', 'woocommerce' ),
 						'type'              => 'object',
 						'context'           => [ 'view', 'edit' ],
 						'properties'        => $this->schema->billing_address_schema->get_properties(),
@@ -78,7 +78,7 @@ class CartUpdateCustomer extends AbstractCartRoute {
 		$billing  = isset( $request['billing_address'] ) ? $request['billing_address'] : [];
 		$shipping = isset( $request['shipping_address'] ) ? $request['shipping_address'] : [];
 
-		// If the cart does not need shipping, shipping address is forced to match billing address unless defined.
+		// If the cart does not need shipping, shipping address is forced to match Užsakymo adresas unless defined.
 		if ( ! $cart->needs_shipping() && ! isset( $request['shipping_address'] ) ) {
 			$shipping = isset( $request['billing_address'] ) ? $request['billing_address'] : [
 				'first_name' => wc()->customer->get_billing_first_name(),

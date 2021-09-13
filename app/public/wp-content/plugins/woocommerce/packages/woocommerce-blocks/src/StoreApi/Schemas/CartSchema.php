@@ -64,7 +64,7 @@ class CartSchema extends AbstractSchema {
 	public $shipping_address_schema;
 
 	/**
-	 * Billing address schema instance.
+	 * Užsakymo adresas schema instance.
 	 *
 	 * @var BillingAddressSchema
 	 */
@@ -86,7 +86,7 @@ class CartSchema extends AbstractSchema {
 	 * @param CartFeeSchema          $fee_schema Fee schema instance.
 	 * @param CartShippingRateSchema $shipping_rate_schema Shipping rates schema instance.
 	 * @param ShippingAddressSchema  $shipping_address_schema Shipping address schema instance.
-	 * @param BillingAddressSchema   $billing_address_schema Billing address schema instance.
+	 * @param BillingAddressSchema   $billing_address_schema Užsakymo adresas schema instance.
 	 * @param ErrorSchema            $error_schema Error schema instance.
 	 */
 	public function __construct(
@@ -144,7 +144,7 @@ class CartSchema extends AbstractSchema {
 				'properties'  => $this->force_schema_readonly( $this->shipping_address_schema->get_properties() ),
 			],
 			'billing_address'         => [
-				'description' => __( 'Current set billing address for the customer.', 'woocommerce' ),
+				'description' => __( 'Current set Užsakymo adresas for the customer.', 'woocommerce' ),
 				'type'        => 'object',
 				'context'     => [ 'view', 'edit' ],
 				'readonly'    => true,

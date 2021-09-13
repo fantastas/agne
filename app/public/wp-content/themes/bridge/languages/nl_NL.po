@@ -7644,7 +7644,7 @@ msgstr "Mijn adressen"
 
 #: woocommerce/myaccount/my-address.php:28
 #: woocommerce/myaccount/my-address.php:34
-msgid "Billing address"
+msgid "Užsakymo adresas"
 msgstr ""
 
 #: woocommerce/myaccount/my-address.php:29
@@ -8695,7 +8695,7 @@ msgstr "Je vind dit misschien ook leuk"
 #~ msgstr "Opslaan"
 
 # @ woocommerce
-#~ msgid "Billing Address"
+#~ msgid "Užsakymo adresas"
 #~ msgstr "Factuuradres"
 
 # @ woocommerce

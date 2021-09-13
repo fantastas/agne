@@ -15691,7 +15691,7 @@ msgstr ""
 
 #: woocommerce/myaccount/my-address.php:28
 #: woocommerce/myaccount/my-address.php:34
-msgid "Billing address"
+msgid "Užsakymo adresas"
 msgstr ""
 
 #: woocommerce/myaccount/my-address.php:29

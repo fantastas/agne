@@ -25,7 +25,7 @@ import {
  * Track customer progress through steps of the checkout. Triggers the event when the step changes:
  * 	1 - Contact information
  * 	2 - Shipping address
- * 	3 - Billing address
+ * 	3 - Užsakymo adresas
  * 	4 - Shipping options
  * 	5 - Payment options
  *

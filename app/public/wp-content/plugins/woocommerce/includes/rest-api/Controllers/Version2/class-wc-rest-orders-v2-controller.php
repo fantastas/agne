@@ -1089,7 +1089,7 @@ class WC_REST_Orders_V2_Controller extends WC_REST_CRUD_Controller {
 					'context'     => array( 'view', 'edit' ),
 				),
 				'billing'              => array(
-					'description' => __( 'Billing address.', 'woocommerce' ),
+					'description' => __( 'Užsakymo adresas.', 'woocommerce' ),
 					'type'        => 'object',
 					'context'     => array( 'view', 'edit' ),
 					'properties'  => array(

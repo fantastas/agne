@@ -204,7 +204,7 @@ class WC_Form_Handler {
 
 		$customer->save();
 
-		wc_add_notice( __( 'Address changed successfully.', 'woocommerce' ) );
+		wc_add_notice( __( 'Adresas buvo sėkmingai pakeistas.', 'woocommerce' ) );
 
 		do_action( 'woocommerce_customer_save_address', $user_id, $load_address );
 

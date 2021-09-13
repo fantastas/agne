@@ -7,7 +7,7 @@ use Automattic\WooCommerce\Blocks\RestApi\Routes;
 /**
  * BillingAddressSchema class.
  *
- * Provides a generic billing address schema for composition in other schemas.
+ * Provides a generic Užsakymo adresas schema for composition in other schemas.
  *
  * @internal This API is used internally by Blocks--it is still in flux and may be subject to revisions.
  */
@@ -100,7 +100,7 @@ class BillingAddressSchema extends AbstractAddressSchema {
 	/**
 	 * Convert a term object into an object suitable for the response.
 	 *
-	 * @param \WC_Order|\WC_Customer $address An object with billing address.
+	 * @param \WC_Order|\WC_Customer $address An object with Užsakymo adresas.
 	 *
 	 * @throws RouteException When the invalid object types are provided.
 	 * @return stdClass

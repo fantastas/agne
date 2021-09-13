@@ -42,10 +42,10 @@ $allowed_html = array(
 <p>
 	<?php
 	/* translators: 1: Orders URL 2: Address URL 3: Account URL. */
-	$dashboard_desc = __( 'From your account dashboard you can view your <a href="%1$s">recent orders</a>, manage your <a href="%2$s">billing address</a>, and <a href="%3$s">edit your password and account details</a>.', 'woocommerce' );
+	$dashboard_desc = __( 'Paskyros suvestinėje galite peržiūrėti <a href="%1$s"> naujausius užsakymus </a>, tvarkyti <a href="%2$s"> adresus </a> , <a href = "%3 $ s"> redaguoti slaptažodį ar kitą paskyros informaciją </a>. Taip pat prisjungę vartotojai gali dalyvauti Agnės <a href="http://agne.local/forumai/forumas/agnes-forumas/"> forume.</a>.>Užsakymo adresas</a>, and <a href="%3$s">edit your password and account details</a>.', 'woocommerce' );
 	if ( wc_shipping_enabled() ) {
 		/* translators: 1: Orders URL 2: Addresses URL 3: Account URL. */
-		$dashboard_desc = __( 'From your account dashboard you can view your <a href="%1$s">recent orders</a>, manage your <a href="%2$s">shipping and billing addresses</a>, and <a href="%3$s">edit your password and account details</a>.', 'woocommerce' );
+		$dashboard_desc = __( 'Paskyros suvestinėje galite peržiūrėti <a href="%1$s"> naujausius užsakymus </a>, tvarkyti <a href="%2$s"> adresus </a> , <a href = "%3 $ s"> redaguoti slaptažodį ar kitą paskyros informaciją </a>. Taip pat prisjungę vartotojai gali dalyvauti Agnės <a href="http://agne.local/forumai/forumas/agnes-forumas/"> forume.</a>.', 'woocommerce' );
 	}
 	printf(
 		wp_kses( $dashboard_desc, $allowed_html ),

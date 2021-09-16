@@ -259,7 +259,7 @@ class WP_Customize_Media_Control extends WP_Customize_Control {
 					'remove'       => __( 'Remove' ),
 					'placeholder'  => __( 'No file selected' ),
 					'frame_title'  => __( 'Select file' ),
-					'frame_button' => __( 'Choose file' ),
+					'frame_button' => __( 'Pasirinkite failą' ),
 				);
 		} // End switch().
 	}

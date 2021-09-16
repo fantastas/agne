@@ -8,7 +8,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2021-09-12 08:34+0000\n"
+"PO-Revision-Date: 2021-09-16 06:21+0000\n"
 "Last-Translator: \n"
 "Language-Team: Lietuvių kalba\n"
 "X-Generator: Loco https://localise.biz/\n"
@@ -123,7 +123,7 @@ msgstr ""
 #: templates/default/bbpress/content-statistics.php:25
 #: templates/default/bbpress/user-profile.php:34
 msgid "Forums"
-msgstr ""
+msgstr "Forumai"
 
 #: includes/admin/classes/class-bbp-admin.php:490
 #: includes/admin/classes/class-bbp-admin.php:491
@@ -902,7 +902,7 @@ msgstr ""
 #: includes/admin/topics.php:480 includes/extend/buddypress/loader.php:260
 #: templates/default/bbpress/user-details.php:67
 msgid "Subscriptions"
-msgstr ""
+msgstr "Prenumeratos"
 
 #: includes/admin/forums.php:361
 msgid "The forum was not found."
@@ -1689,7 +1689,7 @@ msgstr ""
 #: includes/admin/topics.php:450 includes/extend/buddypress/loader.php:247
 #: templates/default/bbpress/user-details.php:57
 msgid "Favorites"
-msgstr ""
+msgstr "Mėstamiausios"
 
 #: includes/admin/settings.php:214 includes/admin/settings.php:453
 #: includes/admin/tools/common.php:455 includes/admin/topics.php:420
@@ -1697,7 +1697,7 @@ msgstr ""
 #: includes/extend/buddypress/loader.php:336
 #: templates/default/bbpress/user-details.php:49
 msgid "Engagements"
-msgstr ""
+msgstr "Dalyvavimas temose"
 
 #: includes/admin/settings.php:222
 msgid "Topic tags"
@@ -1753,11 +1753,11 @@ msgstr "Pradėtos temos"
 #: includes/extend/buddypress/loader.php:327
 #: templates/default/bbpress/user-details.php:42
 msgid "Replies Created"
-msgstr "Sukurta atsakymų"
+msgstr "Atsakymai"
 
 #: includes/admin/settings.php:437 includes/extend/buddypress/loader.php:346
 msgid "Favorite Topics"
-msgstr ""
+msgstr "Mėstamiausios temos"
 
 #: includes/admin/settings.php:466 includes/admin/tools/upgrade.php:371
 #: includes/extend/buddypress/functions.php:341
@@ -3673,15 +3673,15 @@ msgstr[2] ""
 #: includes/common/formatting.php:654
 msgid "%s week"
 msgid_plural "%s weeks"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%s savaitę"
+msgstr[1] "%s savaičių"
 msgstr[2] ""
 
 #: includes/common/formatting.php:655
 msgid "%s day"
 msgid_plural "%s days"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%s dieną"
+msgstr[1] "%s dienų"
 msgstr[2] ""
 
 #: includes/common/formatting.php:656
@@ -4232,7 +4232,7 @@ msgstr "Ieškoti forumuose..."
 #: includes/extend/buddypress/loader.php:356
 #: templates/default/bbpress/user-subscriptions.php:38
 msgid "Subscribed Topics"
-msgstr ""
+msgstr "Prenumeruojamos temos"
 
 #: includes/extend/buddypress/notifications.php:89
 msgid "You have %d new replies"
@@ -5947,7 +5947,7 @@ msgstr ""
 
 #: templates/default/bbpress/form-topic.php:155
 msgid "Topic Status:"
-msgstr ""
+msgstr "Temos būsena"
 
 #: templates/default/bbpress/form-topic.php:248
 msgid "You cannot create new topics."
@@ -6127,15 +6127,15 @@ msgstr "%s atsakymų"
 
 #: templates/default/bbpress/user-details.php:49
 msgid "%s's Engagements"
-msgstr ""
+msgstr "%s' temos"
 
 #: templates/default/bbpress/user-engagements.php:19
 msgid "Topics Engaged In"
-msgstr ""
+msgstr "Dalyvavimas temose"
 
 #: templates/default/bbpress/user-favorites.php:19
 msgid "Favorite Forum Topics"
-msgstr ""
+msgstr "Mėstamiausios forumo temos"
 
 #: templates/default/bbpress/user-profile.php:19
 msgid "Registered: %s"
@@ -6147,19 +6147,19 @@ msgstr "Tinklalapis: %s: "
 
 #: templates/default/bbpress/user-profile.php:38
 msgid "Last Activity: %s"
-msgstr ""
+msgstr "Paskutinė veikla %s"
 
 #: templates/default/bbpress/user-profile.php:42
 msgid "Topics Started: %s"
-msgstr ""
+msgstr "Pradėto temos: %s"
 
 #: templates/default/bbpress/user-profile.php:43
 msgid "Replies Created: %s"
-msgstr ""
+msgstr "Atsakymų skaičius: %s"
 
 #: templates/default/bbpress/user-profile.php:44
 msgid "Forum Role: %s"
-msgstr ""
+msgstr "Forumo vaidmuo: %s"
 
 #: templates/default/bbpress/user-replies-created.php:19
 msgid "Forum Replies Created"
@@ -6167,7 +6167,7 @@ msgstr "Forumo atsakymai"
 
 #: templates/default/bbpress/user-subscriptions.php:23
 msgid "Subscribed Forums"
-msgstr ""
+msgstr "Prenumeruojami forumai"
 
 #: templates/default/bbpress/user-topics-created.php:19
 msgid "Forum Topics Started"
@@ -6345,7 +6345,7 @@ msgstr ""
 #: includes/admin/topics.php:1004
 msgctxt "Open a Topic"
 msgid "Open"
-msgstr ""
+msgstr "Atidaryta"
 
 #: includes/common/formatting.php:728
 msgctxt "Separator in time since"
@@ -6487,12 +6487,12 @@ msgstr ""
 #: includes/topics/functions.php:1857 includes/topics/template.php:2581
 msgctxt "Open the topic"
 msgid "Open"
-msgstr ""
+msgstr "Atvira diskusijai"
 
 #: includes/topics/functions.php:1858
 msgctxt "Close the topic"
 msgid "Closed"
-msgstr ""
+msgstr "Uždaryta"
 
 #: includes/topics/template.php:2580
 msgctxt "Close the topic"

@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2021-08-17T19:57:19+00:00\n"
-"PO-Revision-Date: 2021-09-13 06:31+0000\n"
+"PO-Revision-Date: 2021-09-13 08:08+0000\n"
 "X-Generator: Loco https://localise.biz/\n"
 "X-Domain: woocommerce\n"
 "Language: lt_LT\n"
@@ -1060,7 +1060,7 @@ msgstr "Jungtinė Karalystė (UK)"
 
 #: i18n/countries.php:250
 msgid "United States (US)"
-msgstr "Jungtinės Amerikos Valstijos JAV "
+msgstr "Jungtinės Amerikos Valstijos (JAV) "
 
 #: i18n/countries.php:251
 msgid "United States (US) Minor Outlying Islands"
@@ -8971,7 +8971,7 @@ msgstr ""
 #: packages/woocommerce-admin/dist/chunks/analytics-report-stock.js:1
 #: packages/woocommerce-admin/dist/chunks/analytics-report-variations.js:1
 msgid "Status"
-msgstr ""
+msgstr "Būsena"
 
 #: includes/admin/class-wc-admin-dashboard.php:424
 #: includes/admin/list-tables/class-wc-admin-list-table-orders.php:126
@@ -9984,7 +9984,7 @@ msgstr ""
 
 #: includes/admin/class-wc-admin-profile.php:43
 #: includes/admin/settings/views/settings-tax.php:40
-msgid "Customer Užsakymo adresas"
+msgid "Customer billing address"
 msgstr ""
 
 #: includes/admin/class-wc-admin-profile.php:46
@@ -10120,7 +10120,7 @@ msgstr "Pasirinkite šalį / regioną&hellip;"
 #: templates/cart/shipping-calculator.php:55
 #: templates/cart/shipping-calculator.php:67
 msgid "State / County"
-msgstr " Valstybė"
+msgstr " Valstija"
 
 #: includes/admin/class-wc-admin-profile.php:82
 #: includes/admin/class-wc-admin-profile.php:142
@@ -10161,7 +10161,7 @@ msgid "Customer shipping address"
 msgstr ""
 
 #: includes/admin/class-wc-admin-profile.php:99
-msgid "Copy from Užsakymo adresas"
+msgid "Copy from billing address"
 msgstr ""
 
 #: includes/admin/class-wc-admin-profile.php:103
@@ -12712,7 +12712,7 @@ msgstr ""
 #: packages/woocommerce-admin/dist/chunks/analytics-report-orders.js:1
 #: packages/woocommerce-admin/dist/chunks/analytics-report-revenue.js:1
 msgid "Date"
-msgstr ""
+msgstr "Data"
 
 #: includes/admin/list-tables/class-wc-admin-list-table-orders.php:124
 #: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:317
@@ -12728,7 +12728,7 @@ msgstr ""
 #: includes/admin/reports/class-wc-report-stock.php:177
 #: includes/wc-account-functions.php:200
 msgid "Actions"
-msgstr ""
+msgstr "Veiksmai"
 
 #: includes/admin/list-tables/class-wc-admin-list-table-orders.php:145
 msgid "Change status to processing"
@@ -13338,7 +13338,7 @@ msgstr ""
 #: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:249
 #: packages/woocommerce-admin/dist/chunks/analytics-settings.js:1
 msgid "Status:"
-msgstr ""
+msgstr "Būsena:"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:254
 msgid "Customer payment page &rarr;"
@@ -13362,7 +13362,7 @@ msgid "Guest"
 msgstr ""
 
 #: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:320
-msgid "Load Užsakymo adresas"
+msgid "Load billing address"
 msgstr ""
 
 #: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:330
@@ -13371,14 +13371,14 @@ msgid "Address:"
 msgstr ""
 
 #: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:330
-msgid "No Užsakymo adresas set."
+msgid "No billing address set."
 msgstr ""
 
 #: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:396
 #: includes/class-wc-order.php:2058 templates/checkout/order-receipt.php:38
 #: templates/checkout/thankyou.php:70
 msgid "Payment method:"
-msgstr ""
+msgstr "Apmokėjimo metodas:"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:412
 #: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:414
@@ -13399,7 +13399,7 @@ msgid "Load shipping address"
 msgstr ""
 
 #: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:439
-msgid "Copy Užsakymo adresas"
+msgid "Copy billing address"
 msgstr ""
 
 #: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:449
@@ -15144,7 +15144,7 @@ msgstr ""
 #: packages/woocommerce-blocks/assets/js/editor-components/view-switcher/index.js:18
 #: packages/woocommerce-blocks/build/cart.js:29
 msgid "View"
-msgstr ""
+msgstr "Peržiūrėti"
 
 #. translators: %s: product count
 #. translators: %s number of products.
@@ -15592,7 +15592,7 @@ msgstr ""
 #: includes/admin/settings/class-wc-settings-advanced.php:247
 #: includes/class-wc-post-types.php:398
 msgid "View order"
-msgstr ""
+msgstr "Peržiūrėti užsakymą"
 
 #: includes/admin/settings/class-wc-settings-advanced.php:248
 msgid "Endpoint for the \"My account &rarr; View order\" page."
@@ -15630,7 +15630,7 @@ msgstr ""
 #: packages/woocommerce-blocks/build/checkout-frontend.js:29
 #: packages/woocommerce-blocks/build/checkout.js:29
 msgid "Payment methods"
-msgstr ""
+msgstr "Amokėjimo metodai"
 
 #: includes/admin/settings/class-wc-settings-advanced.php:284
 msgid "Endpoint for the \"My account &rarr; Payment methods\" page."
@@ -15916,7 +15916,7 @@ msgstr ""
 
 #: includes/admin/settings/class-wc-settings-general.php:80
 msgid "Country / State"
-msgstr ""
+msgstr "Valstija"
 
 #: includes/admin/settings/class-wc-settings-general.php:81
 msgid ""
@@ -16533,11 +16533,11 @@ msgid "Default to customer shipping address"
 msgstr ""
 
 #: includes/admin/settings/class-wc-settings-shipping.php:142
-msgid "Default to customer Užsakymo adresas"
+msgid "Default to customer billing address"
 msgstr ""
 
 #: includes/admin/settings/class-wc-settings-shipping.php:143
-msgid "Force shipping to the customer Užsakymo adresas"
+msgid "Force shipping to the customer billing address"
 msgstr ""
 
 #: includes/admin/settings/class-wc-settings-shipping.php:151
@@ -18900,8 +18900,8 @@ msgstr ""
 #: packages/woocommerce-blocks/src/StoreApi/Utilities/CartController.php:1067
 msgid "%s is a required field"
 msgid_plural "%s are required fields"
-msgstr[0] " "
-msgstr[1] "Laukai %s yra privalomi"
+msgstr[0] "%s yra privalomas laukas"
+msgstr[1] "Laukai %s yra privalomi laukai"
 msgstr[2] ""
 
 #. translators: 1: product link, 2: product name
@@ -19051,7 +19051,7 @@ msgstr ""
 #: includes/class-wc-checkout.php:834 includes/class-wc-form-handler.php:132
 #: includes/class-wc-form-handler.php:278
 msgid "%s is a required field."
-msgstr "%s yra privalomas."
+msgstr "%s yra privalomas laukas."
 
 #: includes/class-wc-checkout.php:853 includes/class-wc-form-handler.php:412
 msgid ""
@@ -19544,7 +19544,7 @@ msgid "Please enter a valid postcode / ZIP."
 msgstr ""
 
 #: includes/class-wc-form-handler.php:207
-msgid "Adresas buvo sėkmingai pakeistas."
+msgid "Address changed successfully."
 msgstr ""
 
 #: includes/class-wc-form-handler.php:261
@@ -20232,7 +20232,7 @@ msgstr ""
 
 #: includes/class-wc-post-types.php:329
 msgid "View product"
-msgstr ""
+msgstr "Peržiūrėti prekę"
 
 #: includes/class-wc-post-types.php:331
 #: packages/woocommerce-admin/dist/chunks/analytics-report-orders.js:1
@@ -20528,7 +20528,7 @@ msgstr ""
 #: includes/class-wc-post-types.php:563 includes/wc-order-functions.php:95
 msgctxt "Order status"
 msgid "Pending payment"
-msgstr ""
+msgstr "Laukiama apmokėjimo"
 
 #. translators: %s: number of orders
 #: includes/class-wc-post-types.php:569
@@ -20541,7 +20541,7 @@ msgstr[2] ""
 #: includes/class-wc-post-types.php:572 includes/wc-order-functions.php:96
 msgctxt "Order status"
 msgid "Processing"
-msgstr ""
+msgstr "Vykdomas"
 
 #. translators: %s: number of orders
 #: includes/class-wc-post-types.php:578
@@ -20554,7 +20554,7 @@ msgstr[2] ""
 #: includes/class-wc-post-types.php:581 includes/wc-order-functions.php:97
 msgctxt "Order status"
 msgid "On hold"
-msgstr ""
+msgstr "Sustabdytas"
 
 #. translators: %s: number of orders
 #: includes/class-wc-post-types.php:587
@@ -20567,7 +20567,7 @@ msgstr[2] ""
 #: includes/class-wc-post-types.php:590 includes/wc-order-functions.php:98
 msgctxt "Order status"
 msgid "Completed"
-msgstr ""
+msgstr "Užbaigtas"
 
 #. translators: %s: number of orders
 #: includes/class-wc-post-types.php:596
@@ -20580,7 +20580,7 @@ msgstr[2] ""
 #: includes/class-wc-post-types.php:599 includes/wc-order-functions.php:99
 msgctxt "Order status"
 msgid "Cancelled"
-msgstr ""
+msgstr "Atšauktas"
 
 #. translators: %s: number of orders
 #: includes/class-wc-post-types.php:605
@@ -20593,7 +20593,7 @@ msgstr[2] ""
 #: includes/class-wc-post-types.php:608 includes/wc-order-functions.php:100
 msgctxt "Order status"
 msgid "Refunded"
-msgstr ""
+msgstr "Gražintas"
 
 #. translators: %s: number of orders
 #: includes/class-wc-post-types.php:614
@@ -20606,7 +20606,7 @@ msgstr[2] ""
 #: includes/class-wc-post-types.php:617 includes/wc-order-functions.php:101
 msgctxt "Order status"
 msgid "Failed"
-msgstr ""
+msgstr "Nesėkminas"
 
 #. translators: %s: number of orders
 #. translators: %s: count
@@ -20635,12 +20635,12 @@ msgstr ""
 
 #: includes/class-wc-privacy-erasers.php:49
 #: includes/class-wc-privacy-exporters.php:188
-msgid "Užsakymo adresas 1"
+msgid "Billing Address 1"
 msgstr "Adresas"
 
 #: includes/class-wc-privacy-erasers.php:50
 #: includes/class-wc-privacy-exporters.php:189
-msgid "Užsakymo adresas 2"
+msgid "Billing Address 2"
 msgstr "Adresas"
 
 #: includes/class-wc-privacy-erasers.php:51
@@ -20813,7 +20813,7 @@ msgid "Browser User Agent"
 msgstr ""
 
 #: includes/class-wc-privacy-exporters.php:257
-msgid "Užsakymo adresas"
+msgid "Billing Address"
 msgstr "Adresas"
 
 #: includes/class-wc-privacy-exporters.php:258
@@ -20937,7 +20937,7 @@ msgstr ""
 #: includes/class-wc-privacy.php:97
 msgid ""
 "When you purchase from us, we’ll ask you to provide information including "
-"your name, Užsakymo adresas, shipping address, email address, phone number, "
+"your name, billing address, shipping address, email address, phone number, "
 "credit card/payment details and optional account information like username "
 "and password. We’ll use this information for purposes, such as, to:"
 msgstr ""
@@ -21668,7 +21668,7 @@ msgstr ""
 #. translators: %s: Order date
 #: includes/data-stores/abstract-wc-order-data-store-cpt.php:264
 msgid "Order &ndash; %s"
-msgstr ""
+msgstr "Užsakymas &ndash; %s"
 
 #: includes/data-stores/abstract-wc-order-item-type-data-store.php:135
 msgid "Invalid order item."
@@ -24459,7 +24459,7 @@ msgstr ""
 #: includes/rest-api/Controllers/Version1/class-wc-rest-customers-v1-controller.php:723
 #: includes/rest-api/Controllers/Version2/class-wc-rest-customers-v2-controller.php:195
 #: includes/rest-api/Controllers/Version3/class-wc-rest-customers-controller.php:150
-msgid "List of Užsakymo adresas data."
+msgid "List of billing address data."
 msgstr ""
 
 #: includes/rest-api/Controllers/Version1/class-wc-rest-customers-v1-controller.php:728
@@ -25085,8 +25085,8 @@ msgstr ""
 #: includes/rest-api/Controllers/Version2/class-wc-rest-orders-v2-controller.php:1092
 #: packages/woocommerce-blocks/src/StoreApi/Routes/CartUpdateCustomer.php:47
 #: packages/woocommerce-blocks/src/StoreApi/Schemas/CheckoutSchema.php:92
-msgid "Užsakymo adresas."
-msgstr "Užsakymo adresas."
+msgid "Billing address."
+msgstr ""
 
 #: includes/rest-api/Controllers/Version1/class-wc-rest-orders-v1-controller.php:1075
 #: includes/rest-api/Controllers/Version1/class-wc-rest-orders-v1-controller.php:1138
@@ -30796,7 +30796,7 @@ msgstr ""
 #: packages/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:38
 #: packages/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:39
 msgid "View Action"
-msgstr ""
+msgstr "Peržiūrėti veiksmą"
 
 #: packages/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:40
 msgid "Search Scheduled Actions"
@@ -34906,7 +34906,7 @@ msgid "Current set shipping address for the customer."
 msgstr ""
 
 #: packages/woocommerce-blocks/src/StoreApi/Schemas/CartSchema.php:147
-msgid "Current set Užsakymo adresas for the customer."
+msgid "Current set billing address for the customer."
 msgstr ""
 
 #: packages/woocommerce-blocks/src/StoreApi/Schemas/CartSchema.php:154
@@ -35591,7 +35591,7 @@ msgid "shipping address"
 msgstr "pristatymo adresas"
 
 #: packages/woocommerce-blocks/src/StoreApi/Utilities/OrderController.php:273
-msgid "Užsakymo adresas"
+msgid "billing address"
 msgstr "adresas"
 
 #: packages/woocommerce-blocks/src/StoreApi/Utilities/OrderController.php:331
@@ -35602,7 +35602,7 @@ msgstr "Valstybė"
 #: packages/woocommerce-blocks/src/StoreApi/Utilities/OrderController.php:339
 #: packages/woocommerce-blocks/build/wc-settings.js:1
 msgid "State/County"
-msgstr "Valstybė"
+msgstr "Valstija"
 
 #. translators: %s Field label.
 #: packages/woocommerce-blocks/src/StoreApi/Utilities/OrderController.php:360
@@ -35981,7 +35981,7 @@ msgstr ""
 
 #: templates/checkout/order-receipt.php:29 templates/checkout/thankyou.php:52
 msgid "Date:"
-msgstr ""
+msgstr "Data:"
 
 #: templates/checkout/payment.php:33
 msgid ""
@@ -36166,7 +36166,7 @@ msgstr ""
 #: packages/woocommerce-blocks/assets/js/blocks/cart-checkout/checkout/form/billing-fields-step.js:16
 #: packages/woocommerce-blocks/build/checkout-frontend.js:29
 #: packages/woocommerce-blocks/build/checkout.js:29
-msgid "Užsakymo adresas"
+msgid "Billing address"
 msgstr "Adresas"
 
 #: templates/emails/email-addresses.php:43
@@ -36193,7 +36193,7 @@ msgstr ""
 #. translators: %1$s: Order ID. %2$s: Order date
 #: templates/emails/plain/email-order-details.php:23
 msgid "[Order #%1$s] (%2$s)"
-msgstr ""
+msgstr "[Užsakymas #%1$s] (%2$s)"
 
 #. translators: %s: Order link.
 #: templates/emails/plain/email-order-details.php:51
@@ -36265,7 +36265,7 @@ msgstr "Labas, %1$s (ne %1$s? <a href=\"%2$s\">Atsijungti</a>)"
 #: templates/myaccount/dashboard.php:45
 msgid ""
 "From your account dashboard you can view your <a href=\"%1$s\">recent "
-"orders</a>, manage your <a href=\"%2$s\">Užsakymo adresas</a>, and <a "
+"orders</a>, manage your <a href=\"%2$s\">billing address</a>, and <a "
 "href=\"%3$s\">edit your password and account details</a>."
 msgstr ""
 "Paskyros suvestinėje galite peržiūrėti <a href=\"%1$s\"> naujausius "
@@ -36278,7 +36278,7 @@ msgstr ""
 #: templates/myaccount/dashboard.php:48
 msgid ""
 "From your account dashboard you can view your <a href=\"%1$s\">recent "
-"orders</a>, manage your <a href=\"%2$s\">shipping and Užsakymo adresases</a>, "
+"orders</a>, manage your <a href=\"%2$s\">shipping and billing addresses</a>, "
 "and <a href=\"%3$s\">edit your password and account details</a>."
 msgstr ""
 "Paskyros suvestinėje galite peržiūrėti <a href=\"%1$s\"> naujausius "
@@ -36402,8 +36402,8 @@ msgstr ""
 #: templates/myaccount/my-orders.php:75 templates/myaccount/orders.php:61
 msgid "%1$s for %2$s item"
 msgid_plural "%1$s for %2$s items"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%1$s už %2$s prekę"
+msgstr[1] "%1$s už %2$s prekes"
 msgstr[2] ""
 
 #: templates/myaccount/orders.php:89
@@ -37257,8 +37257,8 @@ msgstr ""
 #: packages/woocommerce-admin/dist/chunks/analytics-report-taxes.js:1
 msgid "order"
 msgid_plural "orders"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "užsakymas"
+msgstr[1] "užsakymai"
 msgstr[2] ""
 
 #: packages/woocommerce-admin/dist/chunks/analytics-report-categories.js:1
@@ -40913,7 +40913,7 @@ msgstr ""
 #: packages/woocommerce-blocks/build/atomic-block-components/add-to-cart-frontend.js:3
 #: packages/woocommerce-blocks/build/atomic-block-components/add-to-cart.js:3
 msgid "View Product"
-msgstr ""
+msgstr "Peržiūrėti prekę"
 
 #. translators: %s number of products in cart.
 #: packages/woocommerce-blocks/assets/js/atomic/blocks/product-elements/add-to-cart/shared/add-to-cart-button.js:155
@@ -42389,7 +42389,7 @@ msgstr ""
 #: packages/woocommerce-blocks/build/checkout-frontend.js:33
 #: packages/woocommerce-blocks/build/checkout.js:33
 msgid "Payment method"
-msgstr ""
+msgstr "Amokėjimo metodas"
 
 #: packages/woocommerce-blocks/assets/js/blocks/cart-checkout/checkout/form/payment-method-step.js:37
 #: packages/woocommerce-blocks/build/checkout-frontend.js:33
@@ -44356,7 +44356,7 @@ msgstr ""
 
 #: packages/woocommerce-blocks/build/wc-blocks-google-analytics.js:1
 msgid "Payment Method"
-msgstr ""
+msgstr "Amokėjimo metodas"
 
 #: packages/woocommerce-blocks/build/wc-blocks-google-analytics.js:1
 msgid "Remove Cart Item"

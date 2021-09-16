@@ -148,9 +148,9 @@ class Import extends View {
 						data-multiple-caption="{count} <?php esc_attr_e( 'files selected', 'wpforms-lite' ); ?>"
 						accept=".json" />
 					<label for="wpforms-tools-form-import">
-						<span class="fld"><span class="placeholder"><?php esc_html_e( 'No file chosen', 'wpforms-lite' ); ?></span></span>
+						<span class="fld"><span class="placeholder"><?php esc_html_e( 'Paveikslėlis nepasirinktas', 'wpforms-lite' ); ?></span></span>
 						<strong class="wpforms-btn wpforms-btn-md wpforms-btn-light-grey">
-							<i class="fa fa-upload"></i><?php esc_html_e( 'Choose a file&hellip;', 'wpforms-lite' ); ?>
+							<i class="fa fa-upload"></i><?php esc_html_e( 'Pasirinkite failą&hellip;', 'wpforms-lite' ); ?>
 						</strong>
 					</label>
 				</div>

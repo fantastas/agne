@@ -8,10 +8,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2021-08-26T13:45:40+03:00\n"
-"PO-Revision-Date: 2021-09-12 12:59+0000\n"
+"PO-Revision-Date: 2021-09-16 06:56+0000\n"
 "X-Generator: Loco https://localise.biz/\n"
 "X-Domain: wpforms-lite\n"
-"\n"
 "Language: lt_LT\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 "
 "&&(n%100<10||n%100 >= 20)? 1 : 2);\n"
@@ -2697,6 +2696,7 @@ msgid "%s form was successfully deleted."
 msgid_plural "%s forms were successfully deleted."
 msgstr[0] ""
 msgstr[1] ""
+msgstr[2] ""
 
 #. translators: %s - Duplicated forms count.
 #: includes/admin/overview/class-overview.php:189
@@ -2704,6 +2704,7 @@ msgid "%s form was successfully duplicated."
 msgid_plural "%s forms were successfully duplicated."
 msgstr[0] ""
 msgstr[1] ""
+msgstr[2] ""
 
 #: includes/admin/overview/class-overview.php:196
 msgid "Security check failed. Please try again."
@@ -3518,6 +3519,7 @@ msgid "Text can't exceed %d character."
 msgid_plural "Text can't exceed %d characters."
 msgstr[0] ""
 msgstr[1] ""
+msgstr[2] ""
 
 #. translators: %s - limit words number.
 #: includes/fields/class-text.php:497 includes/fields/class-textarea.php:352
@@ -3525,6 +3527,7 @@ msgid "Text can't exceed %d word."
 msgid_plural "Text can't exceed %d words."
 msgstr[0] ""
 msgstr[1] ""
+msgstr[2] ""
 
 #: includes/fields/class-textarea.php:18
 msgid "Paragraph Text"
@@ -6405,7 +6408,7 @@ msgstr ""
 
 #: src/Admin/Tools/Views/Import.php:151
 msgid "No file chosen"
-msgstr ""
+msgstr "Paveikslėlis nepasirinktas"
 
 #: src/Admin/Tools/Views/Import.php:153
 msgid "Choose a file&hellip;"
@@ -7388,12 +7391,14 @@ msgid "minute"
 msgid_plural "minutes"
 msgstr[0] ""
 msgstr[1] ""
+msgstr[2] ""
 
 #: templates/admin/challenge/embed.php:63
 msgid "second"
 msgid_plural "seconds"
 msgstr[0] ""
 msgstr[1] ""
+msgstr[2] ""
 
 #: templates/admin/challenge/embed.php:79
 msgid "Rate WPForms on WordPress.org"

@@ -222,11 +222,11 @@ class WP_User_Avatar {
 					name="<?php echo ( 'add-new-user' == $user ) ? 'wpua-add' : 'wpua-add-existing' ?>"
 					data-title="<?php printf(
 						/* translators: user display name */
-						__( 'Choose Image: %s', 'one-user-avatar' ),
+						__( 'Pasirinkta nuotrauka: %s', 'one-user-avatar' ),
 						( ! empty( $user->display_name ) ? esc_attr( $user->display_name ) : '' )
 					); ?>"
 				>
-					<?php _e( 'Choose Image', 'one-user-avatar' ); ?>
+					<?php _e( 'Pasirinkite nuotrauką', 'one-user-avatar' ); ?>
 				</button>
 			</p>
 

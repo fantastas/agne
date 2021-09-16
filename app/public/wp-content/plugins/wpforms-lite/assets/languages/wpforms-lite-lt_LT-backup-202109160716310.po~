@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2021-08-26T13:45:40+03:00\n"
-"PO-Revision-Date: 2021-09-16 07:16+0000\n"
+"PO-Revision-Date: 2021-09-16 06:56+0000\n"
 "X-Generator: Loco https://localise.biz/\n"
 "X-Domain: wpforms-lite\n"
 "Language: lt_LT\n"
@@ -6412,7 +6412,7 @@ msgstr "Paveikslėlis nepasirinktas"
 
 #: src/Admin/Tools/Views/Import.php:153
 msgid "Choose a file&hellip;"
-msgstr "Pasirinkite failą"
+msgstr ""
 
 #: src/Admin/Tools/Views/Import.php:177
 msgid "Import from Other Form Plugins"

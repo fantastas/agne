@@ -151,7 +151,7 @@ function wp_authenticate_username_password( $user, $username, $password ) {
 			'invalid_username',
 			sprintf(
 				/* translators: %s: User name. */
-				__( '<strong>Klaida</strong>: Vartotojo vardas <strong>%s</strong> nėra registruotas sistemoje. Jei pamiršote vartotojo vardą, pabandykite prisijungti su savo el. pšto adresu.' ),
+				__( '<strong>Klaida</strong>: Vartotojo vardas <strong>%s</strong> nėra registruotas sistemoje. Jei pamiršote vartotojo vardą, pabandykite prisijungti su savo el. pašto adresu.' ),
 				$username
 			)
 		);

@@ -249,7 +249,7 @@ class WP_User_Avatar {
 					printf(
 						/* translators: file size in KB */
 						__( 'Maximum upload file size: %s.', 'one-user-avatar' ),
-						esc_html($wpua_upload_size_limit_with_units) . esc_html('KB')
+						esc_html($wpua_upload_size_limit_with_units)
 					);
 					?>
 				</span>
